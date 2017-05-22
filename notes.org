@@ -1,0 +1,89 @@
+
+** BUILD SYSTEMS
+*** Meson-Ninja
+http://mesonbuild.com
+https://ninja-build.org/
+
+
+** GIT
+http://rogerdudler.github.io/git-guide/
+
+** GSTREAMER
+Upstream : https://cgit.freedesktop.org/
+Mirrored : https://github.com/GStreamer
+
+FAQ
+http://gstreamer.freedesktop.org/data/doc/gstreamer/head/faq/html/
+
+DOCS
+http://gstreamer.freedesktop.org/documentation
+
+*** Cerbero
+Upstream : git://anongit.freedesktop.org/gstreamer/cerbero
+Mirrored : https://github.com/GStreamer/cerbero
+
+Doc
+https://github.com/centricular/cerbero-docs/blob/master/start.md
+https://gstreamer.freedesktop.org/documentation/installing/building-from-source-using-cerbero.html
+
+
+** RASPBERRYPI 
+
+*** Building NOOBS from source
+
+noob build fail: RCC: Error in 'icons.qrc': Cannot find file 'translation_ca.qm'
+./buildroot/output/host/usr/bin/lrelease ./recovery/translation_*.ts
+
+*** Serial Port
+Rpi 3 onwards :
+/dev/tty0 or 
+/dev/serial0 -- maps to correct port irrespective of model
+http://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/
+http://elinux.org/RPi_Serial_Connection
+
+
+*** PROJECTS
+
+**** SERVER
+
+***** CLOUD - Owncloud
+Open sourced. Mature. Has enterprise edition also.
+https://owncloud.org/
+
+***** CLOUD - CloudNimbus
+https://cloudnimbus.org/
+Close sourced. Still in development.
+
+***** SambaServer
+
+***** GitServer
+
+***** Webserver
+How to set up a secure Raspberry Pi web server, mail server and Owncloud installation
+https://www.pestmeester.nl/
+
+**** Timelapse camera
+
+**** Presentation
+
+
+** CONSOLIDATE DATA
+
+Hook old drive to Linux
+Scanfor virus
+Repeat
+
+Get new drive
+Transfer data
+Format old drive and use for backups
+
+** CHINPI
+
+*** Presentation
+
+*** OwnCloud
+
+*** Camera streaming
+
+*** Camera timelapse
+
