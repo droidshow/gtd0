@@ -44,11 +44,14 @@ http://elinux.org/RPi_Serial_Connection
 
 *** PROJECTS
 
+http://stevenhickson.blogspot.com/
+
 **** SERVER
 
 ***** CLOUD - Owncloud
 Open sourced. Mature. Has enterprise edition also.
 https://owncloud.org/
+http://www.techradar.com/how-to/computing/how-to-set-up-a-raspberry-pi-powered-cloud-service-1316017/2
 
 ***** CLOUD - CloudNimbus
 https://cloudnimbus.org/
