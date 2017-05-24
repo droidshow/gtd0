@@ -8,6 +8,7 @@ https://ninja-build.org/
 ** GIT
 http://rogerdudler.github.io/git-guide/
 
+
 ** GSTREAMER
 Upstream : https://cgit.freedesktop.org/
 Mirrored : https://github.com/GStreamer
@@ -27,20 +28,53 @@ https://github.com/centricular/cerbero-docs/blob/master/start.md
 https://gstreamer.freedesktop.org/documentation/installing/building-from-source-using-cerbero.html
 
 
+** HARD DISK HEALTH
+sudo apt get install smartmontools
+smartctl 
+https://www.smartmontools.org/
+https://wiki.archlinux.org/index.php/S.M.A.R.T.
+
 ** RASPBERRYPI 
 
 *** Building NOOBS from source
 
-noob build fail: RCC: Error in 'icons.qrc': Cannot find file 'translation_ca.qm'
-./buildroot/output/host/usr/bin/lrelease ./recovery/translation_*.ts
+ERR : noob build fail: RCC: Error in 'icons.qrc': Cannot find file 'translation_ca.qm'
+SLN :  ./buildroot/output/host/usr/bin/lrelease ./recovery/translation_*.ts
 
-*** Serial Port
-Rpi 3 onwards :
-/dev/tty0 or 
-/dev/serial0 -- maps to correct port irrespective of model
-http://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/
-http://elinux.org/RPi_Serial_Connection
+*** CONFIG
+https://github.com/RPi-Distro/raspi-config
 
+sudo raspi-config // /boot/config.txt
+ user/password
+ hostname
+ ssh
+ spi/i2c/serial/audio
+
+vcgencmd get_config <config>
+
+**** Initial Config
+Edit .barsh under /etc/skel
+sudo adduser <username>
+update-alternatives --set editor /usr/bin/vim.tiny
+sudo visudo
+<username>   ALL = NOPASSWD: ALL
+sudo userdel -r pi
+#retboot
+#login with new <username>
+sudo raspi-config
+#check user/password
+#change hostname
+#enable ssh
+#enable spi/i2c/serial/audio
+
+***** DO Customisation script/patch-file for new installs
+
+**** Audio
+amixer cset numid=3 0 # 0:Auto 1:Analog 2:HDMI
+
+
+*** STARTED DEVICE TREE
+https://www.raspberrypi.org/documentation/configuration/device-tree.md
 
 *** PROJECTS
 
@@ -70,6 +104,22 @@ https://www.pestmeester.nl/
 **** Presentation
 
 
+*** REMOTE CONNECTIVITY
+https://www.raspberrypi.org/documentation/remote-access/access-over-Internet/README.md
+**** Without port forwarding
+https://www.dataplicity.com/ 1st device free, $2/mon
+https://remote-iot.com/web/pricing.htm $5, 50 devices
+**** VNC
+https://www.raspberrypi.org/documentation/remote-access/vnc/README.md
+
+*** Serial Port
+Rpi 3 onwards :
+/dev/tty0 or 
+/dev/serial0 -- maps to correct port irrespective of model
+http://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/
+http://elinux.org/RPi_Serial_Connection
+
+
 ** CONSOLIDATE DATA
 
 Hook old drive to Linux
@@ -79,6 +129,7 @@ Repeat
 Get new drive
 Transfer data
 Format old drive and use for backups
+
 
 ** CHINPI
 
