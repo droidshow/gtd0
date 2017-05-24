@@ -54,6 +54,7 @@ sudo raspi-config // /boot/config.txt
 vcgencmd get_config <config>
 
 **** Initial Config
+passwd #change default password
 Edit .barsh under /etc/skel
 sudo adduser <username>
 update-alternatives --set editor /usr/bin/vim.tiny
