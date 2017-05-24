@@ -34,6 +34,7 @@ smartctl
 https://www.smartmontools.org/
 https://wiki.archlinux.org/index.php/S.M.A.R.T.
 
+
 ** RASPBERRYPI 
 
 *** Building NOOBS from source
@@ -94,6 +95,13 @@ Close sourced. Still in development.
 ***** SambaServer
 
 ***** GitServer
+https://git-scm.com/book/en/v2/Git-on-the-Server-Getting-Git-on-a-Server
+
+sudo apt-get install wget git-core
+/dev/sda1 /home/pi/usbdrv vfat uid=pi,gid=pi,umask=0022,sync,auto,nosuid,rw,nouser 0 0
+
+sudo apt-get install git
+sudo adduser git
 
 ***** Webserver
 How to set up a secure Raspberry Pi web server, mail server and Owncloud installation
