@@ -140,13 +140,5 @@ Transfer data
 Format old drive and use for backups
 
 
-** CHINPI
 
-*** Presentation
-
-*** OwnCloud
-
-*** Camera streaming
-
-*** Camera timelapse
 
