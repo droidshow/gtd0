@@ -10,7 +10,8 @@ http://rogerdudler.github.io/git-guide/
 
 
 ** GSTREAMER
-Upstream : https://cgit.freedesktop.org/
+Upstream : git://anongit.freedesktop.org/gstreamer/
+           https://cgit.freedesktop.org/gstreamer/
 Mirrored : https://github.com/GStreamer
 
 FAQ
@@ -18,6 +19,13 @@ http://gstreamer.freedesktop.org/data/doc/gstreamer/head/faq/html/
 
 DOCS
 http://gstreamer.freedesktop.org/documentation
+
+ GLib
+ https://developer.gnome.org/glib/stable/
+
+ GObject
+ https://developer.gnome.org/gobject/stable/
+>>>  https://developer.gnome.org/gobject/stable/chapter-gobject.html
 
 *** Cerbero
 Upstream : git://anongit.freedesktop.org/gstreamer/cerbero
@@ -34,6 +42,11 @@ smartctl
 https://www.smartmontools.org/
 https://wiki.archlinux.org/index.php/S.M.A.R.T.
 
+
+** LINUX
+
+*** Secure programming
+https://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html
 
 ** RASPBERRYPI 
 
@@ -89,13 +102,13 @@ Open sourced. Mature. Has enterprise edition also.
 https://owncloud.org/
 http://www.techradar.com/how-to/computing/how-to-set-up-a-raspberry-pi-powered-cloud-service-1316017/2
 
-***** CLOUD - CloudNimbus
+***** DONE CLOUD - CloudNimbus
 https://cloudnimbus.org/
 Close sourced. Still in development.
 
 ***** SambaServer
 
-***** GitServer
+***** DONE GitServer
 https://git-scm.com/book/en/v2/Git-on-the-Server-Getting-Git-on-a-Server
 
 - SERVER:
