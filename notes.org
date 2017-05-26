@@ -98,11 +98,57 @@ Close sourced. Still in development.
 ***** GitServer
 https://git-scm.com/book/en/v2/Git-on-the-Server-Getting-Git-on-a-Server
 
-sudo apt-get install wget git-core
-/dev/sda1 /home/pi/usbdrv vfat uid=pi,gid=pi,umask=0022,sync,auto,nosuid,rw,nouser 0 0
+- SERVER:
+passwd
+sudo raspi-config // enable ssh etc
+sudo apt-get update
+sudo apt-get upgrade
 
+- CLIENT:
+ssh-keygen
+scp ~/.ssh/id_rsa <username>@<ipaddr>:/tmp/
+
+SERVER
 sudo apt-get install git
 sudo adduser git
+su git
+cd
+mkdir .ssh
+chmod 700 .ssh
+touch .ssh/authorized_keys
+chmod 600 .ssh/authorized_keys
+cat /tmp/id_rsa_hom.pub >> .ssh/authorized_keys
+sudo groupadd git-scm
+sudo usermod -g git-scm git
+
+sudo mkdir /srv/git
+sudo chgrp git-scm /srv/git
+sudo chmod 775 /srv/git
+
+mkdir /srv/git/<project>.git
+cd <project>.git
+git init --bare --shared
+
+- CLIENT:
+cd <>
+git config --local user.name "<>"
+git config --local user.email "<>"
+git init
+echo -e ".gitignore\n*~\n" > .gitignore
+git add .
+git commit -m "Initial commit"
+git remote add origin git@<>:/srv/git/gtd2.git
+git push origin master
+
+- SERVER
+cat /etc/shells   # see if `git-shell` is already in there.  If not...
+which git-shell   # make sure git-shell is installed on your system.
+sudo nano /etc/shells  # and add the path to git-shell from last command
+sudo chsh git -s $(which git-shell)
+
+
+
+
 
 ***** Webserver
 How to set up a secure Raspberry Pi web server, mail server and Owncloud installation
