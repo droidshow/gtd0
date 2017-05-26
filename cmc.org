@@ -1,0 +1,417 @@
+
+* CMC
+** TASKS
+*** Pest Control
+**** Procure thrist inducing tablets :ONLINE:ATWALMART:
+**** Spread tables around the facility :ATCMC:
+*** Frames of Saraswathi and Gurudev in all classrooms
+*** Hooks on false ceiling for decoration
+*** Reverse HDMI cable :VINOD:ATCMC:
+*** Outside lamp :ATCMC:
+**** Find the type of the bulb :ATCMC:
+**** Check in Costco for the bulb type :ATCOSTCO:ATMENARDS:
+*** Fix shower pipes leakage
+*** Propose at EC meeting for premium parking                     :ECMEETING:
+*** DONE Ask for someone to be present at teh Mission on May 17th for HVAC maintenance :ECMEETING:
+    CLOSED: [2017-05-24 Wed 21:48]
+*** DONE 2017-05-20 Sprayed insecticide
+    CLOSED: [2017-05-24 Wed 21:48]
+*** New fire alarms
+*** New exit sign with small batteries and led lights
+*** SCHED Pay Scott $88.68 + $120                             :SCOTT:PAYMENT:
+    SCHEDULED: <2017-04-30 Sun>
+*** DONE Check weed killer effectiveness                                :CMC:
+    SCHEDULED: <2017-04-30 Sun>
+*** DONE 2017-04-26 Wed Watered, Preened and sprayed 2 kinds of weed killer :LANDSCAPE:
+
+** SOMEDAY
+*** TV screen cast
+**** Microsoft Windows 8
+***** Register as non-profit
+
+
+
+*** Shram Dhaan
+Shram Dhaan
+
+In the BMI chart What is one thing preventing you from connecting to your goal?
+
+Ans V
+
+How to remove V
+Selfless service done with dedication
+
+Theoretical knowledge is as good as gold for the donkey on its back. Use ur knowledge. Be practical and use it in the world. But before using it in the world use it in a lab. Use CM as your lab.
+
+Seva Dhaan
+Giving more than what you take.
+
+*** Register with Microsoft for non-profit
+**** Recover techsoup password
+**** Finish registration with techsoup
+*** Register with Costco non-profit
+*** Students feedback
+Anonymous Survey to Feedback from senior students on making CM cool and exciting.
+
+What would you have done differently if you were in charge?
+
+What would make you want to come to CM ?
+
+What 3 things you would stop doing.
+
+What 3 things would you start doing?
+
+Why would you volunteer your time during weekend and events
+
+Why wouldn't you volunteer your time
+*** Cushion carpets for sitting
+
+*** Events media management
+- HDMI Switch
+- 2 Laptops handled by 2 personnel
+- Arrange presentations, video, audio upfront
+- Fill in audio
+- Applause audio
+- Audio mixer
+- Color label the mics
+** PROJECTS
+*** CHINPI
+**** Presentation
+
+**** OwnCloud
+
+**** Camera streaming
+
+**** Camera timelapse
+** CALENDAR
+:PROPERTIES:
+:CATEGORY: CMC-Calendar
+:END:
+
+*** FESTIVALS / EVENTS
+**** Guruji Jayanthi
+**** Gurudev Jayanthi
+**** Gurudev Mahasamadhi
+**** Annual Day
+
+*** DO RECURRING
+**** SCHED For winter Switch off water supply to outside outlet :MAINTENANCE:WATER:RECURRING:
+     SCHEDULED: <2017-10-15 Sun ++1y>
+**** HVAC MAINTENANCE
+***** SCHED Get filters for HVAC                 :HVAC:MAINTENANCE:RECURRING:
+      SCHEDULED: <2017-09-01 Fri ++6m>
+      - State "DONE"       from "APPT"       [2017-05-24 Wed 21:51]
+      :PROPERTIES:
+      :LAST_REPEAT: [2017-05-24 Wed 21:51]
+      :END:
+***** SCHED Confirm HVAC maintenance schedule with Comfort Express :HVAC:MAINTENANCE:RECURRING:
+      SCHEDULED: <2017-10-30 Mon ++6m>
+      - State "DONE"       from "APPT"       [2017-05-24 Wed 21:51]
+      :PROPERTIES:
+      :LAST_REPEAT: [2017-05-24 Wed 21:51]
+      :END:
+**** SCHED FIRE INSPECTION
+***** Check all the exit sign are working & replace batteries if necessary
+***** Check that the fire extinguishers are filled
+***** Check all smoke detectors are working and replace batteries if necessary
+***** Call and schedule inspection with the Fire Marshal
+**** LANDSCAPE
+***** SCHED Schedule Spring cleanup                    :LANDSACE:MAINTENANCE:
+      SCHEDULED: <2018-04-01 Sun ++1y>
+***** SCHED Schedule Fall cleanup                     :LANDSACE:MAINTENANCE:
+      SCHEDULED: <2017-10-15 Sun ++1y>
+***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
+      SCHEDULED: <2017-05-26 Fri ++1m>
+      - State "DONE"       from "DEFERRED"   [2017-05-01 Mon 06:53]
+      :PROPERTIES:
+      :LAST_REPEAT: [2017-05-01 Mon 06:53]
+      :END:
+***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
+      SCHEDULED: <2017-05-28 Sun ++7d>
+***** DO Lawn moving
+
+**** DO CLEANUP
+     SCHEDULED: <2017-06-15 Thu ++6m>
+Refer [[Cleaning Checklist]]
+
+***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
+      SCHEDULED: <2017-05-28 Sun ++4w>
+      - State "DONE"       from "DEFERRED"   [2017-05-10 Wed 07:28]
+      :PROPERTIES:
+      :LAST_REPEAT: [2017-05-10 Wed 07:28]
+      :END:
+
+**** PEST CONTROL
+***** DO Get ecosmart after current solution runs out
+***** SCHED Spray insecticide around the perimeter and inside :CMC:MAINTENANCE:
+      SCHEDULED: <2019-04-30 Tue ++1y>
+      - State "DONE"       from "APPT"       [2017-05-24 Wed 21:54]
+      - State "DONE"       from "DEFERRED"   [2017-05-01 Mon 06:52]
+      :PROPERTIES:
+      :LAST_REPEAT: [2017-05-24 Wed 21:54]
+      :END:
+
+*** REMINDER
+
+** REFERNCE
+*** CHECKLISTS
+**** <<Cleaning Checklist>>
+***** Miscellaneous
+- [ ] Classroom fans and lights
+- [ ] Doors & Windows
+- [ ] Supplies closet on 2nd Floor
+- [ ] Photos throughout the facility
+- [ ] Stairs
+- [ ] Main entrance patio
+- [ ] Hallway and stairs & walls hand railings
+- [ ] Outside rake the flowerbed where mouse holes are visible
+- [ ] Mold on sidings, wipe ?
+- [ ] Rain gutter repair ( call Scott @ 614-526-9655)
+
+***** Tapovan Hall
+- [ ]   Altar
+- [ ]   Ceiling ( A few new ceiling tiles should be available in the utility closet)
+- [ ]   Walls
+- [ ]   Photos
+- [ ]   Closets x 2
+- [ ]   Mike
+- [ ]   Behind door
+- [ ]   Curtain
+
+***** Office | BookStall | Library
+- [ ]   Boxes
+- [ ]   Wall
+- [ ]   Floor
+- [ ]   Wires
+
+***** Room before Tapovan Hall
+- [ ]   Floor
+- [ ]   Utility closet
+- [ ]   Altar
+- [ ]   Notice board
+- [ ]   Wall, some have kids scribblings
+
+***** Bathroom
+- [ ]   Closet
+- [ ]   Vaccum cleaner
+- [ ]   Bowls
+- [ ]   Ramp (Ask Saran to return this to U-HAUL)
+
+***** Kitchen
+- [ ]   Closet
+- [ ]   Sink
+- [ ]   Under the sink
+- [ ]   Garbage dumpster 
+- [ ]   Walls ( particularly the door and the wall near the dumpster)
+- [ ]   Book shelf
+- [ ]   Materials in and around the shelf near the microwave
+
+***** Upstairs Bathroom
+- [ ]   Boxes
+- [ ]   Bowls
+
+
+***** Classrooms
+- [ ]  Floor
+- [ ]  Walls
+- [ ]  Ceiling
+- [ ]  Closet
+  
+
+**** Balvihar Opening Checklist
+- [ ] Start/set 3x AC/heater
+- [ ] Check bathroom supplies
+- [ ] Change calendar date
+- [ ] Prepare chandana
+
+
+**** Balvihar Closing Checklist 
+- [ ] Shutdown projector
+- [ ] Keep laptop & chart in office
+- [ ] Take trash cover and empty all classrooms and bathrooms trash
+- [ ] Reset A/C Heater
+- [ ] Vacuum
+- [ ] Remove trash and put fresh cover
+- [ ] Shutoff lights
+- [ ] Enable security
+- [ ] Lock and leave
+
+* OLD
+
+** DONE Website inputs
+Survey
+Email / privacy should not leak out to thirdparty 
+Workflow built in
+Tracking, todo list
+Security requirements
+Simple interface
+- where
+- contact
+- upcoming events
+
+
+
+** DONE Send bala the scanned copy of the material cost for CM   :BALA:GMAIL:
+   SCHEDULED: <2017-03-24 Fri>
+** DONE Reimburse battery cost                               :BALA:CMC:GMAIL:
+   CLOSED: [2017-05-24 Wed 21:56]
+** DONE Return old batteries                                            :CMC:
+   SCHEDULED: <2017-03-12 Sun>
+** DONE Increase the shelf size                                         :CMC:
+   SCHEDULED: <2017-03-12 Sun>
+
+** DONE Get A/C Filters from Menards,                      :CMC:TASK:MENARDS:
+   CLOSED: [2017-05-24 Wed 21:56]
+  A/C filters  
+  2x4
+
+
+** DONE Send mail to Milind on Building FAQs          :GMAIL:MILIND:BUILDING:
+FAQs from the Building Update session on 03/04/2017
+
+Q. How does bank meet the rest of the funds
+A. Based on current pledges and property value banks will lend upto $4million. Currrent estimate 2-3 mils. Good history of loans with banks. 5 years committment. Construnction loan will be released in phases.
+
+Q. Can we approach banks which other community temples have contactd.
+A. Yes, BHT, Jain Huntington, State. Sai temple yet to be approached.
+
+Q. How is kitchen run in other centers.
+A. Entirely volunteer driven.
+
+Q. Can we go with septic tank now and connect to sewer later.
+A. Yes. Septic tank input can be plugged and a new connection will have to be made to sewers connection.
+
+Q. Acharyas living quaters in basement.
+A. Open to Maybe upstairs somewhere where they don't get disturbed.
+
+Q. Where will be play areas for the kids.
+A. Lots of open area for outdoor play area. There will be indoor play area for winter.
+
+Q. Layout plan why is more area left out.
+A. Needs equivalent parking area for x number of projected people capacity. And also acts as a buffering zone to neighbouring properties.
+
+Q. Will the statue have abhishekam monthly.
+A. The Utsava moorthy will have monthly abhishekam. A big abhishekam can be had annually.
+
+Q. How is cleaning of the dome and building ?
+A. 
+
+Q. How tall is the statue.
+A. 5 to 6  feet tall and 12 feelt long 
+
+Q. Can people walk till the statue
+During main abhishekam, sponsorors can approach.
+
+** DONE Reimbursement - Landscaping payment                        :CMC:BALA:
+*** DONE Send scanned docs to Bala
+*** DONE Send account details to Bala
+
+
+** DONE Fix Broken Rain Gutter
+   CLOSED: [2017-05-24 Wed 21:57]
+*** DONE Mail Scott for quote, refer Manubhais mail on suggestion, use facilility :CMC:WAITING:SCOTT:
+    SCHEDULED: <2017-03-13 Mon>
+
+
+
+
+** DONE HVAC - Floating valve
+*** DONE CHeck if I have already got a quote                      :CMC:GMAIL:
+*** DONE Contact Comfort express again to get teh quote for floating valve :CMC:GMAIL:COMFORTEXPRESS:
+
+
+** DONE Next Sat (Jan 1st) Pay for books and take the books       :CMC:RAJEE:
+   SCHEDULED: <2016-12-31 Sat>
+
+
+** DONE Send mail to Milind on inputs to construction        :CM:MILIND:MAIL:
+   CLOSED: [2016-12-26 Mon 17:24]
+
+Having thought over the temple matter as I drove back from the meeting, mainly inspired by Trinity program and Saran's pics of Matsya Narayana temple; I think the temple can be the key component to the Chinmaya Mission, in the sense, I guess 80% people know about to Temples and Gods and only 20% actually know the higher ideal behind the symbolism.
+In line with Gurudev's vision and mission motto, in order to lead "maximum" number of people from "Idol" to "Ideal" behind it: 
+i) First we need a temple with "Idol" Lord Narayana's  and 
+ii) Second we can have Sound & Light show in the temple which connects the "Idol" to the highest "Ideal" behind it.
+
+I have this vision for the Sound and Visual show of 4-5 minutes  : 
+Every hour, the entire light in the room/temple dims, slowly moving stars are projected in the entire room as the audio recording indicates it as the universe. 
+The lights, underneath the water on which the Lord Narayana is resting, lights up and the water is agitated to form white froth indidcating "Ksheera Saagara", while the audio narration explains the symbolism and significance behind the milky ocean on which the Lord rests.
+Then the focus lights on the "Shesha naga" lights up while the audio narration indicates its significance and its symbolism. Audio narration can explain how "Nara Seva" can be "Narayana Seva" showcasing the service wing of Chinmaya Mission and how Lakshmi follows where Narayana is being served.
+The presentation will end with explaining how Chinmaya Mission's "mission" is to make accssible to everyone the knowledge of hgher "Ideal" indicated the scriptures and temples. So the temple becomes the gateway to the Jnana, which is what temples are.
+
+If we do good job on this, in future other Chinmaya centers will visit Columbus and say we want to indicate the connection between the Idol and the Ideal like this. And there is still more scope to expand on this, like ticketed 3D glasses (the simple blue and red ones) to give depth to the projection of the universe. And possibilities with Virtual Reality headsets are endless.
+I think this will leave a taste behind among devotees specially among younger ones that there is more to temples than what is apparent. This will not only be an attraction to masses but also address the critics concern about Chinmaya Mission + Temple. This aspect of the temple need not be be incorporated from the start but expanded as and when funds gets available but it might be easier to sell the idea of temple with this aspect.
+And I feel some of the CHYKS might be attracted to such a concept and might have valuable inputs and be more willing to engage in its execution.
+
+
+** DONE Miscellaneous work - Summer 2016
+
+*** DONE North entrance 
+**** DONE Folding storm door is an option but might not be aesthetical to look on, but minimal movement once opened for the day.
+**** DONE will need to be replaced by moon window
+**** DONE [#A] The north entrance locks can be unlocked by breaking the glass, :SAFETY:
+**** CANCELLED Scott will check if the loose lock handle will 
+
+*** DONE Tile
+**** DONE Apart from replacing broken tiles, in the kitchen the 6th tile from window close the fridge a tile need to be glued down
+
+*** DONE TV location
+**** DONE In kitchen, in between the window the space is less than 50 inches the TV will jutt out on windows several inches
+**** DONE Other locations
+***** is the book shelf by the kitchen, the width is just about 50 inches and top few shelves will have to be removed
+***** The photo wall
+***** Need the stake holders of the kitchen 
+
+*** DONE Odor in book room
+**** DONE Cap both the pipes as neither one would be open
+
+
+*** DONE Get parking lights control manual from               :MANUJI:SHOWRI:
+
+*** DONE Cabinet door not closing properly in Tapovan room
+**** DONE One of the door has been fixed (by tightening screws on hinges)
+**** DONE Other one closer to wall needs a shave on the top
+
+*** DONE Bathroom cabinet setup  
+Kitchen cabinet on top with pantry on either side, specs given to Scott
+
+*** DONE Get the key to the CM-A                              :SHOWRI:VENKAT:
+
+*** DONE Outside cabinet will need wooden support and will be screwed down
+
+*** DONE Manuji will be sending out a revised list to Scott
+
+*** DONE Scott will send the quote 
+
+*** DONE Outside work, on weekday without needing anybody to come over.
+**** DONE Should we specify that he is going over to CM Archana and if anybody is free can monitor his work.
+
+*** DONE For Inside item will come over on Saturday ( 7/16 )
+
+*** DATES
+
+**** DONE 08 Jan - Sun - Vaikunta Ekadashi                        :CMC:DATES:
+     DEADLINE: <2017-01-08 Sun>
+     - Note taken on [2017-01-18 Wed 06:52]
+**** DONE 24 Feb - Fri - Shivaratri                               :CMC:DATES:
+     DEADLINE: <2017-02-24 Fri>
+**** DONE 25 Mar - Sat - Holi                                     :CMC:DATES:
+     DEADLINE: <2017-03-25 Sat>
+**** DONE May - Mon - Gurudev's birthday                          :CMC:DATES:
+     CLOSED: [2017-05-24 Wed 21:57] DEADLINE: <2018-05-08 Tue>
+**** DONE 14 May -     - Mothers day                              :CMC:DATES:
+     DEADLINE: <2017-05-14 Sun>
+
+*** REFERENCE
+**** Exit signs
+http://www.lithonia.com/commercial/lhqm.html#.WKO6cxsrJeU
+
+* org-mode configuration
+#+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
+#+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
+#+STARTUP: overview
+#+STARTUP: logdone
+#+TAGS: { OFFICE(o) HOME(h) CHIN(m)} COMPUTER(c) PROJECT(p) 
+#+TAGS: READ(r) MOV(v)
+#+TAGS: GMAIL(g) MAIL(m) DIAL(d)
+#+SEQ_TODO:  SCHED(q) DO(w) STARTED(e) WAITING(r) APPT(t) | DONE(z) CANCELLED(x) DEFERRED(c)
+
