@@ -49,6 +49,7 @@ https://wiki.archlinux.org/index.php/S.M.A.R.T.
 https://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html
 
 ** RASPBERRYPI 
+https://www.raspberrypi.org/documentation/linux/kernel/README.md
 
 *** Building NOOBS from source
 
@@ -68,13 +69,13 @@ vcgencmd get_config <config>
 
 **** Initial Config
 passwd #change default password
-Edit .barsh under /etc/skel
+Edit .bashrs under /etc/skel
 sudo adduser <username>
 update-alternatives --set editor /usr/bin/vim.tiny
 sudo visudo
 <username>   ALL = NOPASSWD: ALL
 sudo userdel -r pi
-#retboot
+sudo reboot
 #login with new <username>
 sudo raspi-config
 #check user/password
@@ -90,6 +91,8 @@ amixer cset numid=3 0 # 0:Auto 1:Analog 2:HDMI
 
 *** STARTED DEVICE TREE
 https://www.raspberrypi.org/documentation/configuration/device-tree.md
+
+config.txt - Uncomment required external interfaces (SPI, I2C, I2S) and the peripherals that use them
 
 *** PROJECTS
 
@@ -180,10 +183,19 @@ https://remote-iot.com/web/pricing.htm $5, 50 devices
 **** VNC
 https://www.raspberrypi.org/documentation/remote-access/vnc/README.md
 
+*** SYSTEM
+Standalone Boot process
+https://github.com/raspberrypi/noobs/wiki/Standalone-partitioning-explained
+
+Noob Partitioning
+https://github.com/raspberrypi/noobs/wiki/Standalone-partitioning-explained
+
+
 *** Serial Port
 Rpi 3 onwards :
 /dev/tty0 or 
 /dev/serial0 -- maps to correct port irrespective of model
+https://www.raspberrypi.org/documentation/configuration/uart.md
 http://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/
 http://elinux.org/RPi_Serial_Connection
 
