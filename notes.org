@@ -210,6 +210,8 @@ Get new drive
 Transfer data
 Format old drive and use for backups
 
+https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device
+
 
 
 
