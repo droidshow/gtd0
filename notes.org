@@ -1,9 +1,26 @@
 
+
+
 ** BUILD SYSTEMS
 *** Meson-Ninja
 http://mesonbuild.com
 https://ninja-build.org/
+** CONSOLIDATE DATA
 
+Hook old drive to Linux
+Scanfor virus
+Repeat
+
+Get new drive
+Transfer data
+Format old drive and use for backups
+
+https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device
+
+** ENCRYPTION
+http://lifehacker.com/a-beginners-guide-to-encryption-what-it-is-and-how-to-1508196946
+http://lifehacker.com/five-best-file-encryption-tools-5677725
+http://lifehacker.com/whats-the-best-file-encryption-tool-1683834660
 
 ** GIT
 http://rogerdudler.github.io/git-guide/
@@ -53,6 +70,31 @@ https://www.raspberrypi.org/documentation/linux/kernel/README.md
 
 *** Building NOOBS from source
 
+get_package_version
+
+get_kernel_version
+update_github_kernel_version
+select_kernelconfig
+
+
+output in output/images directory
+
+Command line
+ update-firmware
+  update_gtihub_package_version( PACKAGE=rpi-firmware, GITHUB_REPO=rapberrypi/firmware, BRANCH=stable )
+  // updates the broadcom firmware binaries from git raspberrypi/firmware stable 
+
+ update-userland
+  update_gtihub_package_version( PACKAGE=rpi-userland, GITHUB_REPO=rapberrypi/userland, BRANCH=master )
+
+ update-kernel
+  update_gtihub_package_version( GITHUB_REPO=rapberrypi/linux, BRANCH=rpi-4.4.y )
+
+ skip-kernel-rebuild
+  build recovery without comletely rebuilding both kernels
+
+ nobuild
+
 ERR : noob build fail: RCC: Error in 'icons.qrc': Cannot find file 'translation_ca.qm'
 SLN :  ./buildroot/output/host/usr/bin/lrelease ./recovery/translation_*.ts
 
@@ -88,6 +130,25 @@ sudo raspi-config
 **** Audio
 amixer cset numid=3 0 # 0:Auto 1:Analog 2:HDMI
 
+*** firmware
+Pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
+**** ./boot: *start.elf, bootcode.bin and loader.bin are the GPU firmware and 
+     bootloaders. Their licence is described in 'LICENCE.broadcom'. The 
+     kernel.img files are builds of the Linux kernel, released under the GPL (see 
+     COPYING.linux)
+**** ./debug: pre-built modules for the kernel_debug.img
+**** ./extra: System.map files for the provided kernel builds
+**** ./hardfp: userspace VideoCoreIV libraries built for the armv6 hardfp ABI
+**** ./modules: pre-built modules for kernel.img
+**** ./opt/vc: includes userspace libraries for the VideCoreIV (EGL/GLES/OpenVG 
+      etc). See ./opt/vc/LICENCE for licencing terms
+
+
+*** userland
+
+*** Toolchain for broadcom
+https://github.com/raspberrypi/tools/tree/master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian
+Source code for ARM side libraries for interfacing to Raspberry Pi GPU. 
 
 *** STARTED DEVICE TREE
 https://www.raspberrypi.org/documentation/configuration/device-tree.md
@@ -335,19 +396,29 @@ https://www.raspberrypi.org/documentation/configuration/uart.md
 http://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/
 http://elinux.org/RPi_Serial_Connection
 
+** UBUNTU
+*** Firewall
+firewall 
+help.ubuntu.com/community/Firewall
+iptables - UFW - Gufw
 
-** CONSOLIDATE DATA
+*** Partitioning
 
-Hook old drive to Linux
-Scanfor virus
-Repeat
+https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation
+https://help.ubuntu.com/community/PartitioningSchemes
+http://www.psychocats.net/ubuntu/partitioning
+https://help.ubuntu.com/community/HowtoPartition
+https://www.howtogeek.com/howto/35676/how-to-choose-a-partition-scheme-for-your-linux-pc/
 
-Get new drive
-Transfer data
-Format old drive and use for backups
-
-https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device
-
+|           |         |          |          | LABEL |            |   |
+|-----------+---------+----------+----------+-------+------------+---|
+| /dev/sda1 | /boot   | Primary  | 1GB      | boot  | ext2       |   |
+| /dev/sda2 |         | Extended | 464.76GB |       |            |   |
+| /dev/sda5 |         |          | 10GB     | swap  | linux-swap |   |
+| /dev/sda6 | /       |          | 54GB     | root  | ext4       |   |
+| /dev/sda7 | /home   |          | 100GB    | home  | ext4       |   |
+| /dev/sda8 | /mnt/om |          | 300.76   | om    | ext4       |   |
+|           |         |          |          |       |            |   |
 
 
 
