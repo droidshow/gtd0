@@ -212,6 +212,17 @@ Format old drive and use for backups
 
 https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device
 
+*** Backup
+
+**** Sync source and destination
+rsync -aPz $SOURCE/ $TARGET
+sudo rsync -aP /media/T-2/show /media/T-4/
+
+**** List files that do not exist in $TARGET
+rsync -avun --delete $TARGET $SOURCE  |grep "^deleting "
+rsync -avun --delete /media/T-4/show /media/T-2/show  
 
 
 
+*** Mount raw disk image
+sudo losetup -Pf disk_image.raw
