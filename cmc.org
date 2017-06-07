@@ -121,13 +121,18 @@ Why wouldn't you volunteer your time
 ***** SCHED Schedule Fall cleanup                     :LANDSACE:MAINTENANCE:
       SCHEDULED: <2017-10-15 Sun ++1y>
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-05-26 Fri ++1m>
+      SCHEDULED: <2017-06-26 Mon ++1m>
+      - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-01 Mon 06:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-05-01 Mon 06:53]
+      :LAST_REPEAT: [2017-06-01 Thu 21:53]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-05-28 Sun ++7d>
+      SCHEDULED: <2017-06-04 Sun ++7d>
+      - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
+      :PROPERTIES:
+      :LAST_REPEAT: [2017-06-01 Thu 21:53]
+      :END:
 ***** DO Lawn moving
 
 **** DO CLEANUP
@@ -135,10 +140,11 @@ Why wouldn't you volunteer your time
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2017-05-28 Sun ++4w>
+      SCHEDULED: <2017-06-25 Sun ++4w>
+      - State "CANCELLED"  from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-10 Wed 07:28]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-05-10 Wed 07:28]
+      :LAST_REPEAT: [2017-06-01 Thu 21:53]
       :END:
 
 **** PEST CONTROL

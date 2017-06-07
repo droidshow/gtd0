@@ -1,9 +1,26 @@
 
+
+
 ** BUILD SYSTEMS
 *** Meson-Ninja
 http://mesonbuild.com
 https://ninja-build.org/
+** CONSOLIDATE DATA
 
+Hook old drive to Linux
+Scanfor virus
+Repeat
+
+Get new drive
+Transfer data
+Format old drive and use for backups
+
+https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device
+
+** ENCRYPTION
+http://lifehacker.com/a-beginners-guide-to-encryption-what-it-is-and-how-to-1508196946
+http://lifehacker.com/five-best-file-encryption-tools-5677725
+http://lifehacker.com/whats-the-best-file-encryption-tool-1683834660
 
 ** GIT
 http://rogerdudler.github.io/git-guide/
@@ -53,6 +70,31 @@ https://www.raspberrypi.org/documentation/linux/kernel/README.md
 
 *** Building NOOBS from source
 
+get_package_version
+
+get_kernel_version
+update_github_kernel_version
+select_kernelconfig
+
+
+output in output/images directory
+
+Command line
+ update-firmware
+  update_gtihub_package_version( PACKAGE=rpi-firmware, GITHUB_REPO=rapberrypi/firmware, BRANCH=stable )
+  // updates the broadcom firmware binaries from git raspberrypi/firmware stable 
+
+ update-userland
+  update_gtihub_package_version( PACKAGE=rpi-userland, GITHUB_REPO=rapberrypi/userland, BRANCH=master )
+
+ update-kernel
+  update_gtihub_package_version( GITHUB_REPO=rapberrypi/linux, BRANCH=rpi-4.4.y )
+
+ skip-kernel-rebuild
+  build recovery without comletely rebuilding both kernels
+
+ nobuild
+
 ERR : noob build fail: RCC: Error in 'icons.qrc': Cannot find file 'translation_ca.qm'
 SLN :  ./buildroot/output/host/usr/bin/lrelease ./recovery/translation_*.ts
 
@@ -88,6 +130,25 @@ sudo raspi-config
 **** Audio
 amixer cset numid=3 0 # 0:Auto 1:Analog 2:HDMI
 
+*** firmware
+Pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
+**** ./boot: *start.elf, bootcode.bin and loader.bin are the GPU firmware and 
+     bootloaders. Their licence is described in 'LICENCE.broadcom'. The 
+     kernel.img files are builds of the Linux kernel, released under the GPL (see 
+     COPYING.linux)
+**** ./debug: pre-built modules for the kernel_debug.img
+**** ./extra: System.map files for the provided kernel builds
+**** ./hardfp: userspace VideoCoreIV libraries built for the armv6 hardfp ABI
+**** ./modules: pre-built modules for kernel.img
+**** ./opt/vc: includes userspace libraries for the VideCoreIV (EGL/GLES/OpenVG 
+      etc). See ./opt/vc/LICENCE for licencing terms
+
+
+*** userland
+
+*** Toolchain for broadcom
+https://github.com/raspberrypi/tools/tree/master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian
+Source code for ARM side libraries for interfacing to Raspberry Pi GPU. 
 
 *** STARTED DEVICE TREE
 https://www.raspberrypi.org/documentation/configuration/device-tree.md
@@ -103,13 +164,149 @@ http://stevenhickson.blogspot.com/
 ***** CLOUD - Owncloud
 Open sourced. Mature. Has enterprise edition also.
 https://owncloud.org/
+
+****** 
 http://www.techradar.com/how-to/computing/how-to-set-up-a-raspberry-pi-powered-cloud-service-1316017/2
+
+
+****** nginx and owncloud
+https://pimylifeup.com/raspberry-pi-owncloud/
+sudo raspi-config # locale en_US.UTF8
+sudo usermod -a -G www-data www-data
+sudo apt-get install nginx openssl ssl-cert php5-cli php5-sqlite php5-gd php5-common php5-cgi sqlite3 php-pear php-apc curl libapr1 libtool curl libcurl4-openssl-dev php-xml-parser php5 php5-dev php5-curl php5-gd php5-fpm memcached php5-memcache varnish
+sudo openssl req $@ -new -x509 -days 730 -nodes -out /etc/nginx/cert.pem -keyout /etc/nginx/cert.key
+sudo chmod 600 /etc/nginx/cert.pem
+sudo chmod 600 /etc/nginx/cert.key
+sudo sh -c "echo '' > /etc/nginx/sites-available/default"
+sudo emacs /etc/nginx/sites-available/default
+
+####################### COPY ######################## 
+upstream php-handler {
+    server 127.0.0.1:9000;
+    #server unix:/var/run/php5-fpm.sock;
+}
+server {
+    listen 80;
+    server_name 192.168.1.116;
+    return 301 https://$server_name$request_uri;  # enforce https
+}
+
+server {
+    listen 443 ssl;
+    server_name 192.168.1.116;
+    ssl_certificate /etc/nginx/cert.pem;
+    ssl_certificate_key /etc/nginx/cert.key;
+    # Path to the root of your installation
+    root /var/www/owncloud;
+    client_max_body_size 1000M; # set max upload size
+    fastcgi_buffers 64 4K;
+    rewrite ^/caldav(.*)$ /remote.php/caldav$1 redirect;
+    rewrite ^/carddav(.*)$ /remote.php/carddav$1 redirect;
+    rewrite ^/webdav(.*)$ /remote.php/webdav$1 redirect;
+    index index.php;
+    error_page 403 /core/templates/403.php;
+    error_page 404 /core/templates/404.php;
+    location = /robots.txt {
+        allow all;
+        log_not_found off;
+        access_log off;
+    }
+    location ~ ^/(?:\.htaccess|data|config|db_structure\.xml|README) {
+        deny all;
+    }
+    location / {
+        # The following 2 rules are only needed with webfinger
+        rewrite ^/.well-known/host-meta /public.php?service=host-meta last;
+        rewrite ^/.well-known/host-meta.json /public.php?service=host-meta-json last;
+        rewrite ^/.well-known/carddav /remote.php/carddav/ redirect;
+        rewrite ^/.well-known/caldav /remote.php/caldav/ redirect;
+        rewrite ^(/core/doc/[^\/]+/)$ $1/index.html;
+        try_files $uri $uri/ index.php;
+    }
+    location ~ \.php(?:$|/) {
+        fastcgi_split_path_info ^(.+\.php)(/.+)$;
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_param PATH_INFO $fastcgi_path_info;
+        fastcgi_param HTTPS on;
+        fastcgi_pass php-handler;
+   }
+   # Optional: set long EXPIRES header on static assets
+   location ~* \.(?:jpg|jpeg|gif|bmp|ico|png|css|js|swf)$ {
+        expires 30d;
+        # Optional: Don't log access to assets
+        access_log off;
+   }
+}
+
+####################### PASTE ######################## 
+
+sudo emacs /etc/php5/fpm/php.ini
+
+####################### FIND ######################## 
+upload_max_filesize = 2000M
+post_max_size = 2000M
+####################### REPLACE ######################## 
+
+sudo emacs /etc/php5/fpm/pool.d/www.conf
+ listen = 127.0.0.1:9000
+
+sudo nano /etc/dphys-swapfile
+ CONF_SWAPSIZE = 512
+
+sudo reboot
 
 ***** DONE CLOUD - CloudNimbus
 https://cloudnimbus.org/
 Close sourced. Still in development.
 
 ***** SambaServer
+https://www.howtogeek.com/139433/how-to-turn-a-raspberry-pi-into-a-low-power-network-storage-device/
+
+sudo apt-get update
+
+sudo apt-get install ntfs-3g
+sudo fdisk -l
+lsblk
+
+sudo apt-get install samba samba-common-bin
+
+sudo mkdir -m 1777 /srv/smb
+sudo mount -t auto /dev/sda1 /srv/smb
+sudo cp /etc/samba/smb.conf /etc/samba/smb.conf.$(date +%F)
+
+workgroup = workgroup_name
+wins support = yes
+security = user
+
+[SMB]
+  comment = Samba share
+  path = /srv/smb
+  valid users = @users
+  force group = users
+  browseable = yes
+  read only = no
+  writeable = yes
+  only guest = no
+  create mask = 0777
+  directory mask = 0777
+  public = no
+
+testparm
+
+service samba restart
+or
+sudo /etc/init.d/samba restart
+or
+sudo service smbd restart
+sudo service nmbd restart
+
+smbpasswd -a root
+smbpasswd -a pi
+
+pdbedit -L #list samba users
+
+smbclient -L localhost 
 
 ***** DONE GitServer
 https://git-scm.com/book/en/v2/Git-on-the-Server-Getting-Git-on-a-Server
@@ -199,7 +396,6 @@ https://www.raspberrypi.org/documentation/configuration/uart.md
 http://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/
 http://elinux.org/RPi_Serial_Connection
 
-
 ** CONSOLIDATE DATA
 
 Hook old drive to Linux
@@ -226,3 +422,30 @@ rsync -avun --delete /media/T-4/show /media/T-2/show
 
 *** Mount raw disk image
 sudo losetup -Pf disk_image.raw
+
+
+
+** UBUNTU
+*** Firewall
+firewall 
+help.ubuntu.com/community/Firewall
+iptables - UFW - Gufw
+
+*** Partitioning
+
+https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation
+https://help.ubuntu.com/community/PartitioningSchemes
+http://www.psychocats.net/ubuntu/partitioning
+https://help.ubuntu.com/community/HowtoPartition
+https://www.howtogeek.com/howto/35676/how-to-choose-a-partition-scheme-for-your-linux-pc/
+
+|           |         |          |          | LABEL |            |   |
+|-----------+---------+----------+----------+-------+------------+---|
+| /dev/sda1 | /boot   | Primary  | 1GB      | boot  | ext2       |   |
+| /dev/sda2 |         | Extended | 464.76GB |       |            |   |
+| /dev/sda5 |         |          | 10GB     | swap  | linux-swap |   |
+| /dev/sda6 | /       |          | 54GB     | root  | ext4       |   |
+| /dev/sda7 | /home   |          | 100GB    | home  | ext4       |   |
+| /dev/sda8 | /mnt/om |          | 300.76   | om    | ext4       |   |
+|           |         |          |          |       |            |   |
+
