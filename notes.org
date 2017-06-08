@@ -1,6 +1,6 @@
 
 
-
+* NOTES
 ** BUILD SYSTEMS
 *** Meson-Ninja
 http://mesonbuild.com
@@ -23,6 +23,7 @@ http://lifehacker.com/five-best-file-encryption-tools-5677725
 http://lifehacker.com/whats-the-best-file-encryption-tool-1683834660
 
 ** GIT
+
 http://rogerdudler.github.io/git-guide/
 
 
@@ -424,6 +425,14 @@ rsync -avun --delete /media/T-4/show /media/T-2/show
 sudo losetup -Pf disk_image.raw
 
 
+** TV / STB
+*** TUNER
+**** NIM(Network Interface Module) = Tuner + Demod
+Half NIM means 
+ Only Tuner RF part included
+ Not include Demodulator in this CAN. 
+ LNA output is IF
+ Demodulator is on the other PCBs.
 
 ** UBUNTU
 *** Firewall
