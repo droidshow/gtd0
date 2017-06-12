@@ -1,5 +1,16 @@
 
 * CMC
+Updates 2017-05-28
+- Preen spread
+- Previous weed killer spray by Marcos was effective the weeds are pretty dead
+- Vaccuumed
+- The Abhisheka pipes are better in utility closet than in bathroom
+- Vaccum cleaner taken by Puran bhai for cleaning
+- Uhaul ramp to be removed by Saran
+- Gurudevs photo missing in Tapovan hall
+
+Google SmartSuite for education
+
 ** TASKS
 *** Pest Control
 **** Procure thrist inducing tablets :ONLINE:ATWALMART:
@@ -89,10 +100,14 @@ Why wouldn't you volunteer your time
 :END:
 
 *** FESTIVALS / EVENTS
-**** Guruji Jayanthi
-**** Gurudev Jayanthi
-**** Gurudev Mahasamadhi
-**** Annual Day
+**** ONETIME
+***** Blood Donation Drive
+      SCHEDULED: <2017-08-13 Sun>
+**** RECURRING
+***** Guruji Jayanthi
+***** Gurudev Jayanthi
+***** Gurudev Mahasamadhi
+***** Annual Day
 
 *** DO RECURRING
 **** SCHED For winter Switch off water supply to outside outlet :MAINTENANCE:WATER:RECURRING:
@@ -161,6 +176,10 @@ Refer [[Cleaning Checklist]]
 *** REMINDER
 
 ** REFERNCE
+*** LOWES TAX EXEMPT NUMBER
+Tax exempt number : 500083891
+Registered Phone  : (877) 829-5500
+
 *** CHECKLISTS
 **** <<Cleaning Checklist>>
 ***** Miscellaneous
