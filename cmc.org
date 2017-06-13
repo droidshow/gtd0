@@ -1,6 +1,13 @@
 
 * CMC
-Updates 2017-05-28
+
+
+** UPDATES
+*** Updates 2017-6-12
+- Sprayed weed killer on few emerging weeds
+- Found Sheriffs notice on false alarm trigger on 2017-06-11 at 12:08 PM
+
+*** Updates 2017-05-28
 - Preen spread
 - Previous weed killer spray by Marcos was effective the weeds are pretty dead
 - Vaccuumed
@@ -143,11 +150,12 @@ Why wouldn't you volunteer your time
       :LAST_REPEAT: [2017-06-01 Thu 21:53]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-06-12 Mon ++7d>
+      SCHEDULED: <2017-06-18 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2017-06-12 Mon 06:34]
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-06-07 Wed 11:02]
+      :LAST_REPEAT: [2017-06-12 Mon 06:34]
       :END:
 ***** DO Lawn moving
 
