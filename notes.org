@@ -5,6 +5,7 @@
 *** Meson-Ninja
 http://mesonbuild.com
 https://ninja-build.org/
+*** Yocto
 ** CONSOLIDATE DATA
 
 Hook old drive to Linux
@@ -191,6 +192,12 @@ https://wiki.archlinux.org/index.php/S.M.A.R.T.
 
 *** Secure programming
 https://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html
+
+*** Symbols
+insmod hello.ko
+cat /proc/kallsyms | grep hello
+cat Module.symvers
+nm hello.ko
 
 ** RASPBERRYPI 
 https://www.raspberrypi.org/documentation/linux/kernel/README.md
