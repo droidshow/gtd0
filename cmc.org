@@ -160,7 +160,7 @@ Why wouldn't you volunteer your time
 ***** DO Lawn moving
 
 **** DO CLEANUP
-     SCHEDULED: <2017-06-15 Thu ++6m>
+     SCHEDULED: <2017-06-17 Sat ++6m>
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
