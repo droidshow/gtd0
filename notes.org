@@ -172,6 +172,16 @@ http://gstreamer.freedesktop.org/documentation
  https://developer.gnome.org/gobject/stable/
 >>>  https://developer.gnome.org/gobject/stable/chapter-gobject.html
 
+Push Pull Modes of Pads
+https://gstreamer.freedesktop.org/data/doc/gstreamer/head/pwg/html/section-scheduling-randomxs.html
+http://www.mediatools.cs.ucl.ac.uk/nets/newvideo/browser/gst-cvs/gstreamer/docs/design/part-push-pull.txt
+
+E.g scenarios
+http://fossies.org/linux/gstreamer/docs/design/part-scheduling.txt
+
+*** DEBUG
+GST_DEBUG_BIN_TO_DOT_FILE_WITH_TS(GST_BIN(_pipeline),  GST_DEBUG_GRAPH_SHOW_ALL, "mygraph");
+
 *** Cerbero
 Upstream : git://anongit.freedesktop.org/gstreamer/cerbero
 Mirrored : https://github.com/GStreamer/cerbero
@@ -263,6 +273,37 @@ sudo raspi-config
 
 **** Audio
 amixer cset numid=3 0 # 0:Auto 1:Analog 2:HDMI
+
+****  Change host name
+  sudo hostname <name>
+  sudo raspi-config
+
+**** Creating new me user
+  sudo adduser me
+  sudo usermod -G git-scm me
+  id me
+  sudo mkdir /t
+  sudo chown me:me /t
+  sudo visudo
+  sudo useradd me sudo
+  groups
+  sudo usermod -G sudo me
+  su me
+
+**** Preparting GTD
+Generate git keys
+  ssh-keygen
+  cp ./.ssh/id_rsa_rpi.pub /tmp
+
+  mkdir -p show/gtd
+  cd ./show/gtd/
+  git clone git@<git-loc>:/srv/git/gtd2.git
+  cp ./gtd2/ref.emacs ~
+  mv ~/ref.emacs .emacs
+  emacs ~/.emacs
+
+Create GTD link
+  ln -s /home/me/show/gtd/ /t
 
 *** firmware
 Pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
