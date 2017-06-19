@@ -587,7 +587,8 @@ https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entir
 
 **** Sync source and destination
 rsync -aPz $SOURCE/ $TARGET
-sudo rsync -aP /media/T-2/show /media/T-4/
+sudo rsync -aPz --exclude-form='~/rsync-exclude-list' /media/T-2/show /media/T-4/
+sudo rsync -aPz --delete --exclude recovery_taurus-1 --exclude 2014-10-25/ /srv/smba/show /media/user/SFIVER-11
 
 **** List files that do not exist in $TARGET
 rsync -avun --delete $TARGET $SOURCE  |grep "^deleting "
@@ -597,6 +598,10 @@ rsync -avun --delete /media/T-4/show /media/T-2/show
 
 *** Mount raw disk image
 sudo losetup -Pf disk_image.raw
+*** Fstab
+sudo blkid
+UUID=""   /srv/smba      ntfs      auto,nofail,user,rw       0     0
+sudo mount -a
 
 
 ** TV / STB
