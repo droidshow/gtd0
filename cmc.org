@@ -142,17 +142,18 @@ Why wouldn't you volunteer your time
       :LAST_REPEAT: [2017-06-01 Thu 21:53]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-06-18 Sun ++7d>
+      SCHEDULED: <2017-06-25 Sun ++7d>
+      - State "DONE"       from "SCHED"      [2017-06-18 Sun 15:27]
       - State "CANCELLED"  from "SCHED"      [2017-06-12 Mon 06:34]
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-06-12 Mon 06:34]
+      :LAST_REPEAT: [2017-06-18 Sun 15:27]
       :END:
 ***** DO Lawn moving
 
 **** DO CLEANUP
-     SCHEDULED: <2017-06-18 Sun ++6m>
+     SCHEDULED: <2017-06-20 Tue ++6m>
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
