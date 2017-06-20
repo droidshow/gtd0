@@ -122,6 +122,34 @@ Checking commit logs
  git log --grep="" # use --all-match to use author and grep together
  git log -S function_name
 
+*** Undoing
+Amending last commit
+ git commit --amend
+
+Unstaging a staged file
+ git reset HEAD <file>
+
+Revert to previous commit (throwing away local changes)
+ git checkout -- <file>
+
+*** Remotes
+Adding a remote
+ git remote add <name> <remote url>
+
+List of remotes
+ git remote -v
+
+Fetch remote repo, but not merge
+Gets all the branches and makes available for inspection or merging
+ git fetch <remote-name>
+Tries to merge to local repo from the tracked remote repo
+ git pull
+
+Pushing changes to remote
+ git push <remote> <branch>
+ git push origin master
+
+
 *** Branching
 Light weigth branching
 Branch names are pointers to commit blobs
