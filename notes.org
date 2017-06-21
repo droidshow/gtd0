@@ -149,6 +149,14 @@ Pushing changes to remote
  git push <remote> <branch>
  git push origin master
 
+Show remote details
+ git remtoe show <remote-name>
+
+Rename a remote
+ git remote rename <org-name> <new-name>
+
+Remove a remote
+ git remote remove <remote-name>
 
 *** Branching
 Light weigth branching
