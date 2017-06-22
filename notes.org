@@ -642,6 +642,8 @@ Half NIM means
  Demodulator is on the other PCBs.
 
 ** UBUNTU
+*** Antivirus ClamAV
+sudo freshclam && sudo clamscan / -r -i > ~/Desktop/clamscan-$(date +%F).log
 *** Firewall
 firewall 
 help.ubuntu.com/community/Firewall
