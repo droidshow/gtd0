@@ -637,7 +637,9 @@ sudo losetup -Pf disk_image.raw
 *** Fstab
 sudo blkid
 UUID=""   /srv/smba      ntfs      auto,nofail,user,rw       0     0
+UUID=""   /srv/smba      ntfs      auto,umask=000,nofail,user,rw       0     0
 sudo mount -a
+chown /srv/smba
 
 
 ** TV / STB
