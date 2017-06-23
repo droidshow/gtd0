@@ -215,6 +215,8 @@ http://www.mediatools.cs.ucl.ac.uk/nets/newvideo/browser/gst-cvs/gstreamer/docs/
 E.g scenarios
 http://fossies.org/linux/gstreamer/docs/design/part-scheduling.txt
 
+
+
 *** DEBUG
 GST_DEBUG_BIN_TO_DOT_FILE_WITH_TS(GST_BIN(_pipeline),  GST_DEBUG_GRAPH_SHOW_ALL, "mygraph");
 
@@ -225,6 +227,65 @@ Mirrored : https://github.com/GStreamer/cerbero
 Doc
 https://github.com/centricular/cerbero-docs/blob/master/start.md
 https://gstreamer.freedesktop.org/documentation/installing/building-from-source-using-cerbero.html
+
+
+*** BASICS
+A framework for creating streaming media applications. Inspired from DirectShow.
+Based on plugins that will provide various functionalities, which can be linked to form pipelines, which defines the flow of data.
+GUI editors are also available.
+
+**** GSTREAMER TOOLS
+
+***** gst-inspect
+
+***** gst-launch
+
+***** gst-eiditor
+
+**** GSTREAMER CORE FRAMEWORK
+
+***** Media agnostic base clasess
+
+***** Message bus
+
+***** Type negotiation
+
+***** Plugin system
+
+***** Synchronisation
+
+**** GSTREAMER PLUGINS
+
+***** Protocols
+- http://
+- file://
+- rtsp://
+
+***** Sources
+- alsa
+- v4l2 / DVB API
+- tcp/udp
+***** Formats / Containers
+- avi
+- mp4
+- ogg
+
+***** Codecs
+- mp3
+- mpeg4
+- vorbis
+- theora
+***** Filters
+- converters
+- mixers
+- effects
+
+***** Sinks
+- alsa
+- xvideo
+- tcp/udp
+
+***** 3rd party
 
 
 ** HARD DISK HEALTH
