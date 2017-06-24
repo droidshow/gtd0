@@ -643,6 +643,10 @@ https://www.pestmeester.nl/
 
 **** Presentation
 
+**** git-evening
+sudo mount -o uid=pi,gid=pi /dev/sda1 /mnt/USB
+https://www.reddit.com/r/raspberry_pi/comments/2pae9i/disable_usb_automount/
+~/.config/pcmanfm/LXDE/pcmanfm.conf 
 
 *** REMOTE CONNECTIVITY
 https://www.raspberrypi.org/documentation/remote-access/access-over-Internet/README.md
