@@ -3,6 +3,10 @@
 
 
 ** UPDATES
+*** Updates 2017-6-20
+- Vaccum kitchen
+- Vaccum Tapovan Hall
+
 *** Updates 2017-6-12
 - Sprayed weed killer on few emerging weeds
 - Found Sheriffs notice on false alarm trigger on 2017-06-11 at 12:08 PM
@@ -183,67 +187,118 @@ Registered Phone  : (877) 829-5500
 
 *** CHECKLISTS
 **** <<Cleaning Checklist>>
-***** Miscellaneous
-- [ ] Classroom fans and lights
-- [ ] Doors & Windows
-- [ ] Supplies closet on 2nd Floor
-- [ ] Photos throughout the facility
-- [ ] Stairs
-- [ ] Main entrance patio
-- [ ] Hallway and stairs & walls hand railings
-- [ ] Outside rake the flowerbed where mouse holes are visible
-- [ ] Mold on sidings, wipe ?
-- [ ] Rain gutter repair ( call Scott @ 614-526-9655)
 
 ***** Tapovan Hall
-- [ ]   Altar
-- [ ]   Ceiling ( A few new ceiling tiles should be available in the utility closet)
-- [ ]   Walls
-- [ ]   Photos
-- [ ]   Closets x 2
-- [ ]   Mike
-- [ ]   Behind door
-- [ ]   Curtain
+- [ ]   Clean Altar
+- [ ]   Ceiling, remove cobwebs and dirty ceilings
+- [ ]   Wipe walls remove smudges with magic eraser
+- [ ]   Clean Photos
+- [ ]   Re-organize Closets x 2
+- [ ]   Clean Mic area of dust cobwebs
+- [ ]   Vaccum including Behind door
+- [ ]   Wash Curtain
+- [ ]   Wipe tables and remove cob webs
 
 ***** Office | BookStall | Library
-- [ ]   Boxes
-- [ ]   Wall
-- [ ]   Floor
-- [ ]   Wires
+- [ ]   Store away boxes
+- [ ]   Wipe walls remove smudges with magic eraser
+- [ ]   Vaccum floor
+- [ ]   Untangle wires
 
 ***** Room before Tapovan Hall
-- [ ]   Floor
-- [ ]   Utility closet
-- [ ]   Altar
-- [ ]   Notice board
-- [ ]   Wall, some have kids scribblings
+- [ ]   Vaccum Floor
+- [ ]   Vaccum Utility closet, clean and tidy up
+- [ ]   Clean altar below the tv, check underneath
+- [ ]   Clear notice board of old flyers, arrange pins
+- [ ]   Wipe walls remove smudges with magic eraser
 
 ***** Bathroom
-- [ ]   Closet
-- [ ]   Vaccum cleaner
-- [ ]   Bowls
-- [ ]   Ramp (Ask Saran to return this to U-HAUL)
+- [ ]   Reorgainze closet, check for items running out
+- [ ]   Vaccum 
+- [ ]   Clean bowls with cleaner
 
 ***** Kitchen
-- [ ]   Closet
-- [ ]   Sink
-- [ ]   Under the sink
-- [ ]   Garbage dumpster 
-- [ ]   Walls ( particularly the door and the wall near the dumpster)
-- [ ]   Book shelf
-- [ ]   Materials in and around the shelf near the microwave
+- [ ]   Re-organize closet
+- [ ]   Clean Sink and under the sink
+- [ ]   Clean the outside of garbage dumpster of any food splashes
+- [ ]   Walls and door near the dumpster
+- [ ]   Book shelf, wipe dust, re-organize
+- [ ]   Re-organize dmaterials in and around the shelf near the microwave
 
 ***** Upstairs Bathroom
-- [ ]   Boxes
-- [ ]   Bowls
+- [ ]   Store away boxes
+- [ ]   Clean bowls with cleaner
 
 
-***** Classrooms
-- [ ]  Floor
-- [ ]  Walls
-- [ ]  Ceiling
+***** Classrooms - 1
+- [ ]  Vaccum Floor
+- [ ]  Wipe walls remove smudges with magic eraser
+- [ ]  Clean Ceiling, windows
 - [ ]  Closet
-  
+- [ ]  Empty Trash
+
+***** Classrooms - 2
+- [ ]  Vaccum Floor
+- [ ]  Wipe walls remove smudges with magic eraser
+- [ ]  Clean Ceiling, windows
+- [ ]  Closet
+- [ ]  Empty Trash  
+
+
+***** Classrooms - 3
+- [ ]  Vaccum Floor
+- [ ]  Wipe walls remove smudges with magic eraser
+- [ ]  Clean Ceiling, windows
+- [ ]  Closet
+- [ ]  Empty Trash
+
+***** Classrooms - 4
+- [ ]  Vaccum Floor
+- [ ]  Wipe walls remove smudges with magic eraser
+- [ ]  Clean Ceiling, windows
+- [ ]  Closet
+- [ ]  Empty Trash
+
+***** Classrooms - 5
+- [ ]  Vaccum Floor
+- [ ]  Wipe walls remove smudges with magic eraser
+- [ ]  Clean Ceiling, windows
+- [ ]  Closet
+- [ ]  Empty Trash
+
+***** Classrooms - 6
+- [ ]  Vaccum Floor
+- [ ]  Wipe walls remove smudges with magic eraser
+- [ ]  Clean Ceiling, windows
+- [ ]  Closet
+- [ ]  Empty Trash
+
+
+***** Flowerbed
+- [ ] Spread Preen
+- [ ] Remove weeds (pull-out, weed spray)
+- [ ] Water the plants
+
+***** Miscellaneous - Outdoor
+- [ ] Lawn mowing
+- [ ] Pick up random trash around property
+- [ ] Weed-spray crack on roads to prevent grass growth
+- [ ] Spread salt on walk ways on snow days
+
+***** Miscellaneous - Indoor
+- [ ] Check and clean classroom fans and lights
+- [ ] Clean Doors & Windows - Inside
+- [ ] Clean Doors & Windows - Outside
+- [ ] Supplies closets - Purge and reorganize 
+- [ ] Clean photos throughout the facility
+- [ ] Clean stairs and railings x2
+- [ ] Vaccum and main entrance patio, throw out unclaimed items
+- [ ] Hallway and stairs & walls hand railings
+- [ ] Outside rake the flowerbed 
+- [ ] Check sidings for mold, power wash
+- [ ] Check sign board for mold, power wash
+- [ ] Check Rain gutters
+- [ ] Check basement
 
 **** Balvihar Opening Checklist
 - [ ] Start/set 3x AC/heater

@@ -708,6 +708,8 @@ chown /srv/smba
 
 
 ** TV / STB
+*** BASICS
+http://www.itvdictionary.com/set-top_box.html
 *** TUNER
 **** NIM(Network Interface Module) = Tuner + Demod
 Half NIM means 
