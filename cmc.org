@@ -3,6 +3,9 @@
 
 
 ** UPDATES
+*** Updates 2017-06-25
+- Wiped all photos
+
 *** Updates 2017-6-20
 - Vaccum kitchen
 - Vaccum Tapovan Hall
@@ -23,9 +26,12 @@
 Google SmartSuite for education
 
 ** TASKS
+*** 
 *** Pest Control
-**** Procure thrist inducing tablets :ONLINE:ATWALMART:
-**** Spread tables around the facility :ATCMC:
+**** DONE Procure thrist inducing tablets                  :ONLINE:ATWALMART:
+     CLOSED: [2017-06-26 Mon 07:12]
+**** DONE Spread tables around the facility                           :ATCMC:
+     CLOSED: [2017-06-26 Mon 07:12]
 *** Frames of Saraswathi and Gurudev in all classrooms
 *** Hooks on false ceiling for decoration
 *** Reverse HDMI cable :VINOD:ATCMC:
@@ -146,13 +152,14 @@ Why wouldn't you volunteer your time
       :LAST_REPEAT: [2017-06-01 Thu 21:53]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-06-25 Sun ++7d>
+      SCHEDULED: <2017-07-02 Sun ++7d>
+      - State "DONE"       from "SCHED"      [2017-06-25 Sun 14:06]
       - State "DONE"       from "SCHED"      [2017-06-18 Sun 15:27]
       - State "CANCELLED"  from "SCHED"      [2017-06-12 Mon 06:34]
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-06-18 Sun 15:27]
+      :LAST_REPEAT: [2017-06-25 Sun 14:06]
       :END:
 ***** DO Lawn moving
 
@@ -161,25 +168,30 @@ Why wouldn't you volunteer your time
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2017-06-25 Sun ++4w>
+      SCHEDULED: <2017-07-23 Sun ++4w>
+      - State "CANCELLED"  from "SCHED"      [2017-06-25 Sun 14:06]
       - State "CANCELLED"  from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-10 Wed 07:28]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-06-01 Thu 21:53]
+      :LAST_REPEAT: [2017-06-25 Sun 14:06]
       :END:
 
 **** PEST CONTROL
 ***** DO Get ecosmart after current solution runs out
 ***** SCHED Spray insecticide around the perimeter and inside :CMC:MAINTENANCE:
-      SCHEDULED: <2019-04-30 Tue ++1y>
+      SCHEDULED: <2018-04-01 Sun ++1y>
       - State "DONE"       from "APPT"       [2017-05-24 Wed 21:54]
       - State "DONE"       from "DEFERRED"   [2017-05-01 Mon 06:52]
       :PROPERTIES:
       :LAST_REPEAT: [2017-05-24 Wed 21:54]
       :END:
 
-*** REMINDER
+***** SCHED Put mice repellant around the building
+      SCHEDULED: <2018-04-01 Sun ++1y>
 
+*** REMINDER
+**** SCHED CMC-EC Meeeting                                       :CMC:MOBILE:
+     SCHEDULED: <2017-06-27 Tue 21:00 ++2w>
 ** REFERNCE
 *** LOWES TAX EXEMPT NUMBER
 Tax exempt number : 500083891
