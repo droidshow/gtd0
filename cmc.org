@@ -191,7 +191,7 @@ Refer [[Cleaning Checklist]]
       SCHEDULED: <2018-04-01 Sun ++1y>
 
 *** REMINDER
-**** SCHED CMC-EC Meeeting                                       :CMC:MOBILE:
+**** SCHED CMC-EC Meeeting                                       :CMC:MOBILE:MEETING:
      SCHEDULED: <2017-06-27 Tue 21:00 ++2w>
 ** REFERNCE
 *** LOWES TAX EXEMPT NUMBER
