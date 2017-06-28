@@ -1,4 +1,39 @@
 
+30 + 3
+aug 19 meet and greet
+aug 20 opening
+
+July	8th, 2017	BV Sevaks Orientation
+Saturday, August 19, 2017	Meet and Greet 
+Sunday, August 20, 2017	        Opening Day
+Saturday, August 26, 2017	CMC Annual Picnic
+Sunday, September 03, 2017	Labor Day 
+Friday, September 22, 2017	Rang Bharo/Painting work shop
+Friday, October 20,2017	Family Talent Show
+Friday, November 17, 2017	Family Bingo Nite
+Saturday, November 18, 2017	Ronald McDonald House
+Sunday, November 26, 2017	Thanksgiving 
+Sunday, December 03, 2017	Get President's Day 2017 Registrations ready
+Sunday, December 10, 2017	Start Marketing for President's Day camp
+Friday, December 15, 2017	Movie Nite
+Sunday, December 24, 2017	Christmas
+Sunday, December 31, 2017	New Year
+Friday, January 26, 2018	Dance Nite
+Sunday, February 18, 2018	President's Day Camp
+Monday, February 19,2018	President's Day Camp
+Sunday, February 25, 2018	Get 2017 - 2018 BV Registrations Ready
+Sunday, March 04, 2018	Open Registrations for 2017 - 2018 BV
+Friday, March 23, 2018	Sing-Alongs or Family Antakshari Night
+Friday, April 06, 2018	Lock-Ins
+Saturday, April 14, 2018	Balafest
+Sunday, April 15, 2018	Balafest
+Sunday, April 22, 2018	Open Registrations to new CMC members
+Sunday, May 13, 2018	Mother's Day and Gurudev's B'Day
+Saturday, May 19, 2018	Rehersals for BALOTSAV
+Sunday, May 20, 2018	BALOTSAV
+
+
+
 * CMC
 
 
@@ -26,7 +61,12 @@
 Google SmartSuite for education
 
 ** TASKS
-*** 
+
+*** Expectation on frequency 
+*** 2 classes using same classroom
+*** Goto mission and setup the mic and asana
+*** Host family for Swamini 
+*** Give feedback on registration
 *** Pest Control
 **** DONE Procure thrist inducing tablets                  :ONLINE:ATWALMART:
      CLOSED: [2017-06-26 Mon 07:12]
@@ -191,8 +231,12 @@ Refer [[Cleaning Checklist]]
       SCHEDULED: <2018-04-01 Sun ++1y>
 
 *** REMINDER
-**** SCHED CMC-EC Meeeting                                       :CMC:MOBILE:MEETING:
-     SCHEDULED: <2017-06-27 Tue 21:00 ++2w>
+**** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
+     SCHEDULED: <2017-07-11 Tue 21:00 ++2w>
+     - State "DONE"       from "SCHED"      [2017-06-28 Wed 07:39]
+     :PROPERTIES:
+     :LAST_REPEAT: [2017-06-28 Wed 07:39]
+     :END:
 ** REFERNCE
 *** LOWES TAX EXEMPT NUMBER
 Tax exempt number : 500083891
