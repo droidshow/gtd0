@@ -158,6 +158,34 @@ Rename a remote
 Remove a remote
  git remote remove <remote-name>
 
+*** Tag
+List tags
+ git tag # NOTE: Order is alphabetical NOT chronological
+
+List tags with patterns
+ git tag -l "v1." 
+
+Two types: light-weight and Annotated (-a)
+
+i) Ligt Weigth
+ git tag <tag-name>
+
+ii) Annotated tags
+ git tag -a <tag-name> -m "tag msg"
+
+Tagging a specific commit
+ git tag -a v1.2 <commit-hash>
+
+NOTE: git push will not push tags unless explicitly requested
+
+Push one tag
+ git push origin <tag-name> 
+
+Push all tags
+ git push origin --tags
+
+git checkout -b <branch-name> <tag-name>
+
 *** Branching
 Light weigth branching
 Branch names are pointers to commit blobs
@@ -297,6 +325,10 @@ https://wiki.archlinux.org/index.php/S.M.A.R.T.
 
 ** LINUX
 
+*** I2C - Userspace access
+https://www.kernel.org/doc/Documentation/i2c/dev-interface
+http://elinux.org/Interfacing_with_I2C_Devices
+
 *** Secure programming
 https://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html
 
@@ -305,8 +337,8 @@ insmod hello.ko
 cat /proc/kallsyms | grep hello
 cat Module.symvers
 nm hello.ko
-
 ** RASPBERRYPI 
+http://elinux.org/Interfacing_with_I2C_Devices
 https://www.raspberrypi.org/documentation/linux/kernel/README.md
 
 *** Building NOOBS from source
@@ -653,6 +685,8 @@ if not errorlevel 1 (
    echo The stuff you want to do
    echo goes here
 )
+
+**** MS AI Image recogniztion (github)
 
 *** REMOTE CONNECTIVITY
 https://www.raspberrypi.org/documentation/remote-access/access-over-Internet/README.md

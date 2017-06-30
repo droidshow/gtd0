@@ -1,41 +1,4 @@
-
-30 + 3
-aug 19 meet and greet
-aug 20 opening
-
-July	8th, 2017	BV Sevaks Orientation
-Saturday, August 19, 2017	Meet and Greet 
-Sunday, August 20, 2017	        Opening Day
-Saturday, August 26, 2017	CMC Annual Picnic
-Sunday, September 03, 2017	Labor Day 
-Friday, September 22, 2017	Rang Bharo/Painting work shop
-Friday, October 20,2017	Family Talent Show
-Friday, November 17, 2017	Family Bingo Nite
-Saturday, November 18, 2017	Ronald McDonald House
-Sunday, November 26, 2017	Thanksgiving 
-Sunday, December 03, 2017	Get President's Day 2017 Registrations ready
-Sunday, December 10, 2017	Start Marketing for President's Day camp
-Friday, December 15, 2017	Movie Nite
-Sunday, December 24, 2017	Christmas
-Sunday, December 31, 2017	New Year
-Friday, January 26, 2018	Dance Nite
-Sunday, February 18, 2018	President's Day Camp
-Monday, February 19,2018	President's Day Camp
-Sunday, February 25, 2018	Get 2017 - 2018 BV Registrations Ready
-Sunday, March 04, 2018	Open Registrations for 2017 - 2018 BV
-Friday, March 23, 2018	Sing-Alongs or Family Antakshari Night
-Friday, April 06, 2018	Lock-Ins
-Saturday, April 14, 2018	Balafest
-Sunday, April 15, 2018	Balafest
-Sunday, April 22, 2018	Open Registrations to new CMC members
-Sunday, May 13, 2018	Mother's Day and Gurudev's B'Day
-Saturday, May 19, 2018	Rehersals for BALOTSAV
-Sunday, May 20, 2018	BALOTSAV
-
-
-
 * CMC
-
 
 ** UPDATES
 *** Updates 2017-06-25
@@ -60,20 +23,24 @@ Sunday, May 20, 2018	BALOTSAV
 
 Google SmartSuite for education
 
-** TASKS
+** CMC TASKS
 
-*** Expectation on frequency 
-*** 2 classes using same classroom
-*** Goto mission and setup the mic and asana
+*** Shram Dhaan doc feedback
+**** Mention Expectation on frequency 
+**** 2 classes using same classroom
+*** SCHED Goto mission and setup the mic and asana before Swaminiji's visit
+    SCHEDULED: <2017-07-02 Sun>
 *** Host family for Swamini 
-*** Give feedback on registration
-*** Pest Control
+*** SCHED Give feedback on registration
+    SCHEDULED: <2017-06-28 Wed>
+*** DONE Pest Control
+    CLOSED: [2017-06-28 Wed 14:23]
 **** DONE Procure thrist inducing tablets                  :ONLINE:ATWALMART:
      CLOSED: [2017-06-26 Mon 07:12]
 **** DONE Spread tables around the facility                           :ATCMC:
      CLOSED: [2017-06-26 Mon 07:12]
-*** Frames of Saraswathi and Gurudev in all classrooms
-*** Hooks on false ceiling for decoration
+*** Frames of Saraswathi and Gurudev in all classrooms :CMC:
+*** Hooks on false ceiling for decoration :CMC:
 *** Reverse HDMI cable :VINOD:ATCMC:
 *** Outside lamp :ATCMC:
 **** Find the type of the bulb :ATCMC:
@@ -153,6 +120,35 @@ Why wouldn't you volunteer your time
 ***** Blood Donation Drive
       SCHEDULED: <2017-08-13 Sun>
 **** RECURRING
+July	8th, 2017	BV Sevaks Orientation
+Saturday, August 19, 2017	Meet and Greet
+Sunday, August 20, 2017	        Opening Day
+Saturday, August 26, 2017	CMC Annual Picnic
+Sunday, September 03, 2017	Labor Day 
+Friday, September 22, 2017	Rang Bharo/Painting work shop
+Friday, October 20,2017	Family Talent Show
+Friday, November 17, 2017	Family Bingo Nite
+Saturday, November 18, 2017	Ronald McDonald House
+Sunday, November 26, 2017	Thanksgiving 
+Sunday, December 03, 2017	Get President's Day 2017 Registrations ready
+Sunday, December 10, 2017	Start Marketing for President's Day camp
+Friday, December 15, 2017	Movie Nite
+Sunday, December 24, 2017	Christmas
+Sunday, December 31, 2017	New Year
+Friday, January 26, 2018	Dance Nite
+Sunday, February 18, 2018	President's Day Camp
+Monday, February 19,2018	President's Day Camp
+Sunday, February 25, 2018	Get 2017 - 2018 BV Registrations Ready
+Sunday, March 04, 2018	Open Registrations for 2017 - 2018 BV
+Friday, March 23, 2018	Sing-Alongs or Family Antakshari Night
+Friday, April 06, 2018	Lock-Ins
+Saturday, April 14, 2018	Balafest
+Sunday, April 15, 2018	Balafest
+Sunday, April 22, 2018	Open Registrations to new CMC members
+Sunday, May 13, 2018	Mother's Day and Gurudev's B'Day
+Saturday, May 19, 2018	Rehersals for BALOTSAV
+Sunday, May 20, 2018	BALOTSAV
+
 ***** Guruji Jayanthi
 ***** Gurudev Jayanthi
 ***** Gurudev Mahasamadhi
