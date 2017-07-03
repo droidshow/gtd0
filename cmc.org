@@ -29,7 +29,7 @@ Google SmartSuite for education
 **** Mention Expectation on frequency 
 **** 2 classes using same classroom
 *** SCHED Goto mission and setup the mic and asana before Swaminiji's visit
-    SCHEDULED: <2017-07-02 Sun>
+    SCHEDULED: <2017-07-02 10:30 Sun>
 *** Host family for Swamini 
 *** SCHED Give feedback on registration
     SCHEDULED: <2017-06-28 Wed>
@@ -189,7 +189,7 @@ Sunday, May 20, 2018	BALOTSAV
       :LAST_REPEAT: [2017-06-26 Mon 09:23]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-07-02 Sun ++7d>
+      SCHEDULED: <2017-07-02 Sun 10:00 ++7d >
       - State "DONE"       from "SCHED"      [2017-06-25 Sun 14:06]
       - State "DONE"       from "SCHED"      [2017-06-18 Sun 15:27]
       - State "CANCELLED"  from "SCHED"      [2017-06-12 Mon 06:34]
