@@ -463,7 +463,7 @@ config.txt - Uncomment required external interfaces (SPI, I2C, I2S) and the peri
 
 http://stevenhickson.blogspot.com/
 
-**** SERVER
+**** DONE SERVERS
 
 ***** CLOUD - Owncloud
 Open sourced. Mature. Has enterprise edition also.
@@ -564,7 +564,7 @@ sudo reboot
 https://cloudnimbus.org/
 Close sourced. Still in development.
 
-***** SambaServer
+***** DONE SambaServer
 https://www.howtogeek.com/139433/how-to-turn-a-raspberry-pi-into-a-low-power-network-storage-device/
 
 sudo apt-get update
@@ -712,6 +712,11 @@ https://www.raspberrypi.org/documentation/configuration/uart.md
 http://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/
 http://elinux.org/RPi_Serial_Connection
 
+*** TO BUY
+- Soldering iron
+- Solder leaded/unleaded
+- De-solder wick
+- Wet sponge and gauge
 ** CONSOLIDATE DATA
 
 Hook old drive to Linux

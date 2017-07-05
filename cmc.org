@@ -24,8 +24,8 @@
 Google SmartSuite for education
 
 ** CMC TASKS
-*** WAITING Verify with Binduji if this is all the classes            :GMAIL:
-  SCHEDULED: <2017-07-04 Tue>
+*** DONE Verify with Binduji if this is all the classes               :GMAIL:
+    CLOSED: [2017-07-04 Tue 15:23] SCHEDULED: <2017-07-04 Tue>
  Prahald 
  Markandeya
  Dhruva
@@ -48,40 +48,48 @@ GitaChanting
     CLOSED: [2017-07-03 Mon 07:04] SCHEDULED: <2017-07-02 Sun>
 *** DONE Host family for Swamini 
     CLOSED: [2017-07-03 Mon 15:35]
-*** STARTED Give feedback on registration
-    SCHEDULED: <2017-06-28 Wed>
+*** DONE Give feedback on registration
+    CLOSED: [2017-07-04 Tue 09:47] SCHEDULED: <2017-06-28 Wed>
 
 Browser: Firefox 54
+OS: Windows 8 and Ubuntu
 
-The bacground picture is only partially visible upto face.
-https not enabled
-Clicked on signup
-Entered name
-Entered mail
-Got a pop-up saying password has been sent to mail id
-Password received
-The mail says contact CM Registration team if there are problems, the mail id is columbus@chinmayamission.org, is the registration monitioring this ?
-A link can be provided with the mail to loging page
-Tried wrong maild id, got a pop saying user unknown
-After login shows Madhus contact (mail and phone)
-Perhaps ask user to change password after first login ?
-Could change password succesfull, logged out and asked to login againg with new password
-Fields like DoB and Phone need not be mandatory
-Could add 2 profiles, forces to add fields for others
-Clicked on Enroll one of the profile, did fancy rotate to open a new frame but the background text flipped.
-Register for drop down list
- - should be better sorted
- - should be better worded
-Language class timings shows up as 0s
-Sevak Satsangh day of the week not mentioned
-Day of the week can be mentioend for Sunday offerings also
-Acceptance waiver language needs correction.
+At the landing page, at login screen:
+ISSUE: The bacground picture is only partially visible upto face
+EXPECTATION: The full picture should be visible.
 
+ISSUE: https not enabled
+EXPECTATIO: https is enabled
+
+Registring for the first time sends a mail with password. The mail says contact CM Registration team if there are problems, the mail id is columbus@chinmayamission.org, 
+QUERY: Is the registration monitioring the above mail id?
+SUGGESTION: A link can be provided with the mail to goback to loging page
+SUGGESTION: Perhaps ask user to change password after first login
+SUGGESTION: Fields like DoB and Phone need not be mandatory
+
+Clicked on Enroll one of the profile, did fancy rotate to open a new frame the background text flipped.
+SUGGESTION: The text flipping maybe a feature but causes visual pollution and hard to read the options for enrollment. As the enrolment prompt is not full solid background.
+ISSUE: Register for drop down list, should be better sorted, 
+ISSUE: should be better worded and perhaps be simple
+ISSUE: Language class timings shows up as 0s
+ISSUE: Sevak Satsangh day of the week/timing not mentioned
+SUGGESTION: Day of the week can be mentioend for Sunday offerings also
+ISSUE: Acceptance waiver language needs correction.
 Suggested:
 In consideration of me accepting my, my spouse, and my child's/children's  participation in the above program or any program that Chinmaya Mission may arrange at any property, I hereby, for myself, my spouse,  my child or children and any other members of the family or guests whom I may bring to Chinmaya Mission or its events, waive and release Chinmaya Mission, and their officers, trustees, volunteers and members, and all other persons participating in the program, or involved in planning or execution of the program, from all liability or claims arising from any injury to myself, my child or my property. This release shall include, without limitation, all claims extended only to the person committing willful injury and not to any other person released hereby. 
+ISSUE: The waiver selection box has no effect (example enable moving forward with registration). Now can move forward without waiving.
 
 In payment history section:
- Academic year ends on 1970-01-01 is incorrect
+ISSUE: Academic year ends on 1970-01-01 is incorrect
+
+Post payment:
+ISSUE: This might not matter for flat fee but I could continue adding courses after payment too.
+ISSUE: Multiple time clashing courses can be selected.
+
+SUGGESTION: Profile photo cannot be updated.
+
+SUGGESTION: Can mention that site is still under construction.
+
 
 
 *** DONE Pest Control
@@ -166,7 +174,7 @@ Why wouldn't you volunteer your time
 :CATEGORY: CMC-Calendar
 :END:
 
-*** FESTIVALS / EVENTS
+*** DATES FESTIVALS / EVENTS
 **** ONETIME
 ***** Blood Donation Drive
       SCHEDULED: <2017-08-13 Sun>
@@ -252,8 +260,12 @@ Sunday, May 20, 2018	BALOTSAV
       :END:
 ***** DO Lawn moving
 
-**** DO CLEANUP
-     SCHEDULED: <2017-06-20 Tue ++6m>
+**** SCHED CLEANUP
+     SCHEDULED: <2017-12-20 Wed ++6m>
+     - State "DONE"       from "STARTED"    [2017-07-04 Tue 16:43]
+     :PROPERTIES:
+     :LAST_REPEAT: [2017-07-04 Tue 16:43]
+     :END:
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
