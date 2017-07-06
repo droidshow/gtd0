@@ -184,7 +184,13 @@ Push one tag
 Push all tags
  git push origin --tags
 
-git checkout -b <branch-name> <tag-name>
+Checkout a tag as a branch
+ git checkout -b <branch-name> <tag-name>
+
+*** Alias
+ git config --global alias.<alias-name> <command>
+ E.g git config --global alias.co checkout
+ Usage git co
 
 *** Branching
 Light weigth branching
@@ -337,9 +343,15 @@ insmod hello.ko
 cat /proc/kallsyms | grep hello
 cat Module.symvers
 nm hello.ko
+
 ** RASPBERRYPI 
 http://elinux.org/Interfacing_with_I2C_Devices
 https://www.raspberrypi.org/documentation/linux/kernel/README.md
+
+*** Build using Yocto
+https://github.com/Nuand/bladeRF/wiki/Creating-Linux-based-Embedded-System-Images-with-Yocto
+http://www.jumpnowtek.com/rpi/Raspberry-Pi-Systems-with-Yocto.html
+
 
 *** Building NOOBS from source
 
