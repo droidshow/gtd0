@@ -24,7 +24,8 @@
 Google SmartSuite for education
 
 ** CMC TASKS
-
+*** SCHED Pay 23 for books						:PAY:
+    SCHEDULED: <2017-07-09 Sun>
 *** SCHED Sync with Chinnappan about the Atmabodha video :ROCKY:
     SCHEDULED: <2017-07-08 Sat>
 *** DONE Verify with Binduji if this is all the classes               :GMAIL:
