@@ -24,6 +24,9 @@
 Google SmartSuite for education
 
 ** CMC TASKS
+
+*** SCHED Sync with Chinnappan about the Atmabodha video :ROCKY:
+    SCHEDULED: <2017-07-08 Sat>
 *** DONE Verify with Binduji if this is all the classes               :GMAIL:
     CLOSED: [2017-07-04 Tue 15:23] SCHEDULED: <2017-07-04 Tue>
  Prahald 
@@ -176,8 +179,10 @@ Why wouldn't you volunteer your time
 
 *** DATES FESTIVALS / EVENTS
 **** ONETIME
-***** Blood Donation Drive
+***** SCHED Blood Donation Drive
       SCHEDULED: <2017-08-13 Sun>
+***** SCHED Sw. Ganganandaji's visit 2017-07-05 to 2017-07-09      :SATSANGA:
+      SCHEDULED: <2017-07-09 Sun>
 **** RECURRING
 July	8th, 2017	BV Sevaks Orientation
 Saturday, August 19, 2017	Meet and Greet
