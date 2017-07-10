@@ -24,10 +24,10 @@
 Google SmartSuite for education
 
 ** CMC TASKS
-*** SCHED Pay 23 for books						:PAY:
-    SCHEDULED: <2017-07-09 Sun>
-*** SCHED Sync with Chinnappan about the Atmabodha video :ROCKY:
-    SCHEDULED: <2017-07-08 Sat>
+*** DONE Pay 23 for books                                               :PAY:
+    CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-09 Sun>
+*** DONE Sync with Chinnappan about the Atmabodha video               :ROCKY:
+    CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-08 Sat>
 *** DONE Verify with Binduji if this is all the classes               :GMAIL:
     CLOSED: [2017-07-04 Tue 15:23] SCHEDULED: <2017-07-04 Tue>
  Prahald 
@@ -112,8 +112,8 @@ SUGGESTION: Can mention that site is still under construction.
 *** Propose at EC meeting for premium parking                     :ECMEETING:
 *** New fire alarms
 *** New exit sign with small batteries and led lights
-*** SCHED Pay Scott $88.68 + $120                             :SCOTT:PAYMENT:
-    SCHEDULED: <2017-04-30 Sun>
+*** DONE Pay Scott $88.68 + $120                              :SCOTT:PAYMENT:
+    CLOSED: [2017-07-10 Mon 07:57] SCHEDULED: <2017-04-30 Sun>
 ** SOMEDAY
 *** TV screen cast
 **** Microsoft Windows 8
@@ -182,8 +182,8 @@ Why wouldn't you volunteer your time
 **** ONETIME
 ***** SCHED Blood Donation Drive
       SCHEDULED: <2017-08-13 Sun>
-***** SCHED Sw. Ganganandaji's visit 2017-07-05 to 2017-07-09      :SATSANGA:
-      SCHEDULED: <2017-07-09 Sun>
+***** DONE Sw. Ganganandaji's visit 2017-07-05 to 2017-07-09       :SATSANGA:
+      CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-09 Sun>
 **** RECURRING
 July	8th, 2017	BV Sevaks Orientation
 Saturday, August 19, 2017	Meet and Greet
@@ -254,7 +254,8 @@ Sunday, May 20, 2018	BALOTSAV
       :LAST_REPEAT: [2017-06-26 Mon 09:23]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-07-09 Sun ++7d>
+      SCHEDULED: <2017-07-16 Sun ++7d>
+      - State "DONE"       from "SCHED"      [2017-07-10 Mon 07:55]
       - State "DONE"       from "SCHED"      [2017-07-03 Mon 07:04]
       - State "DONE"       from "SCHED"      [2017-06-25 Sun 14:06]
       - State "DONE"       from "SCHED"      [2017-06-18 Sun 15:27]
@@ -262,7 +263,7 @@ Sunday, May 20, 2018	BALOTSAV
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-07-03 Mon 07:04]
+      :LAST_REPEAT: [2017-07-10 Mon 07:55]
       :END:
 ***** DO Lawn moving
 
