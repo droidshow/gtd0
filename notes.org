@@ -188,11 +188,19 @@ Checkout a tag as a branch
  git checkout -b <branch-name> <tag-name>
 
 *** Alias
+Alias
  git config --global alias.<alias-name> <command>
- E.g git config --global alias.co checkout
- Usage git co
+Example
+ git config --global alias.co checkout
+Usage 
+ git co
+Deleting alias
+ git config alias.<name> unset
 
-*** Branching
+git config --global alias.lod "log --oneline --decorate"
+git config --global alias.glod git log --oneline --decorate --graph --all
+
+*** *Branching*
 Light weigth branching
 Branch names are pointers to commit blobs
 Head is a pointer to the current Branch pointer
@@ -220,9 +228,12 @@ Resolve conflict and add
 
  git mergetool # visual tool for merging and removing conflict
 
-*** Links
-http://rogerdudler.github.io/git-guide/
 
+*** LINKS
+http://rogerdudler.github.io/git-guide/
+https://git-scm.com/book/en/v2
+https://help.github.com/
+https://git-scm.com/docs
 
 ** GSTREAMER
 Upstream : git://anongit.freedesktop.org/gstreamer/
