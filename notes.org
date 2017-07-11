@@ -205,9 +205,21 @@ Light weigth branching
 Branch names are pointers to commit blobs
 Head is a pointer to the current Branch pointer
 
+*WORKFLOW*
+ git co -b <branch-name>
+ git commit -am "<commit-msg>"
+ git co master
+ git merge <branch-name>
+ git branch -d <branch-name>
+ git mergetool
+
+
+
 Create branch
+ git co -b <branchname>
  git branch <branch name> 
  git log --oneline --decorate #check where the HEAD pointer 
+ git glod #alias
 
 Switch to branch
  git checkout <branchname>
@@ -228,6 +240,13 @@ Resolve conflict and add
 
  git mergetool # visual tool for merging and removing conflict
 
+Branch management
+ git branch  # List of branches
+ git branch  # List of branches with the last commit
+ git branch --merged # branches which have been merged to current branch and so can be deleted
+ git branch --no-merged # branches that haven't been merged, needs -D to force delete
+ 
+  
 
 *** LINKS
 http://rogerdudler.github.io/git-guide/
