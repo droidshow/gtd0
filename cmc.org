@@ -219,7 +219,7 @@ Sunday, May 20, 2018	BALOTSAV
 ***** Gurudev Mahasamadhi
 ***** Annual Day
 
-*** DO RECURRING
+*** RECURRING
 **** SCHED For winter Switch off water supply to outside outlet :MAINTENANCE:WATER:RECURRING:
      SCHEDULED: <2017-10-15 Sun ++1y>
 **** HVAC MAINTENANCE
