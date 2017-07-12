@@ -311,10 +311,11 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2017-07-11 Tue 21:00 ++2w>
+     SCHEDULED: <2017-07-25 Tue 21:00 ++2w>
+     - State "CANCELLED"  from "SCHED"      [2017-07-12 Wed 07:24]
      - State "DONE"       from "SCHED"      [2017-06-28 Wed 07:39]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-06-28 Wed 07:39]
+     :LAST_REPEAT: [2017-07-12 Wed 07:24]
      :END:
 ** REFERNCE
 *** LOWES TAX EXEMPT NUMBER
