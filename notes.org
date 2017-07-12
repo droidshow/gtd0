@@ -375,8 +375,8 @@ cat Module.symvers
 nm hello.ko
 
 ** RASPBERRYPI 
-http://elinux.org/Interfacing_with_I2C_Devices
-https://www.raspberrypi.org/documentation/linux/kernel/README.md
+
+*** STARTED https://www.raspberrypi.org/documentation/linux/           :HEAD:
 
 *** Build using Yocto
 https://github.com/Nuand/bladeRF/wiki/Creating-Linux-based-Embedded-System-Images-with-Yocto
@@ -489,14 +489,15 @@ Pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace 
 **** ./opt/vc: includes userspace libraries for the VideCoreIV (EGL/GLES/OpenVG 
       etc). See ./opt/vc/LICENCE for licencing terms
 
-
+*** i2c
+http://elinux.org/Interfacing_with_I2C_Devices
 *** userland
 
 *** Toolchain for broadcom
 https://github.com/raspberrypi/tools/tree/master/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian
 Source code for ARM side libraries for interfacing to Raspberry Pi GPU. 
 
-*** STARTED DEVICE TREE
+*** DEVICE TREE
 https://www.raspberrypi.org/documentation/configuration/device-tree.md
 
 config.txt - Uncomment required external interfaces (SPI, I2C, I2S) and the peripherals that use them
