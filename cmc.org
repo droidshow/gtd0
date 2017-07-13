@@ -25,6 +25,8 @@ Google SmartSuite for education
 
 ** CMC TASKS
 
+*** WAITING Invoice for rain gutter work from Scott :SCOTT:
+    SCHEDULED: <2017-07-17 Mon>
 *** List of things needing attention this summer :CMC:MAINTENANCE:
 - 2 channel Wifi router
 - Cable modem
