@@ -210,6 +210,7 @@ Head is a pointer to the current Branch pointer
  git commit -am "<commit-msg>"
  git co master
  git merge <branch-name>
+ git branch --merged
  git branch -d <branch-name>
  git mergetool
 
@@ -241,9 +242,9 @@ Resolve conflict and add
  git mergetool # visual tool for merging and removing conflict
 
 Branch management
- git branch  # List of branches
- git branch  # List of branches with the last commit
- git branch --merged # branches which have been merged to current branch and so can be deleted
+ git branch             # List of branches
+ git branch  -v         # List of branches with the last commit
+ git branch --merged    # branches which have been merged to current branch and so can be deleted
  git branch --no-merged # branches that haven't been merged, needs -D to force delete
  
   
