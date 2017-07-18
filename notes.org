@@ -379,6 +379,9 @@ nm hello.ko
 
 *** STARTED https://www.raspberrypi.org/documentation/linux/           :HEAD:
 
+*** AUDIO
+https://www.hifiberry.com/build/gallery/
+
 *** Build using Yocto
 https://github.com/Nuand/bladeRF/wiki/Creating-Linux-based-Embedded-System-Images-with-Yocto
 http://www.jumpnowtek.com/rpi/Raspberry-Pi-Systems-with-Yocto.html
