@@ -379,7 +379,7 @@ nm hello.ko
 
 *** STARTED https://www.raspberrypi.org/documentation/linux/           :HEAD:
 
-*** AUDIO
+*** AUDIO BOARDS
 https://www.hifiberry.com/build/gallery/
 
 *** Build using Yocto
