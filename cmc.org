@@ -27,19 +27,23 @@ Google SmartSuite for education
 
 ** CMC TASKS
 
+*** Get teh old fire alarms replaced
+*** DO Consolidate CM contribution receipts and get it reimbursed 
+*** DO Change the phone number in flyers                               :FREE:
+*** DO Document the IT infra pw and distribute                         :COMP:
 *** WAITING Invoice for rain gutter work from Scott :SCOTT:
     SCHEDULED: <2017-07-21 Fri>
-*** List of things needing attention this summer :CMC:MAINTENANCE:
-- 2 channel Wifi router
-- Cable modem
-- Pictures, frames and hanging
-- Sound system, new mic
-- Cheaper alternative for snow cleaning, salt and clean  for 100
-- Grass killer for cracks on road
-- Road crack filling
-- Try to fix the shower upstairs or replace
-- Outside, wood above the hall needs painting
-- Outside, the wood beam above entrance has rotted, needs replacing.
+*** DO Pictures, frames and hanging
+**** DO Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
+**** DO Get teh photo pronted 36 in x 24 in
+*** DO Sound system, new wireless lapel mic                     :ONLINE:FREE:
+*** Contact Marcos Cheaper alternative for snow cleaning, salt and clean  for 100 :MARCOS:CALL:
+*** Outside wood work :MARCOS:CALL:
+*** Grass killer for cracks on road
+**** Check with Puran if has got the weed killer :CALL:PURAN:
+*** Road crack filling
+**** DO Ask Mike if he knows anyone good to do teh road crack filling at CM :OFFICE:MIKE:
+*** Try to fix the shower upstairs or replace
 *** DONE Pay 23 for books                                               :PAY:
     CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-09 Sun>
 *** DONE Sync with Chinnappan about the Atmabodha video               :ROCKY:
@@ -57,7 +61,6 @@ GitaChanting
  Bala Krishna
 
 ?? Eka Lavya
-
 
 *** Shram Dhaan doc feedback
 **** DONE Mention Expectation on frequency 
@@ -110,8 +113,7 @@ SUGGESTION: Profile photo cannot be updated.
 
 SUGGESTION: Can mention that site is still under construction.
 
-
-
+*** Get teh fire-alarms replaced :
 *** DONE Pest Control
     CLOSED: [2017-06-28 Wed 14:23]
 **** DONE Procure thrist inducing tablets                  :ONLINE:ATWALMART:
