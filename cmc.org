@@ -32,7 +32,7 @@ Google SmartSuite for education
 *** DO Change the phone number in flyers                               :FREE:
 *** DO Document the IT infra pw and distribute                         :COMP:
 *** WAITING Invoice for rain gutter work from Scott :SCOTT:
-    SCHEDULED: <2017-07-21 Fri>
+    SCHEDULED: <2017-07-24 Mon>
 *** DO Pictures, frames and hanging
 **** DO Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
 **** DO Get teh photo pronted 36 in x 24 in
