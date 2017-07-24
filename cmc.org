@@ -31,8 +31,8 @@ Google SmartSuite for education
 *** DO Consolidate CM contribution receipts and get it reimbursed 
 *** DO Change the phone number in flyers                               :FREE:
 *** DO Document the IT infra pw and distribute                         :COMP:
-*** WAITING Invoice for rain gutter work from Scott :SCOTT:
-    SCHEDULED: <2017-07-24 Mon>
+*** DONE Invoice for rain gutter work from Scott                      :SCOTT:
+    CLOSED: [2017-07-24 Mon 07:30] SCHEDULED: <2017-07-24 Mon>
 *** DO Pictures, frames and hanging
 **** DO Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
 **** DO Get teh photo pronted 36 in x 24 in
@@ -272,7 +272,8 @@ Sunday, May 20, 2018	BALOTSAV
       :LAST_REPEAT: [2017-06-26 Mon 09:23]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-07-23 Sun ++7d>
+      SCHEDULED: <2017-07-30 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2017-07-23 Sun 19:27]
       - State "DONE"       from "SCHED"      [2017-07-16 Sun 18:34]
       - State "DONE"       from "SCHED"      [2017-07-10 Mon 07:55]
       - State "DONE"       from "SCHED"      [2017-07-03 Mon 07:04]
@@ -282,7 +283,7 @@ Sunday, May 20, 2018	BALOTSAV
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-07-16 Sun 18:34]
+      :LAST_REPEAT: [2017-07-23 Sun 19:27]
       :END:
 ***** DO Lawn moving
 
@@ -295,12 +296,13 @@ Sunday, May 20, 2018	BALOTSAV
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2017-07-23 Sun ++4w>
+      SCHEDULED: <2017-08-20 Sun ++4w>
+      - State "CANCELLED"  from "SCHED"      [2017-07-23 Sun 19:27]
       - State "CANCELLED"  from "SCHED"      [2017-06-25 Sun 14:06]
       - State "CANCELLED"  from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-10 Wed 07:28]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-06-25 Sun 14:06]
+      :LAST_REPEAT: [2017-07-23 Sun 19:27]
       :END:
 
 **** PEST CONTROL
