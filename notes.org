@@ -6,30 +6,21 @@
 http://mesonbuild.com
 https://ninja-build.org/
 *** Yocto
-** CONSOLIDATE DATA
-
-Hook old drive to Linux
-Scanfor virus
-Repeat
-
-Get new drive
-Transfer data
-Format old drive and use for backups
-
-https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device
-
 ** ENCRYPTION
 http://lifehacker.com/a-beginners-guide-to-encryption-what-it-is-and-how-to-1508196946
 http://lifehacker.com/five-best-file-encryption-tools-5677725
 http://lifehacker.com/whats-the-best-file-encryption-tool-1683834660
 
 ** GIT
-*** Initial Setup
+*** Initial Setup and Config
 git config --local user.name "om"
 git config --local user.email "om@--.com"
 git config --local core.editor emacs
+git config --global credential.helper cache
 git config --list
 git config user.name
+git config --global alias.lod "log --oneline --decorate"
+git config --global alias.glod git log --oneline --decorate --graph --all
 
 .gitignore
 The rules for the patterns you can put in the .gitignore file are as follows:
@@ -187,6 +178,11 @@ Push all tags
 Checkout a tag as a branch
  git checkout -b <branch-name> <tag-name>
 
+Checkout a tag
+ git clone
+ git tag -l
+ git checkout tags/<tag_name>
+
 *** Alias
 Alias
  git config --global alias.<alias-name> <command>
@@ -213,8 +209,6 @@ Head is a pointer to the current Branch pointer
  git branch --merged
  git branch -d <branch-name>
  git mergetool
-
-
 
 Create branch
  git co -b <branchname>
@@ -247,7 +241,18 @@ Branch management
  git branch --merged    # branches which have been merged to current branch and so can be deleted
  git branch --no-merged # branches that haven't been merged, needs -D to force delete
  
-  
+Remote Branch
+ git fetch <remote-name>       # Update local database with the remote 
+ git push <remote> <branch>    # Share a branch with the git server
+ git push <remote> <branch-name>:<alternate-branch-name> # Renaming a branch before pushing to server
+ git merge <remote>/<branch>   # Merging changes from a remote branch
+ git checkout -b <branch-name> <remote>/<branch-name> # Pulling a remote barnch as a local branch
+ git checkout --track <remote>/<branch-name>          # Same as above
+ git checkout <remote-branch-name>                    # Same as above 
+ git branch -u <remote>/<branch-name>  # Current branch to track upstream branch
+ @{u}      # alias to upstream e.g git merge origin/master = git merge @{u}
+ git pull  # git fetch + git merge
+ git push <remote> --delete <branch> # Delete a branch from the server
 
 *** LINKS
 http://rogerdudler.github.io/git-guide/
@@ -361,6 +366,55 @@ https://wiki.archlinux.org/index.php/S.M.A.R.T.
 
 
 ** LINUX
+*** FHS - File Hierarchy Standard
+https://wiki.debian.org/FilesystemHierarchyStandard
+
+*** Init Systems
+System services, daemons, init
+
+SysV init
+Built on older concepts
+Cannot natively detect hw and load firmware
+Simplified view of possible states of computer, might cause problem in server (ok for personal use)
+- single-user
+- single-user with networking
+- multi-user
+- multi-user graphical
+- reboot
+- halt
+Init is done serially one after another, resulting in longer boot times
+E.g service dummy start
+
+Upstart
+Introduced by Canonical in Ubuntu 6.10 (Edgy Eft) (2006)
+Backward compatible with 
+Depends on DBus
+
+systemd 
+Introduced by Red Hat in Fedora 15 (2010)
+Depeneds on DBus
+Comprehensive, huge and complex
+Used in : Fedora, OpenSuSE, Arch, RHEL, CentOS
+Avoids delay? How? Parallel?
+Process tracking using kernel cgroup (not PID)
+systemd-logind
+Integrated with gnome
+Not POSIX
+All in one
+E.G.> systemctl start dummy.service
+
+OpernRC
+sinit
+runit
+shepherd
+s6
+Epoch
+Mudar
+
+**** LINKS
+SysVInit to SystemD Init Cheatsheet
+https://fedoraproject.org/wiki/SysVinit_to_Systemd_Cheatsheet
+https://linoxide.com/linux-command/systemd-vs-sysvinit-cheatsheet/
 
 *** I2C - Userspace access
 https://www.kernel.org/doc/Documentation/i2c/dev-interface
@@ -377,15 +431,35 @@ nm hello.ko
 
 ** RASPBERRYPI 
 
-*** STARTED https://www.raspberrypi.org/documentation/linux/           :HEAD:
+*** STARTED https://www.raspberrypi.org/documentation/linux/           
+**** STARTED https://www.raspberrypi.org/documentation/linux/usage/README.md :HEAD:RPI:
 
 *** AUDIO BOARDS
 https://www.hifiberry.com/build/gallery/
 
+*** BACKUP
+
+**** home
+cd /home/
+sudo tar czf my_home_$(date +%F_%H%M).tar.gz pi
+cp my_home*.tar.gz /mnt/usb
+
+**** mysql
+mysqldump -uroot -ppass recipes > recipes_$(date +%F_%H%M).sql
+
+***** Create a new sql db and restore from backup
+mysql -Bse "create database recipes"
+cat recipes*.sql | mysql recipes
+
+**** sdcard image
+sudo dd bs=4M if=/dev/sdb of=raspbian_$(date +%F_%H%M).img
+sudo dd bs=4M if=raspbian*.img of=/dev/sdb
+sudo dd bs=4M if=/dev/sdb | gzip > rasbian_$(date +%F_%H%M).img.gz
+gunzip --stdout rasbian*.img.gz | sudo dd bs=4M of=/dev/sdb
+
 *** Build using Yocto
 https://github.com/Nuand/bladeRF/wiki/Creating-Linux-based-Embedded-System-Images-with-Yocto
 http://www.jumpnowtek.com/rpi/Raspberry-Pi-Systems-with-Yocto.html
-
 
 *** Building NOOBS from source
 
@@ -810,6 +884,62 @@ Half NIM means
  Not include Demodulator in this CAN. 
  LNA output is IF
  Demodulator is on the other PCBs.
+
+*** VIDEO
+**** MPEG2 
+***** Understanding GOPs and Frame Types
+A major feature of MPEG-2 encoding is its ability to remove redundancy, not only within a frame, but also among a group of frames. 
+MPEG-2 uses three frame types (I, P, and B) to represent the video. 
+A group of pictures (GOP) setting defines the pattern of the three frame types used. 
+These three picture types are defined in the following ways.
+
+Intra (I): Also known as the key frame. Every GOP contains one I-frame. The I-frame is the only MPEG-2 frame type which can be fully decompressed without any reference to frames that precede or follow it. It is also the most data-heavy, requiring the most disk space. If you want to place an I-frame at a scene change or some other specific frame location, you need to manually set it using the Preview window. This is known as a forced I-frame. See Adding Markers to a Clip for more information.
+Predicted (P): Encoded from a "predicted" picture based on the closest preceding I- or P-frame. P-frames typically require much less disk space than do I-frames because they reference a preceding I- or P-frame in the GOP.
+Note: Both I-frames and P-frames are also known as reference frames, because a B-frame may refer to either one or both frame types.
+Bi-directional (B): Encoded from an interpolation of succeeding and preceding reference frames, either I-frame or P-frame. B-frames are the most storage-efficient MPEG-2 frame type, requiring the least amount of disk space.
+
+B-Frames are Bidirectional frames. They can get information from the previous or following I or P-Frames. With a closed GOP, the B-Frame(s) at the end can only use data from the previous I or P-Frame, and as a result, they will be larger than they might be if the GOP is open. With an open GOP, it can "look" beyond the GOP boundary for the data. As a result, they'll be smaller usually. The upshot is that the quality will be better by a little bit for the same file size with open GOPs. And jdobbs, as always, was right.
+Closed GOPs are useful only if you are planning to do some editing of the MPEG.
+
+The GOP structure is often referred by two numbers, for example, M=3, N=12. The first number tells the distance between two anchor frames (I or P). The second one tells the distance between two full images (I-frames): it is the GOP size. For the example M=3, N=12, the GOP structure is IBBPBBPBBPBBI. 
+For example, in a sequence with pattern IBBBBPBBBBPBBBBI, the GOP size is equal to 15 (length between two I frames) and distance between two anchor frames (M value) is 5 (length between I and P frames or length between two consecutive P Frames).
+***** LINKS
+http://www.geniusdv.com/news_and_tutorials/2009/01/advanced_gop-ology_draft.php
+https://kvssoft.wordpress.com/2015/01/28/mpeg-dash-gop/
+
+**** PES HEADER
+http://dvd.sourceforge.net/dvdinfo/pes-hdr.html
+http://happy.emu.id.au/lab/tut/dttb/dtbtut4b.htm
+
+*** LINKS
+http://forum.doom9.org/
+
+*** TOOLS
+avconv
+exiftool
+ffprobe
+gspot - For PS file analysis, shows GOP structure
+gopchop - For PS Video chopping tool at GOP boundries 
+dvbsnoop - Stream analysis DVB Section centric
+*dvbinspector* - Javabased, shows packet details
+http://www.digitalekabeltelevisie.nl/dvb_inspector/download.shtml
+mediainfo
+mplayer
+
+tsreader
+http://www.coolstf.com/tsreader
+
+TSPE - Transport Stream Packet Editor / Analyzer
+http://www.bitstreamtools.com/download/index.php
+
+elecard stream analyser - 
+https://www.elecard.com/products/video-analysis/stream-analyzer
+
+Zond 265 - HEVC Analyzer
+http://www.solveigmm.com/en/products/zond/
+
+Perl based library, implement callback
+http://search.cpan.org/dist/Linux-DVB-DVBT-TS/lib/Linux/DVB/DVBT/TS.pm
 
 ** UBUNTU
 *** Antivirus ClamAV
