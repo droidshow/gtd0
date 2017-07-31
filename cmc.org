@@ -1,6 +1,9 @@
 * CMC
 
 ** UPDATES
+
+*** Updates 2017-07-23
+Published the document "CMC-IT-ver-0.1.pdf"
 *** Updates 2017-07-17
 - Installed TP LInk Dual Band Wifi
 *** Updates 2017-06-25
@@ -29,13 +32,24 @@ Google SmartSuite for education
 
 *** Get teh old fire alarms replaced
 *** DO Consolidate CM contribution receipts and get it reimbursed 
-*** DO Change the phone number in flyers                               :FREE:
-*** DO Document the IT infra pw and distribute                         :COMP:
+*** DO Change the phone number and website info in flyers           :PALLAVI:
+*** DONE Document the IT infra pw and distribute                       :COMP:
+    CLOSED: [2017-07-30 Sun 10:15]
 *** DONE Invoice for rain gutter work from Scott                      :SCOTT:
     CLOSED: [2017-07-24 Mon 07:30] SCHEDULED: <2017-07-24 Mon>
+*** SCHED Reimburse the rain-gutter work and donate the power wash work :BILLS:REIMBURSE:
 *** DO Pictures, frames and hanging
-**** DO Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
-**** DO Get teh photo pronted 36 in x 24 in
+**** DONE Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
+     CLOSED: [2017-07-30 Sun 10:16]
+**** STARTED Get teh photo pronted 36 in x 24 in
+fedex - $106
+walgreens - $30 same day pickup
+national photo lab - $32 shipping
+shutterfly - discover gift card - $20 - 25 and $40 - 50
+           - Summertime 50% off on $39+ code: SUMMERTIME - Doesn't have 24x36
+costco - Doesn't have 24x36
+
+
 *** DO Sound system, new wireless lapel mic                     :ONLINE:FREE:
 *** Contact Marcos Cheaper alternative for snow cleaning, salt and clean  for 100 :MARCOS:CALL:
 *** Outside wood work :MARCOS:CALL:
@@ -44,6 +58,9 @@ Google SmartSuite for education
 *** Road crack filling
 **** DO Ask Mike if he knows anyone good to do teh road crack filling at CM :OFFICE:MIKE:
 *** Try to fix the shower upstairs or replace
+*** WAITING Woodpanel replacement near the entrance :MARCOS:
+*** Paint the underside of roof that juts out 
+
 *** DONE Pay 23 for books                                               :PAY:
     CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-09 Sun>
 *** DONE Sync with Chinnappan about the Atmabodha video               :ROCKY:
