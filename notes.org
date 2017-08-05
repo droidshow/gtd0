@@ -123,6 +123,9 @@ Unstaging a staged file
 Revert to previous commit (throwing away local changes)
  git checkout -- <file>
 
+LINK:
+https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+
 *** Remotes
 Adding a remote
  git remote add <name> <remote url>
@@ -243,6 +246,7 @@ Branch management
  
 Remote Branch
  git fetch <remote-name>       # Update local database with the remote 
+ git fetch --all; git branch -vv # Status of all branches and what it is tracking
  git push <remote> <branch>    # Share a branch with the git server
  git push <remote> <branch-name>:<alternate-branch-name> # Renaming a branch before pushing to server
  git merge <remote>/<branch>   # Merging changes from a remote branch
@@ -253,6 +257,7 @@ Remote Branch
  @{u}      # alias to upstream e.g git merge origin/master = git merge @{u}
  git pull  # git fetch + git merge
  git push <remote> --delete <branch> # Delete a branch from the server
+
 
 *** LINKS
 http://rogerdudler.github.io/git-guide/
@@ -276,7 +281,7 @@ http://gstreamer.freedesktop.org/documentation
 
  GObject
  https://developer.gnome.org/gobject/stable/
->>>  https://developer.gnome.org/gobject/stable/chapter-gobject.html
+:GSTREAMER:HEAD:1:  https://developer.gnome.org/gobject/stable/chapter-gobject.html
 
 Push Pull Modes of Pads
 https://gstreamer.freedesktop.org/data/doc/gstreamer/head/pwg/html/section-scheduling-randomxs.html
@@ -285,7 +290,67 @@ http://www.mediatools.cs.ucl.ac.uk/nets/newvideo/browser/gst-cvs/gstreamer/docs/
 E.g scenarios
 http://fossies.org/linux/gstreamer/docs/design/part-scheduling.txt
 
+Checkout and build
+https://arunraghavan.net/2014/07/quick-start-guide-to-gst-uninstalled-1-x/
+https://arunraghavan.net/talks/
 
+Running with GDB
+$ libtool --mode=execute gdb --args gstreamer/tools/gst-launch-1.0 videotestsrc ! videoconvert ! xvimagesink
+
+*** Fresh checkout and build
+Copy the notes here
+
+*** STARTED Plugin Writers Guide                             :GSTREAMER:HEAD:
+:GSTREAMER:HEAD:2: https://gstreamer.freedesktop.org/documentation/plugin-development/basics/testapp.html
+
+**** Keywords and terminologies
+Elements - GObjects based on GstElements that can be linked together
+Plugins - (.so, .a, .dll)  encapsulate many (or one) element 
+Pads - Ports on elements through which data communicates with other elements
+GstMiniObject - Object type to hold buffer and events
+Buffers - Hold Data and MetaData 
+ MetaData can be TimeStamp or GstMemory
+ Ususally memory is allocated. 
+ Special cases 
+  filesrc : mmaps file contentns to user space and buffers point to it
+  GstBufferPool or GstAllocator can supply buffers to upstream elements (can be hw buffers)
+Event - horrizontal communications - are used to communicate a media type, the end of a media stream or that the cache should be flushed.
+Filters can work in-place or copy data or both
+States - NULL, READY, PAUSED, PLAYING (paused and playing are almost same except for sink)
+Signals - vertical comuunication with the app
+Bus -
+Messages -
+
+**** Creating a new plugin (old)
+
+shell $ git clone git://anongit.freedesktop.org/gstreamer/gst-template.git
+shell $ cd gst-template/gst-plugin/src
+shell $ ../tools/make_element MyFilter
+
+**** Create a new plugin (new)
+../../../gst-plugins-bad/tools/gst-element-maker MyFilter <baseParse>
+
+**** Inits
+
+***** Class Init - gst_my_filter_class_init()
+ - Regsiter meta
+ - Add properties
+ - Register pad templates with element class
+
+***** Plugin Init = myfilter_init()
+ - Exposes the existence of the plugin
+ - donot fail for resource missing
+
+***** Element Init = gst_my_filter_init()
+ - Create pad from pad template
+ - set chain functions to receive and process data
+ - set event function (optional)
+ - set query function (optional)
+
+
+
+*** Building test app
+gcc -Wall myfilterapp.c -o myfilterapp $(pkg-config --cflags --libs gstreamer-1.0)
 
 *** DEBUG
 GST_DEBUG_BIN_TO_DOT_FILE_WITH_TS(GST_BIN(_pipeline),  GST_DEBUG_GRAPH_SHOW_ALL, "mygraph");
@@ -873,7 +938,9 @@ UUID=""   /srv/smba      ntfs      auto,umask=000,nofail,user,rw       0     0
 sudo mount -a
 chown /srv/smba
 
-
+** SVN
+svn revert . --recursive
+svn update
 ** TV / STB
 *** BASICS
 http://www.itvdictionary.com/set-top_box.html
