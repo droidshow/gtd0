@@ -32,7 +32,8 @@ Google SmartSuite for education
 
 *** Get teh old fire alarms replaced
 *** DO Consolidate CM contribution receipts and get it reimbursed 
-*** DO Change the phone number and website info in flyers           :PALLAVI:
+*** CANCELLED Change the phone number and website info in flyers    :PALLAVI:
+    CLOSED: [2017-08-05 Sat 22:43]
 *** DONE Document the IT infra pw and distribute                       :COMP:
     CLOSED: [2017-07-30 Sun 10:15]
 *** DONE Invoice for rain gutter work from Scott                      :SCOTT:
@@ -52,14 +53,14 @@ costco - Doesn't have 24x36
 
 *** DO Sound system, new wireless lapel mic                     :ONLINE:FREE:
 *** Contact Marcos Cheaper alternative for snow cleaning, salt and clean  for 100 :MARCOS:CALL:
-*** Outside wood work :MARCOS:CALL:
+*** STARTED Outside wood work                                   :MARCOS:CALL:
 *** Grass killer for cracks on road
 **** Check with Puran if has got the weed killer :CALL:PURAN:
 *** Road crack filling
 **** DO Ask Mike if he knows anyone good to do teh road crack filling at CM :OFFICE:MIKE:
 *** Try to fix the shower upstairs or replace
 *** WAITING Woodpanel replacement near the entrance :MARCOS:
-*** Paint the underside of roof that juts out 
+*** Paint the underside of roof that juts out near the back
 
 *** DONE Pay 23 for books                                               :PAY:
     CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-09 Sun>
@@ -140,7 +141,8 @@ SUGGESTION: Can mention that site is still under construction.
 *** Frames of Saraswathi and Gurudev in all classrooms :CMC:
 *** Hooks on false ceiling for decoration :CMC:
 *** Reverse HDMI cable :VINOD:ATCMC:
-*** Outside lamp :ATCMC:
+*** DONE Outside lamp                                                 :ATCMC:
+    CLOSED: [2017-08-05 Sat 22:45]
 **** Find the type of the bulb :ATCMC:
 **** Check in Costco for the bulb type :ATCOSTCO:ATMENARDS:
 *** Fix shower pipes leakage
