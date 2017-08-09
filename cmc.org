@@ -1,3 +1,29 @@
+Check clock
+Spray insecticide
+
+
+Google SmartSuite for education
+Get the 24x36 photo printed
+ Check at Fedex Sancus for Kimco discount
+Contact Marcos 
+- for cheaper alternative to snow cleaning, salting ~$100/occurence
+- Outside woodwork and painting the underside of roof jutting out at the backside
+- cleanup
+Try to fix the shower upstairs or replace
+Wood chip to adjust projector height
+Hooks on false ceiling for decoration
+Reverse HDMI cable
+New exit sign with small batteries and led lights
+ShrmDhan schedule print on 11x17
+
+
+Do we need 
+- new wireless lapel mic
+- fire alarm replaced
+- Check with Puran if has got the weed killer
+- Road crack filling (contact Mike at office)
+
+
 * CMC
 
 ** UPDATES
@@ -26,7 +52,7 @@ Published the document "CMC-IT-ver-0.1.pdf"
 - Uhaul ramp to be removed by Saran
 - Gurudevs photo missing in Tapovan hall
 
-Google SmartSuite for education
+
 
 ** CMC TASKS
 
@@ -39,7 +65,6 @@ Google SmartSuite for education
 *** DONE Invoice for rain gutter work from Scott                      :SCOTT:
     CLOSED: [2017-07-24 Mon 07:30] SCHEDULED: <2017-07-24 Mon>
 *** SCHED Reimburse the rain-gutter work and donate the power wash work :BILLS:REIMBURSE:
-*** DO Pictures, frames and hanging
 **** DONE Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
      CLOSED: [2017-07-30 Sun 10:16]
 **** STARTED Get teh photo pronted 36 in x 24 in
@@ -56,7 +81,7 @@ costco - Doesn't have 24x36
 *** STARTED Outside wood work                                   :MARCOS:CALL:
 *** Grass killer for cracks on road
 **** Check with Puran if has got the weed killer :CALL:PURAN:
-*** Road crack filling
+*** Road crack fillingo
 **** DO Ask Mike if he knows anyone good to do teh road crack filling at CM :OFFICE:MIKE:
 *** Try to fix the shower upstairs or replace
 *** WAITING Woodpanel replacement near the entrance :MARCOS:
@@ -143,8 +168,10 @@ SUGGESTION: Can mention that site is still under construction.
 *** Reverse HDMI cable :VINOD:ATCMC:
 *** DONE Outside lamp                                                 :ATCMC:
     CLOSED: [2017-08-05 Sat 22:45]
-**** Find the type of the bulb :ATCMC:
-**** Check in Costco for the bulb type :ATCOSTCO:ATMENARDS:
+**** DONE Find the type of the bulb                                   :ATCMC:
+     CLOSED: [2017-08-08 Tue 20:55]
+**** CANCELLED Check in Costco for the bulb type         :ATCOSTCO:ATMENARDS:
+     CLOSED: [2017-08-08 Tue 20:55]
 *** Fix shower pipes leakage
 *** Propose at EC meeting for premium parking                     :ECMEETING:
 *** New fire alarms
@@ -342,12 +369,13 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2017-08-08 Tue 21:00 ++2w>
+     SCHEDULED: <2017-08-22 Tue 21:00 ++2w>
+     - State "DONE"       from "STARTED"    [2017-08-09 Wed 08:17]
      - State "DONE"       from "SCHED"      [2017-07-28 Fri 09:50]
      - State "CANCELLED"  from "SCHED"      [2017-07-12 Wed 07:24]
      - State "DONE"       from "SCHED"      [2017-06-28 Wed 07:39]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-07-28 Fri 09:50]
+     :LAST_REPEAT: [2017-08-09 Wed 08:17]
      :END:
 ** REFERNCE
 *** LOWES TAX EXEMPT NUMBER
