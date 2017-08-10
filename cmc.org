@@ -1,17 +1,30 @@
-* Spray insecticide again inside
-* Check clock
-* Wood chip to adjust projector height
-* Reverse HDMI cable
-* Get the 24x36 photo printed
-** Check at Fedex Sancus for Kimco discount
-* ShramDhan schedule print on 11x17
-* Contact Marcos
+* STARTED Get the 24x36 photo printed
+** DONE Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
+   CLOSED: [2017-07-30 Sun 10:16]
+** SCHED Check at Costco price for 24x36 prints :COSTCO:
+   SCHEDULED: <2017-08-09 Wed 18:30>
+** SCHED Check at Fedex Sancus for Kimco discount :FEDEX:
+   SCHEDULED: <2017-08-09 Wed 19:00>
+** STARTED Get teh photo pronted 36 in x 24 in
+- fedex online without kimko - $106
+- walgreens - $30 same day pickup, but can't upload the photo
+- national photo lab - $32 shipping
+- shutterfly - discover gift card - $20 - 25 and $40 - 50 - Summertime 50% off on $39+ code: SUMMERTIME - Doesn't have 24x36
+- costco online - Doesn't have 24x36
+
+* Spray insecticide again inside :@ARCHANA:
+* Check clock :@ARCHANA:
+* Wood chip to adjust projector height :@ARCHANA:
+* Wood chip between rails near the stais upstairs :@ARCHANA:
+* Reverse HDMI cable :@ARCHANA:
+* ShramDhan schedule print on 11x17 :FEDEX:
+* Contact Marcos / Scott :SCOTT:MARCOS:
 ** for cheaper alternative to snow cleaning, salting ~$100/occurence
 ** Outside woodwork and painting the underside of roof jutting out at the backside
 ** Outside cleanup
-* Try to fix the shower upstairs or replace
-* Hooks on false ceiling for decoration
-* New exit sign with small batteries and led lights
+* Try to fix the shower upstairs or replace :@ARCHANA:
+* Hooks on false ceiling for decoration :@ARCHANA:
+* New exit sign with small batteries and led lights :@ARCHANA:
 
 * NEEDED ?
 - new wireless lapel mic
@@ -52,37 +65,13 @@ Published the document "CMC-IT-ver-0.1.pdf"
 
 ** CMC TASKS
 
-*** Get teh old fire alarms replaced
-*** DO Consolidate CM contribution receipts and get it reimbursed 
 *** CANCELLED Change the phone number and website info in flyers    :PALLAVI:
     CLOSED: [2017-08-05 Sat 22:43]
 *** DONE Document the IT infra pw and distribute                       :COMP:
     CLOSED: [2017-07-30 Sun 10:15]
 *** DONE Invoice for rain gutter work from Scott                      :SCOTT:
     CLOSED: [2017-07-24 Mon 07:30] SCHEDULED: <2017-07-24 Mon>
-*** SCHED Reimburse the rain-gutter work and donate the power wash work :BILLS:REIMBURSE:
-**** DONE Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
-     CLOSED: [2017-07-30 Sun 10:16]
-**** STARTED Get teh photo pronted 36 in x 24 in
-fedex - $106
-walgreens - $30 same day pickup
-national photo lab - $32 shipping
-shutterfly - discover gift card - $20 - 25 and $40 - 50
-           - Summertime 50% off on $39+ code: SUMMERTIME - Doesn't have 24x36
-costco - Doesn't have 24x36
-
-
-*** DO Sound system, new wireless lapel mic                     :ONLINE:FREE:
-*** Contact Marcos Cheaper alternative for snow cleaning, salt and clean  for 100 :MARCOS:CALL:
-*** STARTED Outside wood work                                   :MARCOS:CALL:
-*** Grass killer for cracks on road
-**** Check with Puran if has got the weed killer :CALL:PURAN:
-*** Road crack fillingo
-**** DO Ask Mike if he knows anyone good to do teh road crack filling at CM :OFFICE:MIKE:
-*** Try to fix the shower upstairs or replace
-*** WAITING Woodpanel replacement near the entrance :MARCOS:
-*** Paint the underside of roof that juts out near the back
-
+*** DO Reimburse the rain-gutter work and donate the power wash work :BILLS:REIMBURSE:
 *** DONE Pay 23 for books                                               :PAY:
     CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-09 Sun>
 *** DONE Sync with Chinnappan about the Atmabodha video               :ROCKY:
@@ -101,7 +90,8 @@ GitaChanting
 
 ?? Eka Lavya
 
-*** Shram Dhaan doc feedback
+*** DONE Shram Dhaan doc feedback
+    CLOSED: [2017-08-09 Wed 16:39]
 **** DONE Mention Expectation on frequency 
      CLOSED: [2017-07-03 Mon 15:35]
 **** DONE 2 classes using same classroom
@@ -152,33 +142,24 @@ SUGGESTION: Profile photo cannot be updated.
 
 SUGGESTION: Can mention that site is still under construction.
 
-*** Get teh fire-alarms replaced :
 *** DONE Pest Control
     CLOSED: [2017-06-28 Wed 14:23]
 **** DONE Procure thrist inducing tablets                  :ONLINE:ATWALMART:
      CLOSED: [2017-06-26 Mon 07:12]
 **** DONE Spread tables around the facility                           :ATCMC:
      CLOSED: [2017-06-26 Mon 07:12]
-*** Frames of Saraswathi and Gurudev in all classrooms :CMC:
-*** Hooks on false ceiling for decoration :CMC:
-*** Reverse HDMI cable :VINOD:ATCMC:
 *** DONE Outside lamp                                                 :ATCMC:
     CLOSED: [2017-08-05 Sat 22:45]
 **** DONE Find the type of the bulb                                   :ATCMC:
      CLOSED: [2017-08-08 Tue 20:55]
 **** CANCELLED Check in Costco for the bulb type         :ATCOSTCO:ATMENARDS:
      CLOSED: [2017-08-08 Tue 20:55]
-*** Fix shower pipes leakage
-*** Propose at EC meeting for premium parking                     :ECMEETING:
-*** New fire alarms
-*** New exit sign with small batteries and led lights
 *** DONE Pay Scott $88.68 + $120                              :SCOTT:PAYMENT:
     CLOSED: [2017-07-10 Mon 07:57] SCHEDULED: <2017-04-30 Sun>
 ** SOMEDAY
 *** TV screen cast
 **** Microsoft Windows 8
 ***** Register as non-profit
-
 
 
 *** Shram Dhaan
