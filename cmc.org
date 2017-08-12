@@ -3,10 +3,12 @@
    CLOSED: [2017-07-30 Sun 10:16]
 ** DONE Check at Costco price for 24x36 prints                       :COSTCO:
    CLOSED: [2017-08-09 Wed 21:38] SCHEDULED: <2017-08-09 Wed 18:30>
-** SCHED Check at Fedex Sancus for Kimco discount :FEDEX:
-   SCHEDULED: <2017-08-10 Thu 19:00>
+** DONE Check at Fedex Sancus for Kimco discount                      :FEDEX:
+   CLOSED: [2017-08-11 Fri 13:23] SCHEDULED: <2017-08-10 Thu 19:00>
+** WAITING Crop the photo to 2x3 format and get printed at Fedex with Kinko card :FEDEX:
+   SCHEDULED: <2017-08-12 Sat 18:00>
 ** STARTED Get teh photo pronted 36 in x 24 in
-- fedex online without kimko - $106
+- fedex online without kimko - $106 - with kinko $30+
 - walgreens - $30 same day pickup, but can't upload the photo
 - national photo lab - $32 shipping
 - shutterfly - discover gift card - $20 - 25 and $40 - 50 - Summertime 50% off on $39+ code: SUMMERTIME - Doesn't have 24x36
@@ -14,13 +16,18 @@
 
 * Spray insecticide again inside :@ARCHANA:
 * Check clock :@ARCHANA:
-* Wood chip to adjust projector height :@ARCHANA:
+* Wood chip to adjust projector height                             :@ARCHANA:
 * Wood chip between rails near the stais upstairs :@ARCHANA:
+** SCHED Get measurement for railing woodchip :@ARCHANA:
+   SCHEDULED: <2017-08-13 Sun>
+
 * Reverse HDMI cable :@ARCHANA:
 * ShramDhan schedule print on 11x17 :FEDEX:
 * STARTED Contact Marcos / Scott                               :SCOTT:MARCOS:
 ** for cheaper alternative to snow cleaning, salting ~$100/occurence
 ** Outside woodwork and painting the underside of roof jutting out at the backside
+*** SCHED Measure the wood strip needed to replace on top of awning :@ARCHANA:
+    SCHEDULED: <2017-08-13 Sun>
 ** STARTED Landscape cleanup
 * Try to fix the shower upstairs or replace :@ARCHANA:
 * Hooks on false ceiling for decoration :@ARCHANA:
