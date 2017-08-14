@@ -5,30 +5,34 @@
    CLOSED: [2017-08-09 Wed 21:38] SCHEDULED: <2017-08-09 Wed 18:30>
 ** DONE Check at Fedex Sancus for Kimco discount                      :FEDEX:
    CLOSED: [2017-08-11 Fri 13:23] SCHEDULED: <2017-08-10 Thu 19:00>
-** WAITING Crop the photo to 2x3 format and get printed at Fedex with Kinko card :FEDEX:
-   SCHEDULED: <2017-08-12 Sat 18:00>
-** STARTED Get teh photo pronted 36 in x 24 in
+** DONE Crop the photo to 2x3 format and get printed at Fedex with Kinko card :FEDEX:
+   CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-12 Sat 18:00>
+** DONE Get teh photo pronted 36 in x 24 in
+   CLOSED: [2017-08-13 Sun 21:05]
 - fedex online without kimko - $106 - with kinko $30+
 - walgreens - $30 same day pickup, but can't upload the photo
 - national photo lab - $32 shipping
 - shutterfly - discover gift card - $20 - 25 and $40 - 50 - Summertime 50% off on $39+ code: SUMMERTIME - Doesn't have 24x36
 - costco online - Doesn't have 24x36
 
-* Spray insecticide again inside :@ARCHANA:
-* Check clock :@ARCHANA:
-* Wood chip to adjust projector height                             :@ARCHANA:
+** SCHED Get the CM photo framed 
+   SCHEDULED: <2017-08-14 Mon>
+*** Where ?
+
+* STARTED Check clock                                              :@ARCHANA:
 * Wood chip between rails near the stais upstairs :@ARCHANA:
-** SCHED Get measurement for railing woodchip :@ARCHANA:
-   SCHEDULED: <2017-08-13 Sun>
+** DONE Get measurement for railing woodchip                       :@ARCHANA:
+   CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-13 Sun>
 
 * Reverse HDMI cable :@ARCHANA:
 * ShramDhan schedule print on 11x17 :FEDEX:
 * STARTED Contact Marcos / Scott                               :SCOTT:MARCOS:
 ** for cheaper alternative to snow cleaning, salting ~$100/occurence
 ** Outside woodwork and painting the underside of roof jutting out at the backside
-*** SCHED Measure the wood strip needed to replace on top of awning :@ARCHANA:
-    SCHEDULED: <2017-08-13 Sun>
-** STARTED Landscape cleanup
+*** CANCELLED Measure the wood strip needed to replace on top of awning :@ARCHANA:
+    CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-13 Sun>
+** WAITING Landscape cleanup
+   SCHEDULED: <2017-08-15 Tue>
 * Try to fix the shower upstairs or replace :@ARCHANA:
 * Hooks on false ceiling for decoration :@ARCHANA:
 * New exit sign with small batteries and led lights :@ARCHANA:
@@ -42,8 +46,11 @@
 
 * CMC
 
-** UPDATES
-
+** COMPLETED TASKS
+*** CANCELLED Wood chip to adjust projector height                 :@ARCHANA:
+    CLOSED: [2017-08-13 Sun 21:06]
+*** DONE Spray insecticide again inside                            :@ARCHANA:
+    CLOSED: [2017-08-13 Sun 21:05]
 *** Updates 2017-07-23
 Published the document "CMC-IT-ver-0.1.pdf"
 *** Updates 2017-07-17
@@ -70,7 +77,6 @@ Published the document "CMC-IT-ver-0.1.pdf"
 
 
 
-** CMC TASKS
 
 *** CANCELLED Change the phone number and website info in flyers    :PALLAVI:
     CLOSED: [2017-08-05 Sat 22:43]
@@ -228,8 +234,8 @@ Why wouldn't you volunteer your time
 
 *** DATES FESTIVALS / EVENTS
 **** ONETIME
-***** SCHED Blood Donation Drive
-      SCHEDULED: <2017-08-13 Sun>
+***** DONE Blood Donation Drive
+      CLOSED: [2017-08-13 Sun 21:10] SCHEDULED: <2017-08-13 Sun>
 ***** DONE Sw. Ganganandaji's visit 2017-07-05 to 2017-07-09       :SATSANGA:
       CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-09 Sun>
 **** RECURRING
@@ -303,7 +309,8 @@ Sunday, May 20, 2018	BALOTSAV
       :LAST_REPEAT: [2017-08-02 Wed 10:46]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-08-13 Sun ++7d>
+      SCHEDULED: <2017-08-20 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2017-08-13 Sun 22:01]
       - State "CANCELLED"  from "SCHED"      [2017-08-06 Sun 15:09]
       - State "DONE"       from "SCHED"      [2017-08-02 Wed 10:46]
       - State "CANCELLED"  from "SCHED"      [2017-07-23 Sun 19:27]
@@ -316,7 +323,7 @@ Sunday, May 20, 2018	BALOTSAV
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-08-06 Sun 15:09]
+      :LAST_REPEAT: [2017-08-13 Sun 22:01]
       :END:
 ***** DO Lawn moving
 
