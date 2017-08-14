@@ -15,8 +15,9 @@
 - shutterfly - discover gift card - $20 - 25 and $40 - 50 - Summertime 50% off on $39+ code: SUMMERTIME - Doesn't have 24x36
 - costco online - Doesn't have 24x36
 
-** SCHED Get the CM photo framed 
-   SCHEDULED: <2017-08-14 Mon>
+** SCHED Call Puranji and ask what to do with old frame :MOBILE:PURAN:
+   SCHEDULED: <2017-08-14 Mon 9:00> 
+** DO Get the CM photo framed 
 *** Where ?
 
 * STARTED Check clock                                              :@ARCHANA:
@@ -26,11 +27,18 @@
 
 * Reverse HDMI cable :@ARCHANA:
 * ShramDhan schedule print on 11x17 :FEDEX:
-* STARTED Contact Marcos / Scott                               :SCOTT:MARCOS:
+* Outside woodwork
+** Work list
+*** Painting the underside of roof jutting out at the backside
+*** Replace the rotting wood strip above the awning
+*** Clean and replace or fix the portion of rain gutter where birds have nested
+** DONE Take photos of the affected places
+   CLOSED: [2017-08-14 Mon 08:17]
+** SCHED Send mail to Scott with photos and request a quote     :SCOTT:GMAIL:
+   SCHEDULED: <2017-08-14 Mon>
+* STARTED Landscape cleanup
 ** for cheaper alternative to snow cleaning, salting ~$100/occurence
-** Outside woodwork and painting the underside of roof jutting out at the backside
-*** CANCELLED Measure the wood strip needed to replace on top of awning :@ARCHANA:
-    CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-13 Sun>
+
 ** WAITING Landscape cleanup
    SCHEDULED: <2017-08-15 Tue>
 * Try to fix the shower upstairs or replace :@ARCHANA:
