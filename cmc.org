@@ -1,3 +1,5 @@
+* SCHED Fix upstairs classroom door knob                           :@ARCHANA:
+  SCHEDULED: <2017-08-17 Thu>
 * STARTED Get the 24x36 photo printed
 ** DONE Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
    CLOSED: [2017-07-30 Sun 10:16]
@@ -15,8 +17,9 @@
 - shutterfly - discover gift card - $20 - 25 and $40 - 50 - Summertime 50% off on $39+ code: SUMMERTIME - Doesn't have 24x36
 - costco online - Doesn't have 24x36
 
-** SCHED Call Puranji and ask what to do with old frame :MOBILE:PURAN:
-   SCHEDULED: <2017-08-14 Mon 12:30> 
+** DONE Call Puranji and ask what to do with old frame         :MOBILE:PURAN:
+   CLOSED: [2017-08-14 Mon 21:05] SCHEDULED: <2017-08-14 Mon 12:30> 
+** WAITING Where to keep the old photo ?
 ** DO Get the CM photo framed 
 *** Where ?
 
@@ -24,7 +27,9 @@
 * Wood chip between rails near the stais upstairs :@ARCHANA:
 ** DONE Get measurement for railing woodchip                       :@ARCHANA:
    CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-13 Sun>
-
+1.25 inches
+** SCHED Get wooden strip of 1.25" for railings from Lowes/Menards take tax deduction info :@MENARDS:@LOWES:
+   SCHEDULED: <2017-08-17 Thu>
 * Reverse HDMI cable :@ARCHANA:
 * ShramDhan schedule print on 11x17 :FEDEX:
 * Outside woodwork
@@ -36,15 +41,15 @@
    CLOSED: [2017-08-14 Mon 08:17]
 ** SCHED Send mail to Scott with photos and request a quote     :SCOTT:GMAIL:
    SCHEDULED: <2017-08-14 Mon>
-* STARTED Landscape cleanup
-** for cheaper alternative to snow cleaning, salting ~$100/occurence
-
-** WAITING Landscape cleanup
-   SCHEDULED: <2017-08-15 Tue>
 * Try to fix the shower upstairs or replace :@ARCHANA:
 * Hooks on false ceiling for decoration :@ARCHANA:
 * New exit sign with small batteries and led lights :@ARCHANA:
 
+* Check with Marcos for cheaper alternative to snow cleaning, salting ~$100/occurence
+
+* SUPPLIES
+** Toilet paper
+** 
 * NEEDED ?
 - new wireless lapel mic
 - fire alarm replaced
@@ -55,6 +60,11 @@
 * CMC
 
 ** COMPLETED TASKS
+*** DONE Landscape cleanup
+    CLOSED: [2017-08-14 Mon 21:48]
+**** DONE Landscape cleanup
+     CLOSED: [2017-08-14 Mon 21:48] SCHEDULED: <2017-08-15 Tue>
+
 *** CANCELLED Wood chip to adjust projector height                 :@ARCHANA:
     CLOSED: [2017-08-13 Sun 21:06]
 *** DONE Spray insecticide again inside                            :@ARCHANA:
