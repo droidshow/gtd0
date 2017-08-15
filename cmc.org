@@ -19,9 +19,30 @@
 
 ** DONE Call Puranji and ask what to do with old frame         :MOBILE:PURAN:
    CLOSED: [2017-08-14 Mon 21:05] SCHEDULED: <2017-08-14 Mon 12:30> 
-** WAITING Where to keep the old photo ?
+** DONE Where to keep the old photo ?
+   CLOSED: [2017-08-15 Tue 09:32]
 ** DO Get the CM photo framed 
 *** Where ?
+Check 
+ - Ready made frame
+ - price
+ - by when
+ - insertability
+
+JoAnn
+http://www.joann.com/search?q=24x36%20frames
+
+Michaels
+
+Framing Center NorthPointe Plaza
+http://www.framingcenter.com/
+
+Culver Art & Frame
+7890 N Central Dr
+ Lewis Center, OH 43035
+http://www.culverframe.com/
+
+
 
 * STARTED Check clock                                              :@ARCHANA:
 * Wood chip between rails near the stais upstairs :@ARCHANA:
