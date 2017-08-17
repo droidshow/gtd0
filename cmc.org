@@ -1,5 +1,5 @@
 * SCHED Fix upstairs classroom door knob                           :@ARCHANA:
-  SCHEDULED: <2017-08-17 Thu>
+  SCHEDULED: <2017-08-17 Thu 18:00>
 * STARTED Get the 24x36 photo printed
 ** DONE Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
    CLOSED: [2017-07-30 Sun 10:16]
@@ -21,8 +21,10 @@
    CLOSED: [2017-08-14 Mon 21:05] SCHEDULED: <2017-08-14 Mon 12:30> 
 ** DONE Where to keep the old photo ?
    CLOSED: [2017-08-15 Tue 09:32]
-** DO Get the CM photo framed 
-*** Where ?
+** DONE Get the CM photo framed 
+   CLOSED: [2017-08-17 Thu 09:44]
+*** DONE Where ?
+    CLOSED: [2017-08-17 Thu 09:44]
 Check 
  - Ready made frame
  - price
@@ -33,7 +35,7 @@ JoAnn
 http://www.joann.com/search?q=24x36%20frames
 $129 - 229 depending on frame
 
-Michaels
+Michaels - $69 - BOGO - 20%
 http://www.michaels.com/studio-decor-antique-champagne-open-back-frame-24in-x-36in/10375667.html
 http://www.michaels.com/studio-decor-home-collection-brown-and-black-frame/10029733.html#q=24x36+frames&start=11
 http://www.michaels.com/honey-belmont-frame-by-studio-decor/10487725.html
@@ -57,6 +59,10 @@ https://www.walmart.com/ip/24x36-Flat-Walnut-Brown-Wood-Frame-The-Edge-Medium-Gr
 https://www.walmart.com/ip/24x36-Flat-Dark-Brown-Wood-Frame-The-Edge-Wide-Great-for-Posters-Photos-Art-Prints-Mirror-Chalk-Boards-C/181569961
 https://www.walmart.com/ip/24x36-Flat-Walnut-Brown-Wood-Frame-The-Edge-Wide-Great-for-Posters-Photos-Art-Prints-Mirror-Chalk-Boards/107435381
 
+** SCHED Take Gurudev's new photo and WD-40 to Archana :@HOME:
+   SCHEDULED: <2017-08-17 Thu 17:30>
+** SCHED Install Gurudev's new photo :@ARCHANA:
+   SCHEDULED: <2017-08-17 Thu 18:00>
 
 * STARTED Check clock                                              :@ARCHANA:
 * Wood chip between rails near the stais upstairs :@ARCHANA:
@@ -64,7 +70,7 @@ https://www.walmart.com/ip/24x36-Flat-Walnut-Brown-Wood-Frame-The-Edge-Wide-Grea
    CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-13 Sun>
 1.25 inches
 ** SCHED Get wooden strip of 1.25" for railings from Lowes/Menards take tax deduction info :@MENARDS:@LOWES:
-   SCHEDULED: <2017-08-17 Thu>
+   SCHEDULED: <2017-08-17 Thu 18:00>
 * Reverse HDMI cable :@ARCHANA:
 * ShramDhan schedule print on 11x17 :FEDEX:
 * Outside woodwork
@@ -82,9 +88,30 @@ https://www.walmart.com/ip/24x36-Flat-Walnut-Brown-Wood-Frame-The-Edge-Wide-Grea
 
 * Check with Marcos for cheaper alternative to snow cleaning, salting ~$100/occurence
 
-* SUPPLIES
-** Toilet paper
-** 
+* SUPPLIES CHECKLIST
+- [ ] Paper roll for kitchen
+- [ ] Trash bag / Drum liner
+- [ ] Wash towel
+- [ ] Hand soap / sanitizer
+- [ ] Dish washer
+
+- [ ] Snow melting salt
+- [ ] Weed killer
+- [ ] Insect repellent
+- [ ] Mice/rat repellent
+
+- [ ] Paper hand towel for bathroom
+- [ ] Toilet paper
+- [ ] Toilet cleaner
+- [ ] Hand soap / sanitizer
+- [ ] Cleaning spray
+- [ ] Broom / mops
+- [ ] Mr. Clean
+
+- [ ] Pen
+- [ ] Marker pen
+- [ ] 
+ 
 * NEEDED ?
 - new wireless lapel mic
 - fire alarm replaced
@@ -327,6 +354,10 @@ Sunday, May 20, 2018	BALOTSAV
 ***** Annual Day
 
 *** RECURRING
+**** SCHED Check clocks after summer break :@ARCHANA:
+     SCHEDULED: <2017-08-17 Thu ++1y>
+**** SCHED Check clocks after winter break :@ARCHANA:
+     SCHEDULED: <2017-12-31 Sun ++1y>
 **** SCHED For winter Switch off water supply to outside outlet :MAINTENANCE:WATER:RECURRING:
      SCHEDULED: <2017-10-15 Sun ++1y>
 **** HVAC MAINTENANCE
