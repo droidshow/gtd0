@@ -1,15 +1,58 @@
-* SCHED Fix upstairs classroom door knob                           :@ARCHANA:
-  SCHEDULED: <2017-08-18 Fri 18:00>
-* STARTED Get the 24x36 photo printed
-** DONE Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
-   CLOSED: [2017-07-30 Sun 10:16]
-** DONE Check at Costco price for 24x36 prints                       :COSTCO:
-   CLOSED: [2017-08-09 Wed 21:38] SCHEDULED: <2017-08-09 Wed 18:30>
-** DONE Check at Fedex Sancus for Kimco discount                      :FEDEX:
-   CLOSED: [2017-08-11 Fri 13:23] SCHEDULED: <2017-08-10 Thu 19:00>
-** DONE Crop the photo to 2x3 format and get printed at Fedex with Kinko card :FEDEX:
-   CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-12 Sat 18:00>
-** DONE Get teh photo pronted 36 in x 24 in
+* STARTED Wood chip between rails near the stais upstairs          :@ARCHANA:
+** DONE Get measurement for railing woodchip                       :@ARCHANA:
+   CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-13 Sun>
+1.25 inches
+** DONE Get wooden strip of 1.25" for railings from Lowes/Menards take tax deduction info :@MENARDS:@LOWES:
+   CLOSED: [2017-08-18 Fri 09:35] SCHEDULED: <2017-08-17 Thu 18:00>
+** SCHED Cut the wood strip for rails into 7cm lengtch
+   SCHEDULED: <2017-08-20 Sun>
+* ShramDhan schedule print on 11x17 :FEDEX:
+* Outside woodwork & Roof leakage fix
+** Work list
+*** Painting the underside of roof jutting out at the backside
+*** Replace the rotting wood strip above the awning
+*** Clean and replace or fix the portion of rain gutter where birds have nested
+*** Detect the source of roof leak and fix
+*** Replace water stained false ceilings in the assembly hall
+** DONE Take photos of the affected places
+   CLOSED: [2017-08-14 Mon 08:17]
+** DEFERRED Send mail to Scott with photos and request a quote  :SCOTT:GMAIL:
+   CLOSED: [2017-08-19 Sat 11:15] SCHEDULED: <2017-08-14 Mon>
+** WAITING Let Puran know of the work list for his contact to work on :PURAN:GMAIL:
+   SCHEDULED: <2017-08-27 Sun>
+* Try to fix the shower upstairs or replace :@ARCHANA:
+* Hooks on false ceiling for decoration :@ARCHANA:
+* New exit sign with small batteries and led lights :@ARCHANA:
+
+* Check with Marcos for cheaper alternative to snow cleaning, salting ~$100/occurence
+
+
+
+* NEEDED ?
+- new wireless lapel mic
+- fire alarm replaced
+- Check with Puran if has got the weed killer
+- Road crack filling (contact Mike at office)
+
+
+* CMC
+
+** COMPLETED TASKS
+*** DONE Reverse HDMI cable                                        :@ARCHANA:
+    CLOSED: [2017-08-19 Sat 11:11]
+*** DONE Fix upstairs classroom door knob, check hinges, wd-40 for squeaks :@ARCHANA:
+    CLOSED: [2017-08-19 Sat 11:08] SCHEDULED: <2017-08-18 Fri 18:00>
+*** DONE Get the 24x36 photo printed
+    CLOSED: [2017-08-19 Sat 11:10]
+**** DONE Find a suitable new high res picture for Gurudev's photo in Tapovan hall :ONLINE:FREE:
+     CLOSED: [2017-07-30 Sun 10:16]
+**** DONE Check at Costco price for 24x36 prints                     :COSTCO:
+     CLOSED: [2017-08-09 Wed 21:38] SCHEDULED: <2017-08-09 Wed 18:30>
+**** DONE Check at Fedex Sancus for Kimco discount                    :FEDEX:
+     CLOSED: [2017-08-11 Fri 13:23] SCHEDULED: <2017-08-10 Thu 19:00>
+**** DONE Crop the photo to 2x3 format and get printed at Fedex with Kinko card :FEDEX:
+     CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-12 Sat 18:00>
+**** DONE Get teh photo pronted 36 in x 24 in
    CLOSED: [2017-08-13 Sun 21:05]
 - fedex online without kimko - $106 - with kinko $30+
 - walgreens - $30 same day pickup, but can't upload the photo
@@ -17,13 +60,13 @@
 - shutterfly - discover gift card - $20 - 25 and $40 - 50 - Summertime 50% off on $39+ code: SUMMERTIME - Doesn't have 24x36
 - costco online - Doesn't have 24x36
 
-** DONE Call Puranji and ask what to do with old frame         :MOBILE:PURAN:
-   CLOSED: [2017-08-14 Mon 21:05] SCHEDULED: <2017-08-14 Mon 12:30> 
-** DONE Where to keep the old photo ?
-   CLOSED: [2017-08-15 Tue 09:32]
-** DONE Get the CM photo framed 
-   CLOSED: [2017-08-17 Thu 09:44]
-*** DONE Where ?
+**** DONE Call Puranji and ask what to do with old frame       :MOBILE:PURAN:
+     CLOSED: [2017-08-14 Mon 21:05] SCHEDULED: <2017-08-14 Mon 12:30> 
+**** DONE Where to keep the old photo ?
+     CLOSED: [2017-08-15 Tue 09:32]
+**** DONE Get the CM photo framed 
+     CLOSED: [2017-08-17 Thu 09:44]
+***** DONE Where ?
     CLOSED: [2017-08-17 Thu 09:44]
 Check 
  - Ready made frame
@@ -59,69 +102,14 @@ https://www.walmart.com/ip/24x36-Flat-Walnut-Brown-Wood-Frame-The-Edge-Medium-Gr
 https://www.walmart.com/ip/24x36-Flat-Dark-Brown-Wood-Frame-The-Edge-Wide-Great-for-Posters-Photos-Art-Prints-Mirror-Chalk-Boards-C/181569961
 https://www.walmart.com/ip/24x36-Flat-Walnut-Brown-Wood-Frame-The-Edge-Wide-Great-for-Posters-Photos-Art-Prints-Mirror-Chalk-Boards/107435381
 
-** SCHED Take Gurudev's new photo and WD-40 to Archana :@HOME:
-   SCHEDULED: <2017-08-18 Fri 17:30>
-** SCHED Install Gurudev's new photo :@ARCHANA:
-   SCHEDULED: <2017-08-18 Fri 18:00>
+**** DONE Take Gurudev's new photo and WD-40 to Archana               :@HOME:
+     CLOSED: [2017-08-19 Sat 11:08] SCHEDULED: <2017-08-18 Fri 17:30>
+**** DONE Install Gurudev's new photo                              :@ARCHANA:
+     CLOSED: [2017-08-19 Sat 11:08] SCHEDULED: <2017-08-18 Fri 18:00>
+     
+*** DONE Check clock                                               :@ARCHANA:
+    CLOSED: [2017-08-19 Sat 11:10]
 
-* STARTED Check clock                                              :@ARCHANA:
-* Wood chip between rails near the stais upstairs :@ARCHANA:
-** DONE Get measurement for railing woodchip                       :@ARCHANA:
-   CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-13 Sun>
-1.25 inches
-** DONE Get wooden strip of 1.25" for railings from Lowes/Menards take tax deduction info :@MENARDS:@LOWES:
-   CLOSED: [2017-08-18 Fri 09:35] SCHEDULED: <2017-08-17 Thu 18:00>
-* Reverse HDMI cable :@ARCHANA:
-* ShramDhan schedule print on 11x17 :FEDEX:
-* Outside woodwork
-** Work list
-*** Painting the underside of roof jutting out at the backside
-*** Replace the rotting wood strip above the awning
-*** Clean and replace or fix the portion of rain gutter where birds have nested
-** DONE Take photos of the affected places
-   CLOSED: [2017-08-14 Mon 08:17]
-** SCHED Send mail to Scott with photos and request a quote     :SCOTT:GMAIL:
-   SCHEDULED: <2017-08-14 Mon>
-* Try to fix the shower upstairs or replace :@ARCHANA:
-* Hooks on false ceiling for decoration :@ARCHANA:
-* New exit sign with small batteries and led lights :@ARCHANA:
-
-* Check with Marcos for cheaper alternative to snow cleaning, salting ~$100/occurence
-
-* SUPPLIES CHECKLIST
-- [ ] Paper roll for kitchen
-- [ ] Trash bag / Drum liner
-- [ ] Wash towel
-- [ ] Hand soap / sanitizer
-- [ ] Dish washer
-
-- [ ] Snow melting salt
-- [ ] Weed killer
-- [ ] Insect repellent
-- [ ] Mice/rat repellent
-
-- [ ] Paper hand towel for bathroom
-- [ ] Toilet paper
-- [ ] Toilet cleaner
-- [ ] Hand soap / sanitizer
-- [ ] Cleaning spray
-- [ ] Broom / mops
-- [ ] Mr. Clean
-
-- [ ] Pen
-- [ ] Marker pen
-- [ ] 
- 
-* NEEDED ?
-- new wireless lapel mic
-- fire alarm replaced
-- Check with Puran if has got the weed killer
-- Road crack filling (contact Mike at office)
-
-
-* CMC
-
-** COMPLETED TASKS
 *** DONE Landscape cleanup
     CLOSED: [2017-08-14 Mon 21:48]
 **** DONE Landscape cleanup
@@ -354,8 +342,12 @@ Sunday, May 20, 2018	BALOTSAV
 ***** Annual Day
 
 *** RECURRING
-**** SCHED Check clocks after summer break :@ARCHANA:
-     SCHEDULED: <2017-08-18 Fri ++1y>
+**** SCHED Check clocks after summer break                         :@ARCHANA:
+     SCHEDULED: <2018-08-18 Sat ++1y>
+     - State "DONE"       from "SCHED"      [2017-08-19 Sat 11:08]
+     :PROPERTIES:
+     :LAST_REPEAT: [2017-08-19 Sat 11:08]
+     :END:
 **** SCHED Check clocks after winter break :@ARCHANA:
      SCHEDULED: <2017-12-31 Sun ++1y>
 **** SCHED For winter Switch off water supply to outside outlet :MAINTENANCE:WATER:RECURRING:
@@ -599,6 +591,40 @@ Registered Phone  : (877) 829-5500
 - [ ] Shutoff lights
 - [ ] Enable security
 - [ ] Lock and leave
+**** Supplies Checklist
+- [ ] Paper roll for kitchen
+- [ ] Trash bag / Drum liner
+- [ ] Wash towel
+- [ ] Hand soap / sanitizer
+- [ ] Dish washer
+- [ ] Plates
+- [ ] Cups
+- [ ] Spoons / Forks
+- [ ] Tin Foil
+- [ ] Plastic foil
+- [ ] Ziplock bags various sizes
+- [ ] Food containers
+- [ ] Heating chaff
+- [ ] Water Bottles
+
+- [ ] Snow melting salt
+- [ ] Weed killer
+- [ ] Insect repellent
+- [ ] Mice/rat repellent
+
+- [ ] Paper hand towel for bathroom
+- [ ] Toilet paper
+- [ ] Toilet cleaner
+- [ ] Hand soap / sanitizer
+- [ ] Cleaning spray
+- [ ] Broom / mops
+- [ ] Mr. Clean
+
+- [ ] Pen
+- [ ] Marker pen
+- [ ] 
+ 
+
 * org-mode configuration
 #+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
