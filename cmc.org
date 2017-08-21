@@ -5,7 +5,7 @@
 ** DONE Get wooden strip of 1.25" for railings from Lowes/Menards take tax deduction info :@MENARDS:@LOWES:
    CLOSED: [2017-08-18 Fri 09:35] SCHEDULED: <2017-08-17 Thu 18:00>
 ** SCHED Cut the wood strip for rails into 7cm lengtch
-   SCHEDULED: <2017-08-20 Sun>
+   SCHEDULED: <2017-08-27 Sun>
 * ShramDhan schedule print on 11x17 :FEDEX:
 * Outside woodwork & Roof leakage fix
 ** Work list
@@ -27,6 +27,7 @@
 * Check with Marcos for cheaper alternative to snow cleaning, salting ~$100/occurence
 
 
+* Get ikea clock for classroom :@IKEA:
 
 * NEEDED ?
 - new wireless lapel mic
@@ -38,6 +39,10 @@
 * CMC
 
 ** COMPLETED TASKS
+*** Updates 2017-08-20
+- Watered plants
+- Hornet/Wasp spray on hornet/wasp nest behind the outside storage
+- Vaccumed Tapovan Hall, the room before it and the shoe room
 *** DONE Reverse HDMI cable                                        :@ARCHANA:
     CLOSED: [2017-08-19 Sat 11:11]
 *** DONE Fix upstairs classroom door knob, check hinges, wd-40 for squeaks :@ARCHANA:
@@ -385,7 +390,8 @@ Sunday, May 20, 2018	BALOTSAV
       :LAST_REPEAT: [2017-08-02 Wed 10:46]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-08-20 Sun ++7d>
+      SCHEDULED: <2017-08-27 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2017-08-21 Mon 09:59]
       - State "CANCELLED"  from "SCHED"      [2017-08-13 Sun 22:01]
       - State "CANCELLED"  from "SCHED"      [2017-08-06 Sun 15:09]
       - State "DONE"       from "SCHED"      [2017-08-02 Wed 10:46]
@@ -399,7 +405,7 @@ Sunday, May 20, 2018	BALOTSAV
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-08-13 Sun 22:01]
+      :LAST_REPEAT: [2017-08-21 Mon 09:59]
       :END:
 ***** DO Lawn moving
 
@@ -412,13 +418,14 @@ Sunday, May 20, 2018	BALOTSAV
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2017-08-20 Sun ++4w>
+      SCHEDULED: <2017-09-17 Sun ++4w>
+      - State "CANCELLED"  from "SCHED"      [2017-08-21 Mon 09:59]
       - State "CANCELLED"  from "SCHED"      [2017-07-23 Sun 19:27]
       - State "CANCELLED"  from "SCHED"      [2017-06-25 Sun 14:06]
       - State "CANCELLED"  from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-10 Wed 07:28]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-07-23 Sun 19:27]
+      :LAST_REPEAT: [2017-08-21 Mon 09:59]
       :END:
 
 **** PEST CONTROL
