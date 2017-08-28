@@ -6,8 +6,10 @@
    CLOSED: [2017-08-18 Fri 09:35] SCHEDULED: <2017-08-17 Thu 18:00>
 ** SCHED Cut the wood strip for rails into 7cm lengtch
    SCHEDULED: <2017-08-27 Sun>
-* ShramDhan schedule print on 11x17 :FEDEX:
-* Outside woodwork & Roof leakage fix
+* DONE ShramDhan schedule print on 11x17                              :FEDEX:
+  CLOSED: [2017-08-28 Mon 18:19]
+* STARTED Outside woodwork & Roof leakage fix
+- 2017-08-28 - Called George and left him a message in the after-noon, not called back yet
 ** Work list
 *** Painting the underside of roof jutting out at the backside
 *** Replace the rotting wood strip above the awning
@@ -39,6 +41,10 @@
 * CMC
 
 ** COMPLETED TASKS
+*** Updates 2017-08-27
+- Watered plants
+- Vaccumed Tapovan Hall and the kitchen
+
 *** Updates 2017-08-20
 - Watered plants
 - Hornet/Wasp spray on hornet/wasp nest behind the outside storage
@@ -390,7 +396,8 @@ Sunday, May 20, 2018	BALOTSAV
       :LAST_REPEAT: [2017-08-02 Wed 10:46]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-08-27 Sun ++7d>
+      SCHEDULED: <2017-09-03 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2017-08-28 Mon 18:13]
       - State "CANCELLED"  from "SCHED"      [2017-08-21 Mon 09:59]
       - State "CANCELLED"  from "SCHED"      [2017-08-13 Sun 22:01]
       - State "CANCELLED"  from "SCHED"      [2017-08-06 Sun 15:09]
@@ -405,7 +412,7 @@ Sunday, May 20, 2018	BALOTSAV
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-08-21 Mon 09:59]
+      :LAST_REPEAT: [2017-08-28 Mon 18:13]
       :END:
 ***** DO Lawn moving
 
@@ -443,13 +450,14 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2017-08-22 Tue 21:00 ++2w>
+     SCHEDULED: <2017-09-05 Tue 21:00 ++2w>
+     - State "CANCELLED"  from "SCHED"      [2017-08-28 Mon 18:14]
      - State "DONE"       from "STARTED"    [2017-08-09 Wed 08:17]
      - State "DONE"       from "SCHED"      [2017-07-28 Fri 09:50]
      - State "CANCELLED"  from "SCHED"      [2017-07-12 Wed 07:24]
      - State "DONE"       from "SCHED"      [2017-06-28 Wed 07:39]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-08-09 Wed 08:17]
+     :LAST_REPEAT: [2017-08-28 Mon 18:14]
      :END:
 ** REFERNCE
 
