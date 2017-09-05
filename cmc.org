@@ -41,6 +41,16 @@
 * CMC
 
 ** COMPLETED TASKS
+*** Updates 2017-09-03
+- Spread Preen around the building
+- Put thermostat to heat mode
+- Created new user called "Assembly" in labtop for use during assembly
+- Routed the HDMI cable to projector through HDMI switch, can now present to kitchen TV as well
+- Wifi enabled 5.1GHz, laptop and chromecast don't do 5.1
+- Attached chromecast to projector's HDMI2 called "Chincast"
+- Tried to use Raspberry Pi for presenting to front room tv; needs HDMI to VGA adapter or need to trace the HDMI cable through ceiling
+- Fixed closet knob
+- Vaccumed Tapovan hall
 *** Updates 2017-08-27
 - Watered plants
 - Vaccumed Tapovan Hall and the kitchen
