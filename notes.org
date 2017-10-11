@@ -1037,6 +1037,99 @@ http://otadtv.com/frequency/index.html
 
 	};
 
+**** ISDB-T BROADCAST CHANNEL MAP
+https://linuxtv.org/wiki/index.php/ISDB-T_Frequency_Table
+# UHF channels 14 to 69
+
+|      RF |    Center |           |
+| Channel |      Freq | Bandwidth |
+|---------+-----------+-----------|
+|      14 | 473142857 |         6 |
+|      15 | 479142857 |           |
+|      16 | 485142857 |           |
+|      17 | 491142857 |           |
+|      18 | 497142857 |           |
+|      19 | 503142857 |           |
+|      20 | 509142857 |           |
+|      21 | 515142857 |           |
+|      22 | 521142857 |           |
+|      23 | 527142857 |           |
+|      24 | 533142857 |           |
+|      25 | 539142857 |           |
+|      26 | 545142857 |           |
+|      27 | 551142857 |           |
+|      28 | 557142857 |           |
+|      29 | 563142857 |           |
+|      30 | 569142857 |           |
+|      31 | 575142857 |           |
+|      32 | 581142857 |           |
+|      33 | 587142857 |           |
+|      34 | 593142857 |           |
+|      35 | 599142857 |           |
+|      36 | 605142857 |           |
+|      37 |  NOT-USED |           |
+|      39 | 623142857 |           |
+|      40 | 629142857 |           |
+|      41 | 635142857 |           |
+|      42 | 641142857 |           |
+|      43 | 647142857 |           |
+|      44 | 653142857 |           |
+|      45 | 659142857 |           |
+|      46 | 665142857 |           |
+|      47 | 671142857 |           |
+|      48 | 677142857 |           |
+|      49 | 683142857 |           |
+|      50 | 689142857 |           |
+|      51 | 695142857 |           |
+|      52 | 701142857 |           |
+|      53 | 707142857 |           |
+|      54 | 713142857 |           |
+|      55 | 719142857 |           |
+|      56 | 725142857 |           |
+|      57 | 731142857 |           |
+|      58 | 737142857 |           |
+|      59 | 743142857 |           |
+|      60 | 749142857 |           |
+|      61 | 755142857 |           |
+|      62 | 761142857 |           |
+|      63 | 767142857 |           |
+|      64 | 773142857 |           |
+|      65 | 779142857 |           |
+|      66 | 785142857 |           |
+|      67 | 791142857 |           |
+|      68 | 797142857 |           |
+|      69 | 803142857 |           |
+
+**** Difference between ISDB-T and ISDB-Tb
+
+
+|                   | ISDB-T                | ISDB-Tb                        |        |
+|                   |                       | ISDB-T International           | ISDB-S |
+|                   |                       | SBTVD                          |        |
+|-------------------+-----------------------+--------------------------------+--------|
+|                   | Japan                 | Brazil etc                     |        |
+|                   |                       |                                |        |
+|                   |                       | NOT inter-operable with ISDB-T |        |
+|                   |                       |                                |        |
+| Modulation        | QAM/QPSK/DQPSK - OFDM | BST-OFDM QAM/QPSK/DQPSK        | PSK    |
+|                   |                       |                                |        |
+| Video compression | H.262 MPEG-2          | H.264/MPEG-4 AVC               |        |
+|                   |                       |                                |        |
+| Middleware        | BML                   | Ginga (Ginga-NCL and Ginga-J)  |        |
+|                   | (Declarative)         | (Declarative and procedural)   |        |
+|                   |                       |                                |        |
+| DRM               | B-CAS                 | Open Receptions                |        |
+|                   | (CSA MULTI2)          |                                |        |
+|                   |                       |                                |        |
+|                   |                       | 30fps for portable rx          |        |
+|                   |                       |                                |        |
+|                   |                       | Western character set          |        |
+|                   |                       |                                |        |
+|                   |                       | Transmitter emission mask      |        |
+|                   |                       |                                |        |
+| Return channel    |                       |                                |        |
+|                   |                       |                                |        |
+
 *** VIDEO
 **** MPEG2 
 ***** Understanding GOPs and Frame Types
@@ -1062,6 +1155,13 @@ https://kvssoft.wordpress.com/2015/01/28/mpeg-dash-gop/
 **** PES HEADER
 http://dvd.sourceforge.net/dvdinfo/pes-hdr.html
 http://happy.emu.id.au/lab/tut/dttb/dtbtut4b.htm
+
+*** MIDDLEWARE
+DVB
+ GEM 
+ISDB-Tb
+ Ginga-NCL (Lua)
+ Ginga-J (Java)
 
 *** LINKS
 http://forum.doom9.org/
