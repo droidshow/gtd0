@@ -1100,6 +1100,12 @@ https://linuxtv.org/wiki/index.php/ISDB-T_Frequency_Table
 |      68 | 797142857 |           |
 |      69 | 803142857 |           |
 
+**** ISDB-T
+    Parameters
+      http://rfmw.em.keysight.com/wireless/helpfiles/n7623b/Content/Main/carrier_for_isdb-t.htm
+    DVB-API
+      http://www.chiark.greenend.org.uk/doc/linux-doc-2.6.32/html/media/ch09s03.html
+
 **** Difference between ISDB-T and ISDB-Tb
 
 

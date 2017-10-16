@@ -5,7 +5,7 @@
 ** DONE Get wooden strip of 1.25" for railings from Lowes/Menards take tax deduction info :@MENARDS:@LOWES:
    CLOSED: [2017-08-18 Fri 09:35] SCHEDULED: <2017-08-17 Thu 18:00>
 ** WAITING Cut the wood strip for rails into 7cm lengtch :PURAN:
-   SCHEDULED: <2017-08-27 Sun>
+   SCHEDULED: <2017-10-15 Sun>
 * DONE ShramDhan schedule print on 11x17                              :FEDEX:
   CLOSED: [2017-08-28 Mon 18:19]
 * STARTED Outside woodwork & Roof leakage fix
@@ -20,8 +20,8 @@
    CLOSED: [2017-08-14 Mon 08:17]
 ** DEFERRED Send mail to Scott with photos and request a quote  :SCOTT:GMAIL:
    CLOSED: [2017-08-19 Sat 11:15] SCHEDULED: <2017-08-14 Mon>
-** WAITING Let Puran know of the work list for his contact to work on :PURAN:GMAIL:
-   SCHEDULED: <2017-08-27 Sun>
+** DONE Let Puran know of the work list for his contact to work on :PURAN:GMAIL:
+   CLOSED: [2017-09-22 Fri 04:51] SCHEDULED: <2017-08-27 Sun>
 * Try to fix the shower upstairs or replace :@ARCHANA:
 * Hooks on false ceiling for decoration :@ARCHANA:
 * New exit sign with small batteries and led lights :@ARCHANA:
@@ -398,18 +398,24 @@ Sunday, May 20, 2018	BALOTSAV
 ***** SCHED Schedule Fall cleanup                     :LANDSACE:MAINTENANCE:
       SCHEDULED: <2017-10-15 Sun ++1y>
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-10-03 Tue ++1m>
-      - State "DONE"       from "SCHED"      [2017-09-05 Tue 09:44]
+      SCHEDULED: <2017-11-03 Fri ++1m>
+      - State "CANCELLED"  from "SCHED"      [2017-10-04 Wed 06:47]
+      - State "CANCELLED"  from "SCHED"      [2017-09-24 Sun 01:25]
       - State "DONE"       from "SCHED"      [2017-08-02 Wed 10:46]
       - State "DONE"       from "SCHED"      [2017-06-26 Mon 09:23]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-01 Mon 06:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-09-05 Tue 09:44]
+      :LAST_REPEAT: [2017-10-04 Wed 06:47]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-09-10 Sun ++7d>
-      - State "CANCELLED"  from "SCHED"      [2017-09-05 Tue 09:44]
+      SCHEDULED: <2017-10-22 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2017-10-16 Mon 12:20]
+      - State "CANCELLED"  from "SCHED"      [2017-10-09 Mon 11:15]
+      - State "CANCELLED"  from "SCHED"      [2017-10-02 Mon 08:10]
+      - State "CANCELLED"  from "SCHED"      [2017-09-24 Sun 01:24]
+      - State "CANCELLED"  from "SCHED"      [2017-09-22 Fri 04:48]
+      - State "CANCELLED"  from "SCHED"      [2017-09-10 Sun 23:09]
       - State "CANCELLED"  from "SCHED"      [2017-08-28 Mon 18:13]
       - State "CANCELLED"  from "SCHED"      [2017-08-21 Mon 09:59]
       - State "CANCELLED"  from "SCHED"      [2017-08-13 Sun 22:01]
@@ -425,7 +431,7 @@ Sunday, May 20, 2018	BALOTSAV
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-09-05 Tue 09:44]
+      :LAST_REPEAT: [2017-10-16 Mon 12:20]
       :END:
 ***** DO Lawn moving
 
@@ -438,14 +444,16 @@ Sunday, May 20, 2018	BALOTSAV
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2017-09-17 Sun ++4w>
+      SCHEDULED: <2017-11-12 Sun ++4w>
+      - State "CANCELLED"  from "SCHED"      [2017-10-16 Mon 12:19]
+      - State "CANCELLED"  from "SCHED"      [2017-09-22 Fri 04:48]
       - State "CANCELLED"  from "SCHED"      [2017-08-21 Mon 09:59]
       - State "CANCELLED"  from "SCHED"      [2017-07-23 Sun 19:27]
       - State "CANCELLED"  from "SCHED"      [2017-06-25 Sun 14:06]
       - State "CANCELLED"  from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-10 Wed 07:28]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-08-21 Mon 09:59]
+      :LAST_REPEAT: [2017-10-16 Mon 12:19]
       :END:
 
 **** PEST CONTROL
@@ -463,15 +471,17 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2017-09-19 Tue 21:00 ++2w>
-     - State "CANCELLED"  from "SCHED"      [2017-09-06 Wed 13:33]
+     SCHEDULED: <2017-10-17 Tue 21:00 ++2w>
+     - State "CANCELLED"  from "SCHED"      [2017-10-04 Wed 06:47]
+     - State "CANCELLED"  from "SCHED"      [2017-09-22 Fri 04:48]
+     - State "CANCELLED"  from "SCHED"      [2017-09-10 Sun 23:10]
      - State "CANCELLED"  from "SCHED"      [2017-08-28 Mon 18:14]
      - State "DONE"       from "STARTED"    [2017-08-09 Wed 08:17]
      - State "DONE"       from "SCHED"      [2017-07-28 Fri 09:50]
      - State "CANCELLED"  from "SCHED"      [2017-07-12 Wed 07:24]
      - State "DONE"       from "SCHED"      [2017-06-28 Wed 07:39]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-09-06 Wed 13:33]
+     :LAST_REPEAT: [2017-10-04 Wed 06:47]
      :END:
 ** REFERNCE
 
