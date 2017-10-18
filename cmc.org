@@ -471,7 +471,8 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2017-10-17 Tue 21:00 ++2w>
+     SCHEDULED: <2017-10-31 Tue 21:00 ++2w>
+     - State "DONE"       from "SCHED"      [2017-10-17 Tue 22:01]
      - State "CANCELLED"  from "SCHED"      [2017-10-04 Wed 06:47]
      - State "CANCELLED"  from "SCHED"      [2017-09-22 Fri 04:48]
      - State "CANCELLED"  from "SCHED"      [2017-09-10 Sun 23:10]
@@ -481,7 +482,7 @@ Refer [[Cleaning Checklist]]
      - State "CANCELLED"  from "SCHED"      [2017-07-12 Wed 07:24]
      - State "DONE"       from "SCHED"      [2017-06-28 Wed 07:39]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-10-04 Wed 06:47]
+     :LAST_REPEAT: [2017-10-17 Tue 22:01]
      :END:
 ** REFERNCE
 
