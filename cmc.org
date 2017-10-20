@@ -363,6 +363,10 @@ Sunday, May 20, 2018	BALOTSAV
 ***** Annual Day
 
 *** RECURRING
+**** SCHED Prepare contents for assembly :@HOME:
+     SCHEDULED: <2017-10-18 Wed ++1w>
+**** SCHED Day light savings, "fall back" :@ARCHANA:CLASSROOMS:
+     SCHEDULED: <2017-11-05 Sun>
 **** SCHED Check clocks after summer break                         :@ARCHANA:
      SCHEDULED: <2018-08-18 Sat ++1y>
      - State "DONE"       from "SCHED"      [2017-08-19 Sat 11:08]
