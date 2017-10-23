@@ -417,7 +417,8 @@ Sunday, May 20, 2018	BALOTSAV
       :LAST_REPEAT: [2017-10-04 Wed 06:47]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-10-22 Sun ++7d>
+      SCHEDULED: <2017-10-29 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2017-10-22 Sun 15:56]
       - State "CANCELLED"  from "SCHED"      [2017-10-16 Mon 12:20]
       - State "CANCELLED"  from "SCHED"      [2017-10-09 Mon 11:15]
       - State "CANCELLED"  from "SCHED"      [2017-10-02 Mon 08:10]
@@ -439,7 +440,7 @@ Sunday, May 20, 2018	BALOTSAV
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-10-16 Mon 12:20]
+      :LAST_REPEAT: [2017-10-22 Sun 15:56]
       :END:
 ***** DO Lawn moving
 
