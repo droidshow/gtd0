@@ -380,7 +380,7 @@ Sunday, May 20, 2018	BALOTSAV
 **** SCHED Check clocks after winter break :@ARCHANA:
      SCHEDULED: <2017-12-31 Sun ++1y>
 **** SCHED For winter Switch off water supply to outside outlet :MAINTENANCE:WATER:RECURRING:
-     SCHEDULED: <2017-10-15 Sun ++1y>
+     SCHEDULED: <2017-10-29 Sun ++1y>
 **** HVAC MAINTENANCE
 ***** SCHED Get filters for HVAC                 :HVAC:MAINTENANCE:RECURRING:
       SCHEDULED: <2018-03-01 Thu ++6m>
@@ -403,7 +403,7 @@ Sunday, May 20, 2018	BALOTSAV
 **** LANDSCAPE
 ***** SCHED Schedule Spring cleanup                    :LANDSACE:MAINTENANCE:
       SCHEDULED: <2018-04-01 Sun ++1y>
-***** SCHED Schedule Fall cleanup                     :LANDSACE:MAINTENANCE:
+***** WAITING Schedule Fall cleanup                    :LANDSACE:MAINTENANCE:
       SCHEDULED: <2017-10-15 Sun ++1y>
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
       SCHEDULED: <2017-11-03 Fri ++1m>
