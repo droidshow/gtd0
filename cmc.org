@@ -380,7 +380,11 @@ Sunday, May 20, 2018	BALOTSAV
 **** SCHED Check clocks after winter break :@ARCHANA:
      SCHEDULED: <2017-12-31 Sun ++1y>
 **** SCHED For winter Switch off water supply to outside outlet :MAINTENANCE:WATER:RECURRING:
-     SCHEDULED: <2017-10-29 Sun ++1y>
+     SCHEDULED: <2018-10-29 Mon ++1y>
+     - State "DONE"       from "SCHED"      [2017-10-30 Mon 08:48]
+     :PROPERTIES:
+     :LAST_REPEAT: [2017-10-30 Mon 08:48]
+     :END:
 **** HVAC MAINTENANCE
 ***** SCHED Get filters for HVAC                 :HVAC:MAINTENANCE:RECURRING:
       SCHEDULED: <2018-03-01 Thu ++6m>
