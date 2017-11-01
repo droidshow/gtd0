@@ -28,8 +28,17 @@
 
 * Check with Marcos for cheaper alternative to snow cleaning, salting ~$100/occurence
 
+* Get ikea clock for classroom                                        :@IKEA:
 
-* Get ikea clock for classroom :@IKEA:
+* SCHED HVAC maintenance :@ARCHANA:
+  SCHEDULED: <2017-11-15 Wed>
+** SCHED Check with Bala if he can make it to open the mission for maintenance :#BALA:
+   SCHEDULED: <2017-11-08 Wed>
+
+* SCHED Fall cleanup                                               :@ARCHANA:
+  SCHEDULED: <2017-11-01 Wed>
+
+** DO Pay for fall cleanup $120                                     :#MARCOS:
 
 * NEEDED ?
 - new wireless lapel mic
@@ -364,10 +373,11 @@ Sunday, May 20, 2018	BALOTSAV
 
 *** RECURRING
 **** SCHED Prepare contents for assembly                              :@HOME:
-     SCHEDULED: <2017-10-25 Wed ++1w>
+     SCHEDULED: <2017-11-01 Wed ++1w>
+     - State "DONE"       from "SCHED"      [2017-10-31 Tue 17:52]
      - State "DONE"       from "SCHED"      [2017-10-20 Fri 16:57]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-10-20 Fri 16:57]
+     :LAST_REPEAT: [2017-10-31 Tue 17:52]
      :END:
 **** SCHED Day light savings, "fall back" :@ARCHANA:CLASSROOMS:
      SCHEDULED: <2017-11-05 Sun>
@@ -394,10 +404,11 @@ Sunday, May 20, 2018	BALOTSAV
       :LAST_REPEAT: [2017-09-01 Fri 07:07]
       :END:
 ***** SCHED Confirm HVAC maintenance schedule with Comfort Express :HVAC:MAINTENANCE:RECURRING:
-      SCHEDULED: <2017-10-30 Mon ++6m>
+      SCHEDULED: <2018-04-30 Mon ++6m>
+      - State "DONE"       from "WAITING"    [2017-11-01 Wed 16:24]
       - State "DONE"       from "APPT"       [2017-05-24 Wed 21:51]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-05-24 Wed 21:51]
+      :LAST_REPEAT: [2017-11-01 Wed 16:24]
       :END:
 **** SCHED FIRE INSPECTION
 ***** Check all the exit sign are working & replace batteries if necessary
@@ -407,8 +418,12 @@ Sunday, May 20, 2018	BALOTSAV
 **** LANDSCAPE
 ***** SCHED Schedule Spring cleanup                    :LANDSACE:MAINTENANCE:
       SCHEDULED: <2018-04-01 Sun ++1y>
-***** WAITING Schedule Fall cleanup                    :LANDSACE:MAINTENANCE:
-      SCHEDULED: <2017-10-15 Sun ++1y>
+***** SCHED Schedule Fall cleanup                      :LANDSACE:MAINTENANCE:
+      SCHEDULED: <2018-10-15 Mon ++1y>
+      - State "DONE"       from "WAITING"    [2017-10-31 Tue 17:52]
+      :PROPERTIES:
+      :LAST_REPEAT: [2017-10-31 Tue 17:52]
+      :END:
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
       SCHEDULED: <2017-11-03 Fri ++1m>
       - State "CANCELLED"  from "SCHED"      [2017-10-04 Wed 06:47]
@@ -485,7 +500,8 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2017-10-31 Tue 21:00 ++2w>
+     SCHEDULED: <2017-11-14 Tue 21:00 ++2w>
+     - State "DONE"       from "SCHED"      [2017-11-01 Wed 09:30]
      - State "DONE"       from "SCHED"      [2017-10-17 Tue 22:01]
      - State "CANCELLED"  from "SCHED"      [2017-10-04 Wed 06:47]
      - State "CANCELLED"  from "SCHED"      [2017-09-22 Fri 04:48]
@@ -496,7 +512,7 @@ Refer [[Cleaning Checklist]]
      - State "CANCELLED"  from "SCHED"      [2017-07-12 Wed 07:24]
      - State "DONE"       from "SCHED"      [2017-06-28 Wed 07:39]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-10-17 Tue 22:01]
+     :LAST_REPEAT: [2017-11-01 Wed 09:30]
      :END:
 ** REFERNCE
 
