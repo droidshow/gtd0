@@ -1,3 +1,17 @@
+* DST Checklist
+** [ ] Change clock, fall back
+** [ ] Change the batteries in your smoke detectors.
+** [ ] Take stock of your medicine cabinet and pantry.
+** [ ] Clean your fridge's coils.
+** [ ] Check your emergency kit.
+** [ ] Reverse direction of ceiling fan
+** [X] HVAC inspection
+** [ ] Fireplace chimney sweep
+** [ ] Drain water heater
+
+
+* SCHED Get better quality filters for CM before HVAC maintenance 2 x 16x25 and 1 x 20x20 :@MENARDS:
+  DEADLINE: <2017-11-15 Wed> SCHEDULED: <2017-11-05 Sun>
 * STARTED Wood chip between rails near the stais upstairs          :@ARCHANA:
 ** DONE Get measurement for railing woodchip                       :@ARCHANA:
    CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-13 Sun>
@@ -35,9 +49,7 @@
 ** SCHED Check with Bala if he can make it to open the mission for maintenance :#BALA:
    SCHEDULED: <2017-11-08 Wed>
 
-* SCHED Fall cleanup                                               :@ARCHANA:
-  SCHEDULED: <2017-11-01 Wed>
-
+* DO Fall cleanup                                                  :@ARCHANA:
 ** DO Pay for fall cleanup $120                                     :#MARCOS:
 
 * NEEDED ?
@@ -372,7 +384,7 @@ Sunday, May 20, 2018	BALOTSAV
 ***** Annual Day
 
 *** RECURRING
-**** SCHED Prepare contents for assembly                              :@HOME:
+**** STARTED Prepare contents for assembly                            :@HOME:
      SCHEDULED: <2017-11-01 Wed ++1w>
      - State "DONE"       from "SCHED"      [2017-10-31 Tue 17:52]
      - State "DONE"       from "SCHED"      [2017-10-20 Fri 16:57]
@@ -425,7 +437,7 @@ Sunday, May 20, 2018	BALOTSAV
       :LAST_REPEAT: [2017-10-31 Tue 17:52]
       :END:
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-11-03 Fri ++1m>
+      SCHEDULED: <2017-11-05 Sun ++1m>
       - State "CANCELLED"  from "SCHED"      [2017-10-04 Wed 06:47]
       - State "CANCELLED"  from "SCHED"      [2017-09-24 Sun 01:25]
       - State "DONE"       from "SCHED"      [2017-08-02 Wed 10:46]
@@ -525,8 +537,13 @@ Scott
 **** Asphalt
 Kyle Heisberger
 614-348-2811
+*** HVAC FILTERS
+Basement - 16 x 25
+Roof - 16 x 25
+Hall - 20 x 20
+
 *** LOWES TAX EXEMPT NUMBER
-Tax exempt number : 500083891
+Tax exempt number : 83891/5000
 Registered Phone  : (877) 829-5500
 
 *** CHECKLISTS
