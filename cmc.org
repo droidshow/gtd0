@@ -1,4 +1,5 @@
-* DST Checklist
+* DONE DST Checklist
+  CLOSED: [2017-11-06 Mon 08:31]
 ** [ ] Change clock, fall back
 ** [ ] Change the batteries in your smoke detectors.
 ** [ ] Take stock of your medicine cabinet and pantry.
@@ -10,8 +11,8 @@
 ** [ ] Drain water heater
 
 
-* SCHED Get better quality filters for CM before HVAC maintenance 2 x 16x25 and 1 x 20x20 :@MENARDS:
-  DEADLINE: <2017-11-15 Wed> SCHEDULED: <2017-11-05 Sun>
+* DONE Get better quality filters for CM before HVAC maintenance 2 x 16x25 and 1 x 20x20 :@MENARDS:
+  CLOSED: [2017-11-06 Mon 08:31] DEADLINE: <2017-11-15 Wed> SCHEDULED: <2017-11-05 Sun>
 * STARTED Wood chip between rails near the stais upstairs          :@ARCHANA:
 ** DONE Get measurement for railing woodchip                       :@ARCHANA:
    CLOSED: [2017-08-13 Sun 21:04] SCHEDULED: <2017-08-13 Sun>
@@ -62,6 +63,12 @@
 * CMC
 
 ** COMPLETED TASKS
+*** Updates 2017-11-05
+- Spread Preen around the building
+- Vaccum Tapovan hall
+- Fall cleanup by Marcos
+- HVAC maintenance scheduled for 11/15
+- Snow cleaning contract extended to 2017-18, $133 including plowing and salting
 *** Updates 2017-09-03
 - Spread Preen around the building
 - Put thermostat to heat mode
@@ -391,8 +398,8 @@ Sunday, May 20, 2018	BALOTSAV
      :PROPERTIES:
      :LAST_REPEAT: [2017-10-31 Tue 17:52]
      :END:
-**** SCHED Day light savings, "fall back" :@ARCHANA:CLASSROOMS:
-     SCHEDULED: <2017-11-05 Sun>
+**** DONE Day light savings, "fall back"                :@ARCHANA:CLASSROOMS:
+     CLOSED: [2017-11-05 Sun 13:40] SCHEDULED: <2017-11-05 Sun>
 **** SCHED Check clocks after summer break                         :@ARCHANA:
      SCHEDULED: <2018-08-18 Sat ++1y>
      - State "DONE"       from "SCHED"      [2017-08-19 Sat 11:08]
@@ -437,7 +444,8 @@ Sunday, May 20, 2018	BALOTSAV
       :LAST_REPEAT: [2017-10-31 Tue 17:52]
       :END:
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-11-05 Sun ++1m>
+      SCHEDULED: <2017-12-05 Tue ++1m>
+      - State "DONE"       from "SCHED"      [2017-11-05 Sun 13:40]
       - State "CANCELLED"  from "SCHED"      [2017-10-04 Wed 06:47]
       - State "CANCELLED"  from "SCHED"      [2017-09-24 Sun 01:25]
       - State "DONE"       from "SCHED"      [2017-08-02 Wed 10:46]
@@ -445,10 +453,11 @@ Sunday, May 20, 2018	BALOTSAV
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-01 Mon 06:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-10-04 Wed 06:47]
+      :LAST_REPEAT: [2017-11-05 Sun 13:40]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-11-05 Sun ++7d>
+      SCHEDULED: <2017-11-12 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2017-11-05 Sun 13:40]
       - State "CANCELLED"  from "SCHED"      [2017-10-30 Mon 10:10]
       - State "CANCELLED"  from "SCHED"      [2017-10-22 Sun 15:56]
       - State "CANCELLED"  from "SCHED"      [2017-10-16 Mon 12:20]
@@ -472,7 +481,7 @@ Sunday, May 20, 2018	BALOTSAV
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-10-30 Mon 10:10]
+      :LAST_REPEAT: [2017-11-05 Sun 13:40]
       :END:
 ***** DO Lawn moving
 
