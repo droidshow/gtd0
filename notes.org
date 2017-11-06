@@ -1136,6 +1136,16 @@ https://linuxtv.org/wiki/index.php/ISDB-T_Frequency_Table
 | Return channel    |                       |                                |        |
 |                   |                       |                                |        |
 
+**** NIT / SDT
+
+NIT 
+Network Information Table
+Luminato Administration panel has the option to generate NIT.
+Configure:
+ Network ID : 0xFF01
+ Original Network ID : 0xFF01 (65281)
+ TSID 
+
 *** VIDEO
 **** MPEG2 
 ***** Understanding GOPs and Frame Types

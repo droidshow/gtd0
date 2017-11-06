@@ -47,11 +47,11 @@
 
 * SCHED HVAC maintenance :@ARCHANA:
   SCHEDULED: <2017-11-15 Wed>
-** SCHED Check with Bala if he can make it to open the mission for maintenance :#BALA:
+** SCHED Check with Bala if he can make it to open the mission for maintenance :@BALA:
    SCHEDULED: <2017-11-08 Wed>
 
 * DO Fall cleanup                                                  :@ARCHANA:
-** DO Pay for fall cleanup $120                                     :#MARCOS:
+** DO Pay for fall cleanup $120                                     :@MARCOS:
 
 * NEEDED ?
 - new wireless lapel mic
@@ -391,12 +391,13 @@ Sunday, May 20, 2018	BALOTSAV
 ***** Annual Day
 
 *** RECURRING
-**** STARTED Prepare contents for assembly                            :@HOME:
-     SCHEDULED: <2017-11-01 Wed ++1w>
+**** SCHED Prepare contents for assembly                              :@HOME:
+     SCHEDULED: <2017-11-08 Wed ++1w>
+     - State "DONE"       from "STARTED"    [2017-11-06 Mon 11:43]
      - State "DONE"       from "SCHED"      [2017-10-31 Tue 17:52]
      - State "DONE"       from "SCHED"      [2017-10-20 Fri 16:57]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-10-31 Tue 17:52]
+     :LAST_REPEAT: [2017-11-06 Mon 11:43]
      :END:
 **** DONE Day light savings, "fall back"                :@ARCHANA:CLASSROOMS:
      CLOSED: [2017-11-05 Sun 13:40] SCHEDULED: <2017-11-05 Sun>
