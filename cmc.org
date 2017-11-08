@@ -47,8 +47,8 @@
 
 * SCHED HVAC maintenance :@ARCHANA:
   SCHEDULED: <2017-11-15 Wed>
-** SCHED Check with Bala if he can make it to open the mission for maintenance :@BALA:
-   SCHEDULED: <2017-11-08 Wed>
+** CANCELLED Check with Bala if he can make it to open the mission for maintenance :@BALA:
+   CLOSED: [2017-11-08 Wed 13:33] SCHEDULED: <2017-11-08 Wed>
 
 * DO Fall cleanup                                                  :@ARCHANA:
 ** DO Pay for fall cleanup $120                                     :@MARCOS:
