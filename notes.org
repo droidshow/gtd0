@@ -277,6 +277,7 @@ DOCS
 http://gstreamer.freedesktop.org/documentation
 
  GLib
+ https://stackoverflow.com/questions/500501/material-to-learn-gobject-and-glib/501782#501782
  https://developer.gnome.org/glib/stable/
 
  GObject

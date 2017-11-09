@@ -1,3 +1,4 @@
+* Fix the hole in the bathroom ceiling
 * DONE DST Checklist
   CLOSED: [2017-11-06 Mon 08:31]
 ** [ ] Change clock, fall back
