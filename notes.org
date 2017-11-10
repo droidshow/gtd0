@@ -1210,6 +1210,32 @@ http://www.solveigmm.com/en/products/zond/
 Perl based library, implement callback
 http://search.cpan.org/dist/Linux-DVB-DVBT-TS/lib/Linux/DVB/DVBT/TS.pm
 
+*** STANDARDS
+
+**** DVB
+ETSI EN 300 429: "Digital Video Broadcasting (DVB); Framing structure, channel coding and modulation for cable systems".
+ETSI TS 102 606: "Digital Video Broadcasting (DVB); Generic Stream Encapsulation (GSE) Protocol".
+ETSI TS 102 771: "Digital Video Broadcasting (DVB); Generic Stream Encapsulation (GSE) implementation guidelines".
+ETR 211 'Digital broadcasting systems for television: Guidelines on implementation and usage of service information (SI) in DVB Systems'
+ETR 289 'Digital video broadcasting (DVB): Support for use of scrambling and conditional access (CA) within digital broadcasting systems.
+IEC 60728-1 (May 2008): "Cable networks for television signals, sound signals and interactive services - Part 1: System performance of forward paths".
+IEEE 802.14: "Broadband Cable Access Method and Physical Layer Specification". 
+ETSI EN 300 468: "Digital Video Broadcasting (DVB); Specification for Service Information (SI) in DVB Systems".
+
+ISO/IEC 13818-1: "Information technology - Generic Coding of moving pictures and associated audio information: Systems".
+IEC 60169-2 (1965) ' Radio Frequency Connectors: Part 2 "Coaxial unmatched connector [including Amendment No.1 (1982)]"  2
+
+
+television standards used around the world.
+Check these Web sites for more information about world-wide frequency allocation.
+http://www.blondertongue.com/CATV-Broadband-Reference-Literature
+http://www.acterna.com
+http://www.apple.com
+http://www.c-cor.com
+http://www.atxincorporated.com
+http://www.alkenmrs.com
+
+
 ** UBUNTU
 *** Antivirus ClamAV
 sudo freshclam && sudo clamscan / -r -i > ~/Desktop/clamscan-$(date +%F).log
