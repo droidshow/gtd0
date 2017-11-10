@@ -1,4 +1,16 @@
 * Fix the hole in the bathroom ceiling
+** WAITING Handyman Scott's reply for the work
+** Also ask Scott's help with following items
+- Cut Wood chips for rails near the stais upstairs
+- Install the woodchips
+- Painting the underside of roof jutting out at the backside
+- Replace the rotting wood strip above the awning
+- Clean and replace or fix the portion of rain gutter where birds have nested
+- Detect the source of roof leak and fix
+- Replace water stained false ceilings in the assembly hall
+- Try to fix the shower upstairs or replace
+- New exit sign with small batteries and led lights
+
 * DONE DST Checklist
   CLOSED: [2017-11-06 Mon 08:31]
 ** [ ] Change clock, fall back
