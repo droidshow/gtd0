@@ -3,7 +3,12 @@
 - 
 - 
 * Fix the hole in the bathroom ceiling
-** WAITING Handyman Scott's reply for the work
+** DONE Handyman Scott's reply for the work
+   CLOSED: [2017-11-11 Sat 14:08]
+** SCHED Let Scott know the time to meet :@SCOTT:GMAIL:
+   SCHEDULED: <2017-11-15 Wed>
+** SCHED Meet Scott at the Mission :@ARCHANA:@SCOTT:
+   SCHEDULED: <2017-11-16 Thu>
 ** Also ask Scott's help with following items
 - Cut Wood chips for rails near the stais upstairs
 - Install the woodchips
@@ -409,12 +414,13 @@ Sunday, May 20, 2018	BALOTSAV
 
 *** RECURRING
 **** SCHED Prepare contents for assembly                              :@HOME:
-     SCHEDULED: <2017-11-08 Wed ++1w>
+     SCHEDULED: <2017-11-15 Wed ++1w>
+     - State "DONE"       from "SCHED"      [2017-11-11 Sat 12:08]
      - State "DONE"       from "STARTED"    [2017-11-06 Mon 11:43]
      - State "DONE"       from "SCHED"      [2017-10-31 Tue 17:52]
      - State "DONE"       from "SCHED"      [2017-10-20 Fri 16:57]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-11-06 Mon 11:43]
+     :LAST_REPEAT: [2017-11-11 Sat 12:08]
      :END:
 **** DONE Day light savings, "fall back"                :@ARCHANA:CLASSROOMS:
      CLOSED: [2017-11-05 Sun 13:40] SCHEDULED: <2017-11-05 Sun>
