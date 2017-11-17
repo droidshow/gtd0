@@ -1,14 +1,16 @@
-* Replenish first-aid kit 
-- Hudrogen peroxide
+* DONE Replenish first-aid kit 
+  CLOSED: [2017-11-17 Fri 11:33]
+- Hydrogen peroxide
+- Anti-bacterial
 - 
-- 
-* Fix the hole in the bathroom ceiling
+* DONE Fix the hole in the bathroom ceiling
+  CLOSED: [2017-11-17 Fri 11:37]
 ** DONE Handyman Scott's reply for the work
    CLOSED: [2017-11-11 Sat 14:08]
-** SCHED Let Scott know the time to meet :@SCOTT:GMAIL:
-   SCHEDULED: <2017-11-15 Wed>
-** SCHED Meet Scott at the Mission :@ARCHANA:@SCOTT:
-   SCHEDULED: <2017-11-16 Thu>
+** DONE Let Scott know the time to meet                        :@SCOTT:GMAIL:
+   CLOSED: [2017-11-15 Wed 11:33] SCHEDULED: <2017-11-15 Wed>
+** DONE Meet Scott at the Mission                           :@ARCHANA:@SCOTT:
+   CLOSED: [2017-11-17 Fri 11:32] SCHEDULED: <2017-11-16 Thu 17:30>
 ** Also ask Scott's help with following items
 - Cut Wood chips for rails near the stais upstairs
 - Install the woodchips
@@ -31,7 +33,6 @@
 ** [X] HVAC inspection
 ** [ ] Fireplace chimney sweep
 ** [ ] Drain water heater
-
 
 * DONE Get better quality filters for CM before HVAC maintenance 2 x 16x25 and 1 x 20x20 :@MENARDS:
   CLOSED: [2017-11-06 Mon 08:31] DEADLINE: <2017-11-15 Wed> SCHEDULED: <2017-11-05 Sun>
@@ -63,12 +64,13 @@
 * Hooks on false ceiling for decoration :@ARCHANA:
 * New exit sign with small batteries and led lights :@ARCHANA:
 
-* Check with Marcos for cheaper alternative to snow cleaning, salting ~$100/occurence
+* CANCELLED Check with Marcos for cheaper alternative to snow cleaning, salting ~$100/occurence
+  CLOSED: [2017-11-17 Fri 11:49]
 
 * Get ikea clock for classroom                                        :@IKEA:
 
-* SCHED HVAC maintenance :@ARCHANA:
-  SCHEDULED: <2017-11-15 Wed>
+* DONE HVAC maintenance                                            :@ARCHANA:
+  CLOSED: [2017-11-16 Thu 08:49] SCHEDULED: <2017-11-15 Wed 13:00>
 ** CANCELLED Check with Bala if he can make it to open the mission for maintenance :@BALA:
    CLOSED: [2017-11-08 Wed 13:33] SCHEDULED: <2017-11-08 Wed>
 
@@ -85,6 +87,10 @@
 * CMC
 
 ** COMPLETED TASKS
+*** Updates 2017-11-17
+- Replenished expired items in first aid kit
+- Got Scott to fix the hole in the bathroom ceiling
+- HVAC maintenance completed
 *** Updates 2017-11-05
 - Spread Preen around the building
 - Vaccum Tapovan hall
@@ -547,7 +553,8 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2017-11-14 Tue 21:00 ++2w>
+     SCHEDULED: <2017-11-28 Tue 21:00 ++2w>
+     - State "DONE"       from "SCHED"      [2017-11-15 Wed 11:34]
      - State "DONE"       from "SCHED"      [2017-11-01 Wed 09:30]
      - State "DONE"       from "SCHED"      [2017-10-17 Tue 22:01]
      - State "CANCELLED"  from "SCHED"      [2017-10-04 Wed 06:47]
@@ -559,7 +566,7 @@ Refer [[Cleaning Checklist]]
      - State "CANCELLED"  from "SCHED"      [2017-07-12 Wed 07:24]
      - State "DONE"       from "SCHED"      [2017-06-28 Wed 07:39]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-11-01 Wed 09:30]
+     :LAST_REPEAT: [2017-11-15 Wed 11:34]
      :END:
 ** REFERNCE
 

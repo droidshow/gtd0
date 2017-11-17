@@ -228,7 +228,7 @@ Create branch and switch to branch
 Merging
  git checkout <master>
  git merge <branchname>
- git branch -d <branchname>
+ git branch -d <branchname> # delete branch after merging
 
 To pull recent changes from master branch to current branch
  git merge <master>
@@ -258,6 +258,9 @@ Remote Branch
  git pull  # git fetch + git merge
  git push <remote> --delete <branch> # Delete a branch from the server
 
+
+merging vs rebasing
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
 *** LINKS
 http://rogerdudler.github.io/git-guide/
@@ -498,7 +501,8 @@ nm hello.ko
 ** RASPBERRYPI 
 
 *** STARTED https://www.raspberrypi.org/documentation/linux/           
-**** STARTED https://www.raspberrypi.org/documentation/linux/usage/README.md :HEAD:RPI:
+**** STARTED https://www.raspberrypi.org/documentation/linux/usage/README.md :RPI:
+***** https://fedoramagazine.org/what-is-an-init-system/ :HEAD:RPI:
 
 *** AUDIO BOARDS
 https://www.hifiberry.com/build/gallery/
@@ -1186,6 +1190,9 @@ ISDB-Tb
 
 *** LINKS
 http://forum.doom9.org/
+
+UK Frequency allocation
+https://www.ofcom.org.uk/__data/assets/pdf_file/0016/103309/uk-fat-2017.pdf
 
 *** TOOLS
 avconv
