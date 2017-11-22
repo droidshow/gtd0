@@ -857,7 +857,8 @@ sudo chsh git -s $(which git-shell)
 
 
 
-
+***** SQL
+http://www.raspberry-projects.com/pi/software_utilities/web-servers/mysql
 ***** Webserver
 How to set up a secure Raspberry Pi web server, mail server and Owncloud installation
 https://www.pestmeester.nl/
@@ -1273,4 +1274,27 @@ https://www.howtogeek.com/howto/35676/how-to-choose-a-partition-scheme-for-your-
 | /dev/sda7 | /home   |          | 100GB    | home  | ext4       |   |
 | /dev/sda8 | /mnt/om |          | 300.76   | om    | ext4       |   |
 |           |         |          |          |       |            |   |
+
+*** Low disk space on boot
+sudo apt autoremove --purge
+
+df                          # Check the disk usage
+dpkg -l linux-image*        # List all the kernel images
+uname -r                    # Get the currently used kernel image
+cat /proc/version_signature #
+sudo dpkg --purge linux-image-4.4.0-24-generic
+sudo apt-get remove linux-image-<ver>-{}  #Insert the kernel images to remove, DONOT REMOVE CURRENT AND LATEST
+sudo dpkg --purge linux-image-<ver>-generic 
+sudo dpkg --purge linux-image-extra-<ver>-generic
+
+sudo apt-get autoremove # Cleanup dependency
+
+
+
+
+
+
+
+
+
 
