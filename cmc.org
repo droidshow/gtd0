@@ -18,6 +18,8 @@
 
 * Check if water is leaking anywhere ?
 
+* Install the new security system
+
 * NEEDED ?
 - new wireless lapel mic
 - fire alarm replaced
@@ -400,6 +402,7 @@ Friday, October 20,2017	Family Talent Show
 Friday, November 17, 2017	Family Bingo Nite
 Saturday, November 18, 2017	Ronald McDonald House
 Sunday, November 26, 2017	Thanksgiving 
+
 Sunday, December 03, 2017	Get President's Day 2017 Registrations ready
 Sunday, December 10, 2017	Start Marketing for President's Day camp
 Friday, December 15, 2017	Movie Nite
@@ -418,6 +421,9 @@ Sunday, April 22, 2018	Open Registrations to new CMC members
 Sunday, May 13, 2018	Mother's Day and Gurudev's B'Day
 Saturday, May 19, 2018	Rehersals for BALOTSAV
 Sunday, May 20, 2018	BALOTSAV
+***** SCHED Tapovan Jayanthi / Gita Jayanthi
+      DEADLINE: <2017-11-29 Wed> SCHEDULED: <2017-11-30 Thu>
+Next year Dec 18, 2018
 
 ***** Guruji Jayanthi
 ***** Gurudev Jayanthi
@@ -522,7 +528,7 @@ Sunday, May 20, 2018	BALOTSAV
       :PROPERTIES:
       :LAST_REPEAT: [2017-11-19 Sun 10:19]
       :END:
-***** DO Lawn moving
+***** Lawn moving
 
 **** SCHED CLEANUP
      SCHEDULED: <2017-12-20 Wed ++6m>
@@ -547,7 +553,7 @@ Refer [[Cleaning Checklist]]
       :END:
 
 **** PEST CONTROL
-***** DO Get ecosmart after current solution runs out
+***** Get ecosmart after current solution runs out
 ***** SCHED Spray insecticide around the perimeter and inside :CMC:MAINTENANCE:
       SCHEDULED: <2018-04-01 Sun ++1y>
       - State "DONE"       from "APPT"       [2017-05-24 Wed 21:54]
