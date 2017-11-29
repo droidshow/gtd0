@@ -237,7 +237,8 @@ Published the document "CMC-IT-ver-0.1.pdf"
     CLOSED: [2017-07-30 Sun 10:15]
 *** DONE Invoice for rain gutter work from Scott                      :SCOTT:
     CLOSED: [2017-07-24 Mon 07:30] SCHEDULED: <2017-07-24 Mon>
-*** DO Reimburse the rain-gutter work and donate the power wash work :BILLS:REIMBURSE:
+*** DONE Reimburse the rain-gutter work and donate the power wash work :BILLS:REIMBURSE:
+    CLOSED: [2017-11-29 Wed 15:13]
 *** DONE Pay 23 for books                                               :PAY:
     CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-09 Sun>
 *** DONE Sync with Chinnappan about the Atmabodha video               :ROCKY:
@@ -499,7 +500,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2017-11-05 Sun 13:40]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-11-26 Sun ++7d>
+      SCHEDULED: <2017-12-03 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2017-11-29 Wed 12:24]
       - State "CANCELLED"  from "SCHED"      [2017-11-19 Sun 10:19]
       - State "CANCELLED"  from "SCHED"      [2017-11-13 Mon 07:17]
       - State "CANCELLED"  from "SCHED"      [2017-11-05 Sun 13:40]
@@ -526,7 +528,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-11-19 Sun 10:19]
+      :LAST_REPEAT: [2017-11-29 Wed 12:24]
       :END:
 ***** Lawn moving
 
@@ -567,7 +569,8 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2017-11-28 Tue 21:00 ++2w>
+     SCHEDULED: <2017-12-12 Tue 21:00 ++2w>
+     - State "DONE"       from "SCHED"      [2017-11-29 Wed 12:24]
      - State "DONE"       from "SCHED"      [2017-11-15 Wed 11:34]
      - State "DONE"       from "SCHED"      [2017-11-01 Wed 09:30]
      - State "DONE"       from "SCHED"      [2017-10-17 Tue 22:01]
@@ -580,7 +583,7 @@ Refer [[Cleaning Checklist]]
      - State "CANCELLED"  from "SCHED"      [2017-07-12 Wed 07:24]
      - State "DONE"       from "SCHED"      [2017-06-28 Wed 07:39]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-11-15 Wed 11:34]
+     :LAST_REPEAT: [2017-11-29 Wed 12:24]
      :END:
 ** REFERNCE
 
