@@ -1,6 +1,11 @@
 
 
 * NOTES
+** AIY
+- aiyprojects-raspbian : https://github.com/google/aiyprojects-raspbian
+- assistant-sdk-python : https://developers.google.com/assistant/sdk/
+-                      : https://github.com/googlesamples/assistant-sdk-python -- samples and bindings
+- google-assistant-library 
 ** BUILD SYSTEMS
 *** Meson-Ninja
 http://mesonbuild.com
@@ -1248,6 +1253,8 @@ http://www.c-cor.com
 http://www.atxincorporated.com
 http://www.alkenmrs.com
 
+** UBOOT
+http://www.denx.de/wiki/U-Boot/WebHome
 
 ** UBUNTU
 *** Antivirus ClamAV

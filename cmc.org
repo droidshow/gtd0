@@ -1,17 +1,5 @@
-* STARTED Outside woodwork & Roof leakage fix
-- 2017-08-28 - Called George and left him a message in the after-noon, not called back yet
-** Work list
-*** Painting the underside of roof jutting out at the backside
-*** Replace the rotting wood strip above the awning
-*** Clean and replace or fix the portion of rain gutter where birds have nested
-*** Detect the source of roof leak and fix
-*** Replace water stained false ceilings in the assembly hall
-** DONE Take photos of the affected places
-   CLOSED: [2017-08-14 Mon 08:17]
-** DEFERRED Send mail to Scott with photos and request a quote  :SCOTT:GMAIL:
-   CLOSED: [2017-08-19 Sat 11:15] SCHEDULED: <2017-08-14 Mon>
-** DONE Let Puran know of the work list for his contact to work on :PURAN:GMAIL:
-   CLOSED: [2017-09-22 Fri 04:51] SCHEDULED: <2017-08-27 Sun>
+* STARTED Open mission to Scott for second layer application for ceiling :@ARCHANA:
+  SCHEDULED: <2017-12-05 Tue 17:30>
 * Try to fix the shower upstairs or replace :@ARCHANA:
 * Hooks on false ceiling for decoration :@ARCHANA:
 * New exit sign with small batteries and led lights :@ARCHANA:
@@ -20,11 +8,11 @@
 
 * Install the new security system
 
+* 
 * NEEDED ?
-- new wireless lapel mic
-- fire alarm replaced
-- Check with Puran if has got the weed killer
-- Road crack filling (contact Mike at office)
+* Install new fire alaram
+* Road crack filling
+
 
 
 * CMC
@@ -324,10 +312,20 @@ SUGGESTION: Can mention that site is still under construction.
 *** DONE Pay Scott $88.68 + $120                              :SCOTT:PAYMENT:
     CLOSED: [2017-07-10 Mon 07:57] SCHEDULED: <2017-04-30 Sun>
 ** SOMEDAY
-*** TV screen cast
-**** Microsoft Windows 8
-***** Register as non-profit
-
+*** Outside woodwork & Roof leakage fix
+- 2017-08-28 - Called George and left him a message in the after-noon, not called back yet
+**** Work list
+***** Painting the underside of roof jutting out at the backside
+***** Replace the rotting wood strip above the awning
+***** Clean and replace or fix the portion of rain gutter where birds have nested
+***** Detect the source of roof leak and fix
+***** Replace water stained false ceilings in the assembly hall
+**** DONE Take photos of the affected places
+     CLOSED: [2017-08-14 Mon 08:17]
+**** DEFERRED Send mail to Scott with photos and request a quote :SCOTT:GMAIL:
+     CLOSED: [2017-08-19 Sat 11:15] SCHEDULED: <2017-08-14 Mon>
+**** DONE Let Puran know of the work list for his contact to work on :PURAN:GMAIL:
+     CLOSED: [2017-09-22 Fri 04:51] SCHEDULED: <2017-08-27 Sun>
 
 *** Shram Dhaan
 Shram Dhaan
@@ -344,10 +342,6 @@ Theoretical knowledge is as good as gold for the donkey on its back. Use ur know
 Seva Dhaan
 Giving more than what you take.
 
-*** Register with Microsoft for non-profit
-**** Recover techsoup password
-**** Finish registration with techsoup
-*** Register with Costco non-profit
 *** Students feedback
 Anonymous Survey to Feedback from senior students on making CM cool and exciting.
 
@@ -362,8 +356,6 @@ What 3 things would you start doing?
 Why would you volunteer your time during weekend and events
 
 Why wouldn't you volunteer your time
-*** Cushion carpets for sitting
-
 *** Events media management
 - HDMI Switch
 - 2 Laptops handled by 2 personnel
@@ -374,13 +366,15 @@ Why wouldn't you volunteer your time
 - Color label the mics
 ** PROJECTS
 *** CHINPI
-**** Presentation
+**** DONE Presentation
+     CLOSED: [2017-12-05 Tue 09:20]
 
-**** OwnCloud
+**** CANCELLED OwnCloud
+     CLOSED: [2017-12-05 Tue 09:20]
+**** Camera timelapse
 
 **** Camera streaming
 
-**** Camera timelapse
 ** CALENDAR
 :PROPERTIES:
 :CATEGORY: CMC-Calendar
@@ -433,7 +427,8 @@ Next year Dec 18, 2018
 
 *** RECURRING
 **** SCHED Prepare contents for assembly                              :@HOME:
-     SCHEDULED: <2017-11-29 Wed ++1w>
+     SCHEDULED: <2017-12-06 Wed ++1w>
+     - State "CANCELLED"  from "SCHED"      [2017-12-05 Tue 07:54]
      - State "CANCELLED"  from "SCHED"      [2017-11-28 Tue 21:13]
      - State "DONE"       from "SCHED"      [2017-11-18 Sat 18:45]
      - State "DONE"       from "SCHED"      [2017-11-11 Sat 12:08]
@@ -441,7 +436,7 @@ Next year Dec 18, 2018
      - State "DONE"       from "SCHED"      [2017-10-31 Tue 17:52]
      - State "DONE"       from "SCHED"      [2017-10-20 Fri 16:57]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-11-28 Tue 21:13]
+     :LAST_REPEAT: [2017-12-05 Tue 07:54]
      :END:
 **** DONE Day light savings, "fall back"                :@ARCHANA:CLASSROOMS:
      CLOSED: [2017-11-05 Sun 13:40] SCHEDULED: <2017-11-05 Sun>
@@ -489,7 +484,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2017-10-31 Tue 17:52]
       :END:
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-12-05 Tue ++1m>
+      SCHEDULED: <2018-01-05 Fri ++1m>
+      - State "CANCELLED"  from "SCHED"      [2017-12-05 Tue 07:54]
       - State "DONE"       from "SCHED"      [2017-11-05 Sun 13:40]
       - State "CANCELLED"  from "SCHED"      [2017-10-04 Wed 06:47]
       - State "CANCELLED"  from "SCHED"      [2017-09-24 Sun 01:25]
@@ -498,7 +494,7 @@ Next year Dec 18, 2018
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-01 Mon 06:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-11-05 Sun 13:40]
+      :LAST_REPEAT: [2017-12-05 Tue 07:54]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
       SCHEDULED: <2017-12-10 Sun ++7d>
