@@ -1,5 +1,5 @@
-* STARTED Open mission to Scott for second layer application for ceiling :@ARCHANA:
-  SCHEDULED: <2017-12-05 Tue 17:30>
+* DONE Open mission to Scott for second layer application for ceiling :@ARCHANA:
+  CLOSED: [2017-12-06 Wed 08:09] SCHEDULED: <2017-12-05 Tue 17:30>
 * Try to fix the shower upstairs or replace :@ARCHANA:
 * Hooks on false ceiling for decoration :@ARCHANA:
 * New exit sign with small batteries and led lights :@ARCHANA:

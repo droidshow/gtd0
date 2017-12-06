@@ -506,8 +506,8 @@ nm hello.ko
 ** RASPBERRYPI 
 
 *** STARTED https://www.raspberrypi.org/documentation/linux/           
-**** STARTED https://www.raspberrypi.org/documentation/linux/usage/README.md :RPI:
-***** https://fedoramagazine.org/what-is-an-init-system/ :HEAD:RPI:
+**** STARTED https://www.raspberrypi.org/documentation/linux/usage/README.md :RPI:HEAD:
+***** DONE https://fedoramagazine.org/what-is-an-init-system/   :RPI:
 
 *** AUDIO BOARDS
 https://www.hifiberry.com/build/gallery/
