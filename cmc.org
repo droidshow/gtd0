@@ -1,3 +1,4 @@
+* Send bookshelf pictures to Scott and get quotes :@GMAIL:
 * DONE Open mission to Scott for second layer application for ceiling :@ARCHANA:
   CLOSED: [2017-12-06 Wed 08:09] SCHEDULED: <2017-12-05 Tue 17:30>
 * Try to fix the shower upstairs or replace :@ARCHANA:
@@ -427,7 +428,8 @@ Next year Dec 18, 2018
 
 *** RECURRING
 **** SCHED Prepare contents for assembly                              :@HOME:
-     SCHEDULED: <2017-12-06 Wed ++1w>
+     SCHEDULED: <2017-12-13 Wed ++1w>
+     - State "DONE"       from "SCHED"      [2017-12-11 Mon 11:15]
      - State "CANCELLED"  from "SCHED"      [2017-12-05 Tue 07:54]
      - State "CANCELLED"  from "SCHED"      [2017-11-28 Tue 21:13]
      - State "DONE"       from "SCHED"      [2017-11-18 Sat 18:45]
@@ -436,7 +438,7 @@ Next year Dec 18, 2018
      - State "DONE"       from "SCHED"      [2017-10-31 Tue 17:52]
      - State "DONE"       from "SCHED"      [2017-10-20 Fri 16:57]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-12-05 Tue 07:54]
+     :LAST_REPEAT: [2017-12-11 Mon 11:15]
      :END:
 **** DONE Day light savings, "fall back"                :@ARCHANA:CLASSROOMS:
      CLOSED: [2017-11-05 Sun 13:40] SCHEDULED: <2017-11-05 Sun>
@@ -497,7 +499,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2017-12-05 Tue 07:54]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-12-10 Sun ++7d>
+      SCHEDULED: <2017-12-17 Sun ++7d>
+      - State "DONE"       from "SCHED"      [2017-12-11 Mon 11:15]
       - State "CANCELLED"  from "SCHED"      [2017-12-03 Sun 09:03]
       - State "CANCELLED"  from "SCHED"      [2017-11-28 Tue 21:13]
       - State "CANCELLED"  from "SCHED"      [2017-11-19 Sun 10:19]
@@ -526,7 +529,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-12-03 Sun 09:03]
+      :LAST_REPEAT: [2017-12-11 Mon 11:15]
       :END:
 ***** Lawn moving
 
@@ -539,7 +542,8 @@ Next year Dec 18, 2018
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2017-12-10 Sun ++4w>
+      SCHEDULED: <2018-01-07 Sun ++4w>
+      - State "DONE"       from "SCHED"      [2017-12-11 Mon 11:15]
       - State "CANCELLED"  from "SCHED"      [2017-11-13 Mon 07:17]
       - State "CANCELLED"  from "SCHED"      [2017-10-16 Mon 12:19]
       - State "CANCELLED"  from "SCHED"      [2017-09-22 Fri 04:48]
@@ -549,7 +553,7 @@ Refer [[Cleaning Checklist]]
       - State "CANCELLED"  from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-10 Wed 07:28]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-11-13 Mon 07:17]
+      :LAST_REPEAT: [2017-12-11 Mon 11:15]
       :END:
 
 **** PEST CONTROL
