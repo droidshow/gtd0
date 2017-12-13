@@ -18,7 +18,11 @@ Interface with Google Actions for perform custom actions
 - Hands free activation with hot word "Ok Google"
 - Features audio capture and playback, conversation state management, timer and alarm
 - https://developers.google.com/assistant/sdk/develop/python/
--  https://github.com/googlesamples/assistant-sdk-python -- samples and bindings
+- https://github.com/googlesamples/assistant-sdk-python -- samples and bindings
+- Create a project
+- Goto Google Console, enable Google Assistant API, and generate OAuth ID download the device secret json file
+- The device secret is necessary for the Google Assistant SDK sample to make Google Assistant queries.
+- Set activity controls: Web & App activity, Device Information, Voice & Audio activity
 
 **** Google Assitant gRPC API
 - low level apis for more flexibility and other platform and language support
