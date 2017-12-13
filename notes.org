@@ -3,9 +3,31 @@
 * NOTES
 ** AIY
 - aiyprojects-raspbian : https://github.com/google/aiyprojects-raspbian
-- assistant-sdk-python : https://developers.google.com/assistant/sdk/
--                      : https://github.com/googlesamples/assistant-sdk-python -- samples and bindings
 - google-assistant-library 
+*** assistant-sdk-python 
+-  https://developers.google.com/assistant/sdk/
+
+Captures the audio request and passes it to Google Assistant.
+Google Assistant returns the text of the requrest and a response audio.
+Interface with Google Actions for perform custom actions
+
+2 ways to use 
+**** Google Assistant Library for Python for linux ARM/x-86
+- Wraps and exposes event based APIs
+- Can be extended
+- Hands free activation with hot word "Ok Google"
+- Features audio capture and playback, conversation state management, timer and alarm
+- https://developers.google.com/assistant/sdk/develop/python/
+-  https://github.com/googlesamples/assistant-sdk-python -- samples and bindings
+
+**** Google Assitant gRPC API
+- low level apis for more flexibility and other platform and language support
+- https://developers.google.com/assistant/sdk/develop/grpc/
+
+**** Extend the assistan with unique functionalities with Google Actions
+- https://developers.google.com/actions/
+- Use dialogflow to build apps
+
 ** BUILD SYSTEMS
 *** Meson-Ninja
 http://mesonbuild.com
