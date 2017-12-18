@@ -500,7 +500,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2017-12-05 Tue 07:54]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-12-17 Sun ++7d>
+      SCHEDULED: <2017-12-24 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2017-12-18 Mon 10:50]
       - State "DONE"       from "SCHED"      [2017-12-11 Mon 11:15]
       - State "CANCELLED"  from "SCHED"      [2017-12-03 Sun 09:03]
       - State "CANCELLED"  from "SCHED"      [2017-11-28 Tue 21:13]
@@ -530,7 +531,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-12-11 Mon 11:15]
+      :LAST_REPEAT: [2017-12-18 Mon 10:50]
       :END:
 ***** Lawn moving
 
