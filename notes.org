@@ -293,6 +293,9 @@ Remote Branch
 merging vs rebasing
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
+*** Stash
+git difftool -d stash@{0} master
+
 *** LINKS
 http://rogerdudler.github.io/git-guide/
 https://git-scm.com/book/en/v2
