@@ -32,6 +32,32 @@ Interface with Google Actions for perform custom actions
 - https://developers.google.com/actions/
 - Use dialogflow to build apps
 
+*** custom command
+- combine the activate by button and the local commands to detect custom words
+- will put it in always listen mode
+
+** ANDROID
+
+*** Android Services
+https://developer.android.com/guide/components/services.html
+https://developer.android.com/reference/android/app/Service.html
+https://developer.android.com/guide/topics/manifest/service-element.html
+
+Tutorial
+http://www.vogella.com/tutorials/AndroidServices/article.html
+
+**** Background service with IntentService
+https://developer.android.com/training/run-background-service/create-service.html
+https://developer.android.com/training/run-background-service/index.html
+
+**** 1) Started service
+
+**** 2) Bound service
+https://developer.android.com/guide/components/bound-services.html
+
+A bound service is the server in a client-server interface. It allows components (such as activities) to bind to the service, send requests, receive responses, and perform interprocess communication (IPC). A bound service typically lives only while it serves another application component and does not run in the background indefinitely.
+
+
 ** BUILD SYSTEMS
 *** Meson-Ninja
 http://mesonbuild.com
