@@ -558,6 +558,8 @@ cat /proc/kallsyms | grep hello
 cat Module.symvers
 nm hello.ko
 
+** Oracle
+https://docs.oracle.com/cd/B28359_01/index.htm
 ** RASPBERRYPI 
 
 *** STARTED https://www.raspberrypi.org/documentation/linux/           
