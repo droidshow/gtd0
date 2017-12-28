@@ -63,6 +63,44 @@ A bound service is the server in a client-server interface. It allows components
 http://mesonbuild.com
 https://ninja-build.org/
 *** Yocto
+** CODE ANALYSIS
+*** clang
+clang++ -S -emit-llvm main1.cpp -o - | opt -analyze -dot-callgraph
+$ dot -Tpng -ocallgraph.png callgraph.dot
+
+for i in `ls *.ll`; do cat $i | opt -analyze -dot-callgraph && mv callgraph.dot $i.dot; done
+
+for i in `ls *.o`; do cat $i | opt -analyze -dot-callgraph && mv callgraph.dot $i.dot; done
+
+for i in `ls *.o`; do cat $i | opt -analyze -dot-callgraph && mv callgraph.dot $i.dot; done
+for i in $(ls *.dot); do dot -Tpng -o$i.png ./$i; done
+
+Could not figure out a good way to analyze multiple files. 
+Some of the things tried :
+ cat *.dot > big.dot
+ Manually combile all diagraphs
+ Generates a big png with individual separate graphs.
+ The png gets downscaled for large file.
+
+
+*** doxygen
+
+Install graphviz, doxygen, doxygen-gui
+Select directory
+Set directory for the output files
+Set "Recursive" in Input
+Set "Have Dot" and unset "Dot cleanup"
+Select only required kind of graph, do not select everything
+
+cat *.dot | gvpack -u -o big.dot
+sed 's/_gv[0-9]\+//g' big.dot > big1.dot
+dot -Tsvg -obig1.svg ./big1.dot
+
+
+
+Combining graphs
+https://stackoverflow.com/questions/16488216/graph-of-graphs-in-graphviz
+
 ** ENCRYPTION
 http://lifehacker.com/a-beginners-guide-to-encryption-what-it-is-and-how-to-1508196946
 http://lifehacker.com/five-best-file-encryption-tools-5677725
