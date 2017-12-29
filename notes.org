@@ -56,6 +56,30 @@ https://developer.android.com/training/run-background-service/index.html
 https://developer.android.com/guide/components/bound-services.html
 
 A bound service is the server in a client-server interface. It allows components (such as activities) to bind to the service, send requests, receive responses, and perform interprocess communication (IPC). A bound service typically lives only while it serves another application component and does not run in the background indefinitely.
+*** Android System Service in 5 example, Adding New 
+https://www.linaro.org/blog/adding-a-new-system-service-to-android-5-tips-and-how-to/
+https://github.com/jmondi/hardware_joffee
+*** Message Queues
+- Does not support poxis messages
+- Beacuse can be potentially leaky and doesn't play well when system wants to kill process to save memory
+- Use Binders
+
+*** JNI 
+
+tutorial
+http://www.integratingstuff.com/2010/12/12/calling-native-c-code-through-jni-in-android-applications/
+https://github.com/thoeni/ndk-tutorials
+
+documentation
+https://developer.android.com/training/articles/perf-jni.html
+https://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html
+
+
+REFERENCES
+https://stackoverflow.com/questions/3232718/how-to-add-a-system-service-to-the-android-framework
+
+https://stackoverflow.com/questions/19926657/java-method-is-not-invoked-when-calling-it-from-native-pthread
+https://github.com/YaMike/JavaServiceTest
 
 
 ** BUILD SYSTEMS
