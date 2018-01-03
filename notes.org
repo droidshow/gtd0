@@ -28,7 +28,7 @@ Interface with Google Actions for perform custom actions
 - low level apis for more flexibility and other platform and language support
 - https://developers.google.com/assistant/sdk/develop/grpc/
 
-**** Extend the assistan with unique functionalities with Google Actions
+**** STARTED Extend the assistan with unique functionalities with Google Actions
 - https://developers.google.com/actions/
 - Use dialogflow to build apps
 
