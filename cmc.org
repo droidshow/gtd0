@@ -452,7 +452,7 @@ Next year Dec 18, 2018
      :LAST_REPEAT: [2017-08-19 Sat 11:08]
      :END:
 **** SCHED Check clocks after winter break :@ARCHANA:
-     SCHEDULED: <2017-12-31 Sun ++1y>
+     SCHEDULED: <2018-01-07 Sun ++1y>
 **** SCHED For winter Switch off water supply to outside outlet :MAINTENANCE:WATER:RECURRING:
      SCHEDULED: <2018-10-29 Mon ++1y>
      - State "DONE"       from "SCHED"      [2017-10-30 Mon 08:48]
@@ -502,7 +502,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2017-12-05 Tue 07:54]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2017-12-31 Sun ++7d>
+      SCHEDULED: <2018-01-07 Sun ++7d>
+      - State "CANCELLED"  from "SCHED"      [2018-01-03 Wed 05:55]
       - State "CANCELLED"  from "SCHED"      [2017-12-27 Wed 14:00]
       - State "CANCELLED"  from "SCHED"      [2017-12-18 Mon 10:50]
       - State "DONE"       from "SCHED"      [2017-12-11 Mon 11:15]
@@ -534,7 +535,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-12-27 Wed 14:00]
+      :LAST_REPEAT: [2018-01-03 Wed 05:55]
       :END:
 ***** Lawn moving
 
