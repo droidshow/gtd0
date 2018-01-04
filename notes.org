@@ -59,6 +59,16 @@ A bound service is the server in a client-server interface. It allows components
 *** Android System Service in 5 example, Adding New 
 https://www.linaro.org/blog/adding-a-new-system-service-to-android-5-tips-and-how-to/
 https://github.com/jmondi/hardware_joffee
+*** Bionic Linker/Loader
+android/bionic/linker/linker.c 
+only considers LD_LIBRARY_PATH 
+and hardcoded array of "/vendor/lib" and "/system/lib".
+completely ignores RPATH in the ELF. 
+
+For placing shared libraries (.so)
+Specify LD_LIBRARY_PATH in Android.mk
+or place them in /system/lib or /vendor/lib
+
 *** Message Queues
 - Does not support poxis messages
 - Beacuse can be potentially leaky and doesn't play well when system wants to kill process to save memory
