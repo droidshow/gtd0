@@ -490,7 +490,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2017-10-31 Tue 17:52]
       :END:
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-01-05 Fri ++1m>
+      SCHEDULED: <2018-02-05 Mon ++1m>
+      - State "DONE"       from "SCHED"      [2018-01-05 Fri 08:59]
       - State "CANCELLED"  from "SCHED"      [2017-12-05 Tue 07:54]
       - State "DONE"       from "SCHED"      [2017-11-05 Sun 13:40]
       - State "CANCELLED"  from "SCHED"      [2017-10-04 Wed 06:47]
@@ -500,7 +501,7 @@ Next year Dec 18, 2018
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-01 Mon 06:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-12-05 Tue 07:54]
+      :LAST_REPEAT: [2018-01-05 Fri 08:59]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
       SCHEDULED: <2018-01-07 Sun ++7d>
