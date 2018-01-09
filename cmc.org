@@ -588,7 +588,7 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2018-01-09 Tue 21:00 ++2w>
+     SCHEDULED: <2018-01-09 Tue 21:00-22:00 ++2w>
      - State "CANCELLED"  from "SCHED"      [2017-12-27 Wed 14:00]
      - State "DONE"       from "SCHED"      [2017-12-13 Wed 10:36]
      - State "DONE"       from "SCHED"      [2017-11-28 Tue 21:11]

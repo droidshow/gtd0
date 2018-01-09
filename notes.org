@@ -85,6 +85,7 @@ http://web.guohuiwang.com/technical-notes/androidndk1
 tutorial
 http://www.integratingstuff.com/2010/12/12/calling-native-c-code-through-jni-in-android-applications/
 https://github.com/thoeni/ndk-tutorials
+https://www.ibm.com/developerworks/java/tutorials/j-jni/j-jni.html
 
 documentation
 https://developer.android.com/training/articles/perf-jni.html
