@@ -38,6 +38,11 @@ Interface with Google Actions for perform custom actions
 
 ** ANDROID
 
+*** Android Security & Permissions & user id & OTA
+https://boundarydevices.com/android-security-part-1-application-signatures-permissions/
+https://boundarydevices.com/android-security-part-2-ota-updates/
+selinux
+https://boundarydevices.com/android-security-part-3-security-enhanced-linux-in-android/
 *** Android Services
 https://developer.android.com/guide/components/services.html
 https://developer.android.com/reference/android/app/Service.html
