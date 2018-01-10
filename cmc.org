@@ -1,4 +1,15 @@
-* Get the Shram Dhan printed in larger format and laminated :PRINT:
+* SCHED Check the crawl space in the basement for water leak
+  SCHEDULED: <2018-01-14 Sun 11:00>
+* SCHED Check mail from Puran regarding the lock and reply to the mail :GMAIL:@PURAN:@ARCHANA:
+  SCHEDULED: <2018-01-14 Sun 14:00>
+* SCHED Fix the flap on the back door :@ARCHANA:
+* WAITING Simplisafe installation
+** WAITING Puranji to confirm if Jon can visit Archana for installation on Sunday :@PURAN:
+** SCHED Return the Simplisafe if we cannot install by end of Jan
+   DEADLINE: <2018-01-27 Sat> SCHEDULED: <2018-01-21 Sun>
+* Shram Dhan matrix
+** Re-look at the list and reduce the activity so that when blown up will look ok
+** Get the Shram Dhan printed in larger format and laminated          :PRINT:
 * CANCELLED Send bookshelf pictures to Scott and get quotes          :@GMAIL:
   CLOSED: [2018-01-07 Sun 19:50]
 * DONE Open mission to Scott for second layer application for ceiling :@ARCHANA:
