@@ -68,6 +68,7 @@ https://github.com/gibsson/BasicService
 
 *** Android on Beagle Board / HAL
 https://books.google.com/books?id=8bq9BgAAQBAJ&lpg=PA22&ots=mFKaN0vEvm&dq=access%20custom%20hardware%20using%20android%20native%20library&pg=PA22#v=onepage&q=access%20custom%20hardware%20using%20android%20native%20library&f=false
+http://www.opersys.com/blog/extending-android-hal
 *** Bionic Linker/Loader
 android/bionic/linker/linker.c 
 only considers LD_LIBRARY_PATH 
