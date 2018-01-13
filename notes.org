@@ -37,6 +37,7 @@ Interface with Google Actions for perform custom actions
 - will put it in always listen mode
 
 ** ANDROID
+https://developer.android.com/training/basics/firstapp/running-app.html
 
 *** Android Security & Permissions & user id & OTA
 https://boundarydevices.com/android-security-part-1-application-signatures-permissions/
@@ -61,6 +62,20 @@ https://developer.android.com/training/run-background-service/index.html
 https://developer.android.com/guide/components/bound-services.html
 
 A bound service is the server in a client-server interface. It allows components (such as activities) to bind to the service, send requests, receive responses, and perform interprocess communication (IPC). A bound service typically lives only while it serves another application component and does not run in the background indefinitely.
+*** Android Studio
+https://developer.android.com/studio/intro/index.html
+
+32 bit libraries
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+
+KVM support
+https://help.ubuntu.com/community/KVM/Installation
+sudo apt-get install qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils 
+ ia32-libs is hacky, no longer available in ubuntu, if needed
+  sudo dpkg --add-architecture i386
+  sudo apt-get -qqy update
+  sudo apt-get -qqy install libncurses5:i386 libstdc++6:i386 zlib1g:i386
+
 *** Android System Service in 5 example, Adding New 
 https://www.linaro.org/blog/adding-a-new-system-service-to-android-5-tips-and-how-to/
 https://github.com/jmondi/hardware_joffee
