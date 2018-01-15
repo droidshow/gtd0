@@ -1,5 +1,5 @@
 * SCHED Check the crawl space in the basement for water leak
-  SCHEDULED: <2018-01-14 Sun 11:00>
+  SCHEDULED: <2018-01-21 Sun 11:00>
 * DONE Check mail from Puran regarding the lock and reply to the mail :GMAIL:@PURAN:@ARCHANA:
   CLOSED: [2018-01-10 Wed 14:07] SCHEDULED: <2018-01-10 Wed 13:30>
 * SCHED Fix the flap on the back door :@ARCHANA:
