@@ -1,15 +1,33 @@
-* SCHED Check the crawl space in the basement for water leak
+---------------------------------------------------------------------------------------------
+* SCHED [#B] Check the crawl space in the basement for water leak 
   SCHEDULED: <2018-01-21 Sun 11:00>
+
 * DONE Check mail from Puran regarding the lock and reply to the mail :GMAIL:@PURAN:@ARCHANA:
   CLOSED: [2018-01-10 Wed 14:07] SCHEDULED: <2018-01-10 Wed 13:30>
-* SCHED Fix the flap on the back door :@ARCHANA:
-* WAITING Simplisafe installation
-** WAITING Puranji to confirm if Jon can visit Archana for installation on Sunday :@PURAN:
-** SCHED Return the Simplisafe if we cannot install by end of Jan
+* SCHED [#B] Fix the flap on the back door                         :@ARCHANA:
+* SCHED [#B] Simplisafe installation 
+  SCHEDULED: <2018-01-21 Sun>
+- Simplisafe system installation cancelled because of bad support experience.
+** CANCELLED Puranji to confirm if Jon can visit Archana for installation on Sunday :@PURAN:
+   CLOSED: [2018-01-18 Thu 14:47]
+** STARTED Return the Simplisafe if we cannot install by end of Jan
    DEADLINE: <2018-01-27 Sat> SCHEDULED: <2018-01-21 Sun>
-* WAITING Reimbursement for 448.27 :@BALA:
-  SCHEDULED: <2018-01-20 Sat>
-* Shram Dhan matrix
+** SCHED Fetch the SimpliSafe system box :@ARCHANA:
+   SCHEDULED: <2018-01-18 Thu 10:30>
+** SCHED Print simplisafe return label (in gmail) :@ARCHANA:@PRINTER:
+   SCHEDULED: <2018-01-21 Sun 10:30>
+** SCHED Dropoff the simplisafe box at UPS :@UPS:
+   SCHEDULED: <2018-01-22 Mon>
+
+* SCHED [#C] Chinpi
+  SCHEDULED: <2018-01-21 Sun>
+- Check the raspberrypi, start and connect it
+- Check if the dataplicity process is running
+- sudo apt update && sudo apt upgrade
+
+* DONE Reimbursement for 448.27                                       :@BALA:
+  CLOSED: [2018-01-18 Thu 15:05] SCHEDULED: <2018-01-20 Sat>
+* Shram Dhan matrix 
 ** Re-look at the list and reduce the activity so that when blown up will look ok
 ** Get the Shram Dhan printed in larger format and laminated          :PRINT:
 * CANCELLED Send bookshelf pictures to Scott and get quotes          :@GMAIL:
@@ -20,20 +38,17 @@
 * Hooks on false ceiling for decoration :@ARCHANA:
 * New exit sign with small batteries and led lights :@ARCHANA:
 
-* Check if water is leaking anywhere ?
-
-* Install the new security system
-
-* 
-* NEEDED ?
 * Install new fire alaram
 * Road crack filling
 
 
 
-* CMC
+* 
+---------------------------------------------------------------------------------------------
 
-** COMPLETED TASKS
+* CMC                                                                  
+
+** COMPLETED TASKS 
 *** CANCELLED Check with Marcos for cheaper alternative to snow cleaning, salting ~$100/occurence
     CLOSED: [2017-11-17 Fri 11:49]
 
@@ -643,7 +658,7 @@ Tax exempt number : 83891/5000
 Registered Phone  : (877) 829-5500
 
 *** CHECKLISTS
-**** <<Cleaning Checklist>>
+**** Cleaning Checklist <<Cleaning Checklist>>
 
 ***** Tapovan Hall
 - [ ]   Clean Altar
@@ -807,8 +822,35 @@ Registered Phone  : (877) 829-5500
 - [ ] Marker pen
 - [ ] 
  
+*** To HTML version of this
+- http://htmlpreview.github.io/?https://github.com/droidshow/gtd0/blob/master/cmc.html
 
-* org-mode configuration
+*** Way of Working
+
+** WAY OF WORKING
+*** Facility related tasks
+- Send an e-mail to facility cordinator with task and its details
+- Mention priority as A, B, or C ( A is highest and C lowest priority)
+- Keep Puran/Venkat/Bala in copy of the mail
+- If no objections the task will go into this TODO list http://htmlpreview.github.io/?https://github.com/droidshow/gtd0/blob/master/cmc.html
+- Facility co-oridnator will be *single* tasking off of this TODO list, so if you want your task done make sure it appears in this list
+- Best way to make sure that the task makes it to the list is to send the mail to facility co-ordinator
+- Assume atleast 1 week lead time from the time the mail is sent to task making it to list, task completion will take more than 1 week (unless emergency)
+
+*** Snow clearing
+Mail from Puran 
+- There is no need to have it cleaned on other week days unless we have a function on these days and requested by Venkat, Bala or I. 
+- One exception is Saturday's.  We have Sanskrit classes on Satrudays and should have it cleaned.  
+- Please check with class timing with Venkat and accordingly instruct Hoffman Landscaping to clean it.  
+-  We also have Abhishekam scheduled on Saturday's and need to do the same.  
+- Hoffman will not know our Abhikshekam schedule and, there Dilip or Manubhai may need to remind you to schedule the cleaning.
+- All requests should go through you(facility co-ordinator) and not directly to Hoffman.   
+
+
+* org-mode configuration :noexport:
+#+AUTHOR: SPB
+#+TITLE: CMC Facility Task List
+#+OPTIONS: toc:2
 #+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 #+STARTUP: overview
