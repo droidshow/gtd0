@@ -43,9 +43,11 @@
 * Install new fire alaram
 * Road crack filling
 
-
 * DONE Request service provider to clear snow on Satudays before 10 AM
   CLOSED: [2018-01-20 Sat 11:58]
+
+* Supplies
+** Banquet rolls
 
 * 
 ---------------------------------------------------------------------------------------------
