@@ -268,3 +268,28 @@ http://www.lithonia.com/commercial/lhqm.html#.WKO6cxsrJeU
   :ARCHIVE_CATEGORY: cmc
   :END:
 
+
+* DONE Prepare contents for assembly                                  :@HOME:
+  CLOSED: [2018-01-20 Sat 12:33]
+  - State "CANCELLED"  from "SCHED"      [2018-01-20 Sat 12:32]
+  - State "CANCELLED"  from "SCHED"      [2018-01-16 Tue 11:51]
+  - State "DONE"       from "SCHED"      [2018-01-04 Thu 09:19]
+  - State "CANCELLED"  from "SCHED"      [2017-12-28 Thu 10:17]
+  - State "CANCELLED"  from "SCHED"      [2017-12-20 Wed 17:12]
+  - State "DONE"       from "SCHED"      [2017-12-13 Wed 10:36]
+  - State "DONE"       from "SCHED"      [2017-12-11 Mon 11:15]
+  - State "CANCELLED"  from "SCHED"      [2017-12-05 Tue 07:54]
+  - State "CANCELLED"  from "SCHED"      [2017-11-28 Tue 21:13]
+  - State "DONE"       from "SCHED"      [2017-11-18 Sat 18:45]
+  - State "DONE"       from "SCHED"      [2017-11-11 Sat 12:08]
+  - State "DONE"       from "STARTED"    [2017-11-06 Mon 11:43]
+  - State "DONE"       from "SCHED"      [2017-10-31 Tue 17:52]
+  - State "DONE"       from "SCHED"      [2017-10-20 Fri 16:57]
+  :PROPERTIES:
+  :LAST_REPEAT: [2018-01-20 Sat 12:32]
+  :ARCHIVE_TIME: 2018-01-20 Sat 12:33
+  :ARCHIVE_FILE: t:/gtd0/cmc.org
+  :ARCHIVE_OLPATH: CMC/CALENDAR/RECURRING
+  :ARCHIVE_CATEGORY: CMC-Calendar
+  :ARCHIVE_TODO: DONE
+  :END:

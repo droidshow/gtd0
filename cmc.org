@@ -13,7 +13,7 @@
 ** STARTED Return the Simplisafe if we cannot install by end of Jan
    DEADLINE: <2018-01-27 Sat> SCHEDULED: <2018-01-21 Sun>
 ** SCHED Fetch the SimpliSafe system box :@ARCHANA:
-   SCHEDULED: <2018-01-18 Thu 10:30>
+   SCHEDULED: <2018-01-21 Sun 10:30>
 ** SCHED Print simplisafe return label (in gmail) :@ARCHANA:@PRINTER:
    SCHEDULED: <2018-01-21 Sun 10:30>
 ** SCHED Dropoff the simplisafe box at UPS :@UPS:
@@ -27,7 +27,9 @@
 
 * DONE Reimbursement for 448.27                                       :@BALA:
   CLOSED: [2018-01-18 Thu 15:05] SCHEDULED: <2018-01-20 Sat>
-* Shram Dhan matrix 
+* CANCELLED Shram Dhan matrix 
+  CLOSED: [2018-01-20 Sat 12:48]
+- Slow feedback can't reword
 ** Re-look at the list and reduce the activity so that when blown up will look ok
 ** Get the Shram Dhan printed in larger format and laminated          :PRINT:
 * CANCELLED Send bookshelf pictures to Scott and get quotes          :@GMAIL:
@@ -42,6 +44,8 @@
 * Road crack filling
 
 
+* DONE Request service provider to clear snow on Satudays before 10 AM
+  CLOSED: [2018-01-20 Sat 11:58]
 
 * 
 ---------------------------------------------------------------------------------------------
@@ -457,26 +461,8 @@ Next year Dec 18, 2018
 ***** Annual Day
 
 *** RECURRING
-**** SCHED Prepare contents for assembly                              :@HOME:
-     SCHEDULED: <2018-01-10 Wed ++1w 19:00-19:3g0>
-     - State "CANCELLED"  from "SCHED"      [2018-01-16 Tue 11:51]
-     - State "DONE"       from "SCHED"      [2018-01-04 Thu 09:19]
-     - State "CANCELLED"  from "SCHED"      [2017-12-28 Thu 10:17]
-     - State "CANCELLED"  from "SCHED"      [2017-12-20 Wed 17:12]
-     - State "DONE"       from "SCHED"      [2017-12-13 Wed 10:36]
-     - State "DONE"       from "SCHED"      [2017-12-11 Mon 11:15]
-     - State "CANCELLED"  from "SCHED"      [2017-12-05 Tue 07:54]
-     - State "CANCELLED"  from "SCHED"      [2017-11-28 Tue 21:13]
-     - State "DONE"       from "SCHED"      [2017-11-18 Sat 18:45]
-     - State "DONE"       from "SCHED"      [2017-11-11 Sat 12:08]
-     - State "DONE"       from "STARTED"    [2017-11-06 Mon 11:43]
-     - State "DONE"       from "SCHED"      [2017-10-31 Tue 17:52]
-     - State "DONE"       from "SCHED"      [2017-10-20 Fri 16:57]
-     :PROPERTIES:
-     :LAST_REPEAT: [2018-01-16 Tue 11:51]
-     :END:
-**** DONE Day light savings, "fall back"                :@ARCHANA:CLASSROOMS:
-     CLOSED: [2017-11-05 Sun 13:40] SCHEDULED: <2017-11-05 Sun>
+**** SCHED Day light savings, "fall back"               :@ARCHANA:CLASSROOMS:
+     SCHEDULED: <2018-11-04 Sun ++1y>
 **** SCHED Check clocks after summer break                         :@ARCHANA:
      SCHEDULED: <2018-08-18 Sat ++1y>
      - State "DONE"       from "SCHED"      [2017-08-19 Sat 11:08]
