@@ -1,53 +1,37 @@
 ---------------------------------------------------------------------------------------------
-* SCHED [#B] Check the crawl space in the basement for water leak 
-  SCHEDULED: <2018-01-21 Sun 11:00>
-
-* DONE Check mail from Puran regarding the lock and reply to the mail :GMAIL:@PURAN:@ARCHANA:
-  CLOSED: [2018-01-10 Wed 14:07] SCHEDULED: <2018-01-10 Wed 13:30>
-* SCHED [#B] Fix the flap on the back door                         :@ARCHANA:
-* SCHED [#B] Simplisafe installation 
-  SCHEDULED: <2018-01-21 Sun>
+* CANCELLED [#B] Simplisafe installation 
+  CLOSED: [2018-01-21 Sun 16:47] SCHEDULED: <2018-01-21 Sun>
 - Simplisafe system installation cancelled because of bad support experience.
 ** CANCELLED Puranji to confirm if Jon can visit Archana for installation on Sunday :@PURAN:
    CLOSED: [2018-01-18 Thu 14:47]
 ** STARTED Return the Simplisafe if we cannot install by end of Jan
-   DEADLINE: <2018-01-27 Sat> SCHEDULED: <2018-01-21 Sun>
-** SCHED Fetch the SimpliSafe system box :@ARCHANA:
-   SCHEDULED: <2018-01-21 Sun 10:30>
-** SCHED Print simplisafe return label (in gmail) :@ARCHANA:@PRINTER:
-   SCHEDULED: <2018-01-21 Sun 10:30>
+   DEADLINE: <2018-01-27 Sat> SCHEDULED: <2018-01-22 Mon>
+** DONE Fetch the SimpliSafe system box                            :@ARCHANA:
+   CLOSED: [2018-01-21 Sun 16:46] SCHEDULED: <2018-01-21 Sun 10:30>
+** DONE Print simplisafe return label (in gmail)          :@ARCHANA:@PRINTER:
+   CLOSED: [2018-01-21 Sun 16:46] SCHEDULED: <2018-01-21 Sun 10:30>
 ** SCHED Dropoff the simplisafe box at UPS :@UPS:
-   SCHEDULED: <2018-01-22 Mon>
+   SCHEDULED: <2018-01-22 Mon 8:30>
 
-* SCHED [#C] Chinpi
-  SCHEDULED: <2018-01-21 Sun>
-- Check the raspberrypi, start and connect it
-- Check if the dataplicity process is running
-- sudo apt update && sudo apt upgrade
+* SCHED Try to fix the shower upstairs or replace                  :@ARCHANA:
+  SCHEDULED: <2018-01-28 Sun>
+* Hooks on false ceiling for decoration 
+** WAITING Order this from Amazon :
+   SCHEDULED: <2018-01-28 Sun>
+https://www.amazon.com/Outus-Classroom-Decoration-Suspended-Ceilings/dp/B01J7HVOQU/ref=pd_bxgy_79_2?_encoding=UTF8&pd_rd_i=B01J7HVOQU&pd_rd_r=WHSVXESMM0HQNEJPYZ1R&pd_rd_w=hp2Xx&pd_rd_wg=sSjA1&psc=1&refRID=WHSVXESMM0HQNEJPYZ1R#HLCXComparisonWidget_feature_div
 
-* DONE Reimbursement for 448.27                                       :@BALA:
-  CLOSED: [2018-01-18 Thu 15:05] SCHEDULED: <2018-01-20 Sat>
-* CANCELLED Shram Dhan matrix 
-  CLOSED: [2018-01-20 Sat 12:48]
-- Slow feedback can't reword
-** Re-look at the list and reduce the activity so that when blown up will look ok
-** Get the Shram Dhan printed in larger format and laminated          :PRINT:
-* CANCELLED Send bookshelf pictures to Scott and get quotes          :@GMAIL:
-  CLOSED: [2018-01-07 Sun 19:50]
-* DONE Open mission to Scott for second layer application for ceiling :@ARCHANA:
-  CLOSED: [2017-12-06 Wed 08:09] SCHEDULED: <2017-12-05 Tue 17:30>
-* Try to fix the shower upstairs or replace :@ARCHANA:
-* Hooks on false ceiling for decoration :@ARCHANA:
+** SCHED Consult with Geetaji and install hooks on false ceiling   :@ARCHANA:
+   SCHEDULED: <2018-02-04 Sun>
 * New exit sign with small batteries and led lights :@ARCHANA:
 
 * Install new fire alaram
 * Road crack filling
-
-* DONE Request service provider to clear snow on Satudays before 10 AM
-  CLOSED: [2018-01-20 Sat 11:58]
+* SCHED Talk to Puran (and others) about Media Setup :@ARCHANA:
+  DEADLINE: <2018-01-28 Sun>
 
 * Supplies
 ** Banquet rolls
+** Toilet papers
 
 * 
 ---------------------------------------------------------------------------------------------
@@ -55,6 +39,45 @@
 * CMC                                                                  
 
 ** COMPLETED TASKS 
+*** Updates 2018-01-21
+- Vaccumed Tapovan Hall, room before that, kitchen and shoe rooms
+- Labeled HDMI input to HDMI splitter
+*** DONE Request service provider to clear snow on Satudays before 10 AM
+    CLOSED: [2018-01-20 Sat 11:58]
+
+*** DONE Laptop wifi not working
+    CLOSED: [2018-01-21 Sun 16:51]
+- THe laptop's wifi adapter is likely kaput
+- Buy a new usb wifi adapter
+*** DONE [#C] Chinpi
+  CLOSED: [2018-01-21 Sun 16:47] SCHEDULED: <2018-01-21 Sun>
+- Check the raspberrypi, start and connect it
+- Check if the dataplicity process is running
+- sudo apt update && sudo apt upgrade
+
+*** DONE Reimbursement for 448.27                                     :@BALA:
+    CLOSED: [2018-01-18 Thu 15:05] SCHEDULED: <2018-01-20 Sat>
+*** CANCELLED Shram Dhan matrix 
+  CLOSED: [2018-01-20 Sat 12:48]
+- Slow feedback can't reword
+**** Re-look at the list and reduce the activity so that when blown up will look ok
+**** Get the Shram Dhan printed in larger format and laminated        :PRINT:
+*** CANCELLED Send bookshelf pictures to Scott and get quotes        :@GMAIL:
+    CLOSED: [2018-01-07 Sun 19:50]
+*** DONE Open mission to Scott for second layer application for ceiling :@ARCHANA:
+    CLOSED: [2017-12-06 Wed 08:09] SCHEDULED: <2017-12-05 Tue 17:30>
+
+*** DONE [#B] Check the crawl space in the basement for water leak 
+  CLOSED: [2018-01-21 Sun 16:46] SCHEDULED: <2018-01-21 Sun 11:00>
+- No leaks found in basement or crawspace
+*** DONE Check mail from Puran regarding the lock and reply to the mail :GMAIL:@PURAN:@ARCHANA:
+    CLOSED: [2018-01-10 Wed 14:07] SCHEDULED: <2018-01-10 Wed 13:30>
+*** DONE [#B] Fix the flap on the back door                        :@ARCHANA:
+    CLOSED: [2018-01-21 Sun 16:46]
+*** CANCELLED [#B] Simplisafe installation 
+  CLOSED: [2018-01-21 Sun 16:47] SCHEDULED: <2018-01-21 Sun>
+- Simplisafe system installation cancelled because of bad support experience.
+
 *** CANCELLED Check with Marcos for cheaper alternative to snow cleaning, salting ~$100/occurence
     CLOSED: [2017-11-17 Fri 11:49]
 
@@ -527,7 +550,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2018-01-05 Fri 08:59]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-01-21 Sun ++7d>
+      SCHEDULED: <2018-01-28 Sun 11:30 ++1w>
+      - State "CANCELLED"  from "SCHED"      [2018-01-21 Sun 17:31]
       - State "CANCELLED"  from "SCHED"      [2018-01-16 Tue 11:51]
       - State "CANCELLED"  from "SCHED"      [2018-01-07 Sun 19:49]
       - State "CANCELLED"  from "SCHED"      [2018-01-03 Wed 05:55]
@@ -562,7 +586,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2018-01-16 Tue 11:51]
+      :LAST_REPEAT: [2018-01-21 Sun 17:31]
       :END:
 ***** Lawn moving
 
@@ -626,25 +650,6 @@ Refer [[Cleaning Checklist]]
      :LAST_REPEAT: [2018-01-10 Wed 09:46]
      :END:
 ** REFERNCE
-
-*** CONTACTS
-
-**** Lawn cleanup
-Marcos
-**** Handyman
-Scott 
-**** Asphalt
-Kyle Heisberger
-614-348-2811
-*** HVAC FILTERS
-Basement - 16 x 25
-Roof - 16 x 25
-Hall - 20 x 20
-
-*** LOWES TAX EXEMPT NUMBER
-Tax exempt number : 83891/5000
-Registered Phone  : (877) 829-5500
-
 *** CHECKLISTS
 **** Cleaning Checklist <<Cleaning Checklist>>
 
@@ -809,7 +814,27 @@ Registered Phone  : (877) 829-5500
 - [ ] Pen
 - [ ] Marker pen
 - [ ] 
+
+*** CONTACTS
+
+**** Lawn cleanup
+Marcos
+**** Handyman
+Scott 
+**** Asphalt
+Kyle Heisberger
+614-348-2811
+*** HVAC FILTERS
+Basement - 16 x 25
+Roof - 16 x 25
+Hall - 20 x 20
+
+*** LOWES TAX EXEMPT NUMBER
+Tax exempt number : 83891/5000
+Registered Phone  : (877) 829-5500
  
+*** Media Map
+https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drivesdk
 *** To HTML version of this
 - http://htmlpreview.github.io/?https://github.com/droidshow/gtd0/blob/master/cmc.html
 
