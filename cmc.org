@@ -13,7 +13,7 @@
 ** DONE Dropoff the simplisafe box at UPS                              :@UPS:
    CLOSED: [2018-01-23 Tue 14:16] SCHEDULED: <2018-01-23 Tue 12:30>
 
-** WAITING Re-imbursement for returned simplisafe :CCARD:BOA:
+** WAITING Refund for returned simplisafe                         :CCARD:BOA:
    SCHEDULED: <2018-01-26 Fri>
 * SCHED Try to fix the shower upstairs or replace                  :@ARCHANA:
   SCHEDULED: <2018-01-28 Sun>
@@ -24,8 +24,6 @@ https://www.amazon.com/Outus-Classroom-Decoration-Suspended-Ceilings/dp/B01J7HVO
 
 ** SCHED Consult with Geetaji and install hooks on false ceiling   :@ARCHANA:
    SCHEDULED: <2018-02-04 Sun>
-* New exit sign with small batteries and led lights :@ARCHANA:
-
 * Install new fire alaram
 * Road crack filling
 - Insurance
@@ -38,6 +36,10 @@ https://www.amazon.com/Outus-Classroom-Decoration-Suspended-Ceilings/dp/B01J7HVO
 * Landscape - pre-emergent
 ** Find what we need and quote from Marcos
 ** Get approval
+* Put up chain to block entry/exit from Liberty road
+* Put up no parking signs
+* Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
+
 * 
 ---------------------------------------------------------------------------------------------
 
@@ -635,7 +637,7 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2018-02-06 Tue 21:00-22:00 ++2w>
+     SCHEDULED: [2018-02-06 Tue 21:00-22:00 ++2w]
      - State "CANCELLED"  from "SCHED"      [2018-01-23 Tue 21:07]
      - State "DONE"       from "SCHED"      [2018-01-10 Wed 09:46]
      - State "CANCELLED"  from "SCHED"      [2017-12-27 Wed 14:00]
