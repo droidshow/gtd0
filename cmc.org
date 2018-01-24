@@ -635,7 +635,8 @@ Refer [[Cleaning Checklist]]
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
-     SCHEDULED: <2018-01-23 Tue 21:00-22:00 ++2w>
+     SCHEDULED: <2018-02-06 Tue 21:00-22:00 ++2w>
+     - State "CANCELLED"  from "SCHED"      [2018-01-23 Tue 21:07]
      - State "DONE"       from "SCHED"      [2018-01-10 Wed 09:46]
      - State "CANCELLED"  from "SCHED"      [2017-12-27 Wed 14:00]
      - State "DONE"       from "SCHED"      [2017-12-13 Wed 10:36]
@@ -652,7 +653,7 @@ Refer [[Cleaning Checklist]]
      - State "CANCELLED"  from "SCHED"      [2017-07-12 Wed 07:24]
      - State "DONE"       from "SCHED"      [2017-06-28 Wed 07:39]
      :PROPERTIES:
-     :LAST_REPEAT: [2018-01-10 Wed 09:46]
+     :LAST_REPEAT: [2018-01-23 Tue 21:07]
      :END:
 ** REFERNCE
 *** CHECKLISTS
@@ -845,7 +846,7 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
 
 *** Way of Working
 
-** SCHED SUPPLES (required marked X)                             :@ECMEETING:
+** SCHED SUPPLIES (required marked X)                            :@ECMEETING:
   SCHEDULED: <2018-01-23 Tue 21:00 ++2w>
 - [X] Kitchen Banquet roll
 - [ ] Kitchen paper napkin
