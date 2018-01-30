@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------
 * SCHED Try to fix the shower upstairs or replace                  :@ARCHANA:
-  SCHEDULED: <2018-01-28 Sun>
+  SCHEDULED: <2018-02-04 Sun>
 - When the shower is on the leak is between the first and second leg of the angular shower
 ** SCHED Check if the shower leak can be sealed with a sealant     :@MENARDS:
    SCHEDULED: <2018-02-04 Sun>
