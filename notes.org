@@ -996,6 +996,9 @@ Pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace 
 **** ./opt/vc: includes userspace libraries for the VideCoreIV (EGL/GLES/OpenVG 
       etc). See ./opt/vc/LICENCE for licencing terms
 
+*** gpio
+https://elixir.free-electrons.com/linux/v3.3/source/Documentation/gpio.txt
+https://falsinsoft.blogspot.nl/2012/11/access-gpio-from-linux-user-space.html
 *** i2c
 http://elinux.org/Interfacing_with_I2C_Devices
 *** userland
