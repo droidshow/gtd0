@@ -867,6 +867,7 @@ https://docs.oracle.com/cd/B28359_01/index.htm
 https://www.hifiberry.com/build/gallery/
 
 *** BACKUP
+function mkbackup () { tar czvf $(date +%F_%H%M)_$(basename "$1").tgz "$1"; }
 
 **** home
 cd /home/
