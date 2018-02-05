@@ -3,15 +3,7 @@
   SCHEDULED: <2018-02-04 Sun>
 - When the shower is on the leak is between the first and second leg of the angular shower
 ** SCHED Check if the shower leak can be sealed with a sealant     :@MENARDS:
-   SCHEDULED: <2018-02-04 Sun>
-
-* WAITING Hooks on false ceiling for decoration 
-** WAITING Order this from Amazon :
-   SCHEDULED: <2018-02-04 Sun>
-https://www.amazon.com/Outus-Classroom-Decoration-Suspended-Ceilings/dp/B01J7HVOQU/ref=pd_bxgy_79_2?_encoding=UTF8&pd_rd_i=B01J7HVOQU&pd_rd_r=WHSVXESMM0HQNEJPYZ1R&pd_rd_w=hp2Xx&pd_rd_wg=sSjA1&psc=1&refRID=WHSVXESMM0HQNEJPYZ1R#HLCXComparisonWidget_feature_div
-
-** SCHED Consult with Geetaji and install hooks on false ceiling   :@ARCHANA:
-   SCHEDULED: <2018-02-04 Sun>
+   SCHEDULED: <2018-02-11 Sun>
 * Install new fire alaram
 * Road crack filling
 - Insurance
@@ -27,13 +19,31 @@ https://www.amazon.com/Outus-Classroom-Decoration-Suspended-Ceilings/dp/B01J7HVO
 * Put up chain to block entry/exit from Liberty road
 * Put up no parking signs
 * Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
-
+* SCHED Check if presentaion is looping on display if not remove ChinPi :@ARCHANA:
+  SCHEDULED: <2018-02-11 Sun>
 * 
 ---------------------------------------------------------------------------------------------
 
 * CMC                                                                  
 
 ** COMPLETED TASKS 
+
+*** Updates 2018-02-04
+- Vaccumed Tapoval Hall and the Shoe room
+- Installed hooks on false ceiling
+- Found the ChinPi presentation frozen, check next week, if not working remove it
+
+*** DONE Hooks on false ceiling for decoration 
+    CLOSED: [2018-02-05 Mon 10:28]
+**** DONE Order this from Amazon :
+   CLOSED: [2018-02-05 Mon 10:27] SCHEDULED: <2018-02-04 Sun>
+https://www.amazon.com/Outus-Classroom-Decoration-Suspended-Ceilings/dp/B01J7HVOQU/ref=pd_bxgy_79_2?_encoding=UTF8&pd_rd_i=B01J7HVOQU&pd_rd_r=WHSVXESMM0HQNEJPYZ1R&pd_rd_w=hp2Xx&pd_rd_wg=sSjA1&psc=1&refRID=WHSVXESMM0HQNEJPYZ1R#HLCXComparisonWidget_feature_div
+
+**** CANCELLED Consult with Geetaji:@ARCHANA:
+     CLOSED: [2018-02-05 Mon 10:27] SCHEDULED: <2018-02-04 Sun>
+**** DONE Install hooks on false ceiling                           :@ARCHANA:
+     CLOSED: [2018-02-05 Mon 10:28]
+
 *** Updates 2018-01-28
 - Vaccumed Tapoval Hall and hte East side entrance hallway
 - Dropped green food color in the toilet bowl water holder
@@ -871,8 +881,11 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
 - [ ] Kitchen Spoons
 - [ ] Kitchen Forks
 - [ ] Kitchen Plates - 5 sections
+- [X] Kitchen Trash cover (bigger size)
+- [X] Kitchen Wet Wipes
 - [X] Toilet roll
 - [X] Toilet paper towel
+- [X] Gloves
 
 ** WAY OF WORKING
 *** Facility related tasks
