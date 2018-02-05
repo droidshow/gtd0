@@ -10,8 +10,8 @@
 - Quote for only filling the crack and whole 
 - Meet on weekend
 - Payment after work based on invoice
-* SCHED Talk to Puran (and others) about Media Setup :@ARCHANA:
-  SCHEDULED: <2018-02-04 Sun>
+* CANCELLED Talk to Puran (and others) about Media Setup           :@ARCHANA:
+  CLOSED: [2018-02-05 Mon 11:39] SCHEDULED: <2018-02-04 Sun>
 
 * Landscape - pre-emergent
 ** Find what we need and quote from Marcos
@@ -562,7 +562,7 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2017-10-31 Tue 17:52]
       :END:
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-02-05 Mon ++1m>
+      SCHEDULED: <2018-02-11 Sun ++1m>
       - State "DONE"       from "SCHED"      [2018-01-05 Fri 08:59]
       - State "CANCELLED"  from "SCHED"      [2017-12-05 Tue 07:54]
       - State "DONE"       from "SCHED"      [2017-11-05 Sun 13:40]
@@ -576,7 +576,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2018-01-05 Fri 08:59]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-02-04 Sun 11:30 ++1w>
+      SCHEDULED: <2018-02-11 Sun 11:30 ++1w>
+      - State "CANCELLED"  from "SCHED"      [2018-02-05 Mon 11:39]
       - State "CANCELLED"  from "SCHED"      [2018-01-28 Sun 17:00]
       - State "CANCELLED"  from "SCHED"      [2018-01-21 Sun 17:31]
       - State "CANCELLED"  from "SCHED"      [2018-01-16 Tue 11:51]
@@ -613,7 +614,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2018-01-28 Sun 17:00]
+      :LAST_REPEAT: [2018-02-05 Mon 11:39]
       :END:
 ***** Lawn moving
 
@@ -627,7 +628,8 @@ Next year Dec 18, 2018
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2018-02-04 Sun ++4w>
+      SCHEDULED: <2018-03-04 Sun ++4w>
+      - State "CANCELLED"  from "SCHED"      [2018-02-05 Mon 11:39]
       - State "DONE"       from "SCHED"      [2018-01-07 Sun 19:49]
       - State "DONE"       from "SCHED"      [2017-12-11 Mon 11:15]
       - State "CANCELLED"  from "SCHED"      [2017-11-13 Mon 07:17]
@@ -639,7 +641,7 @@ Refer [[Cleaning Checklist]]
       - State "CANCELLED"  from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-10 Wed 07:28]
       :PROPERTIES:
-      :LAST_REPEAT: [2018-01-07 Sun 19:49]
+      :LAST_REPEAT: [2018-02-05 Mon 11:39]
       :END:
 
 **** PEST CONTROL

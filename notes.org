@@ -647,6 +647,15 @@ Further paragraphs come after blank lines.
     preceded by a single space, with blank lines in
     between, but conventions vary here
 
+*** Line Ending crlf
+git config core.autocrlf [true|input|false]
+1) true:             x -> LF -> CRLF
+2) input:            x -> LF -> LF
+3) false:            x -> x -> x
+
+git rm --cached -r . 
+git reset --hard
+
 
 ** GSTREAMER
 Upstream : git://anongit.freedesktop.org/gstreamer/
