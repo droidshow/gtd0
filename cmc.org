@@ -1,12 +1,13 @@
 ---------------------------------------------------------------------------------------------
 * STARTED Try to fix the shower upstairs or replace                :@ARCHANA:
-  SCHEDULED: <2018-02-04 Sun>
+  SCHEDULED: <2018-02-17 Sat>
 - When the shower is on the leak is between the first and second leg of the angular shower
 ** DONE Check if the shower leak can be sealed with a sealant      :@MENARDS:
    CLOSED: [2018-02-11 Sun 13:10] SCHEDULED: <2018-02-11 Sun>
 ** SCHED Check if the sealant is holding the shower leak, otherwise need to replace shower :CMC:
    SCHEDULED: <2018-02-18 Sun>
-* Install new fire alaram
+* SCHED Install new fire alaram
+  SCHEDULED: <2018-02-17 Sat>
 * Road crack filling
 - Insurance
 - Quote for only filling the crack and whole 
@@ -16,21 +17,32 @@
   CLOSED: [2018-02-05 Mon 11:39] SCHEDULED: <2018-02-04 Sun>
 
 * Landscape - pre-emergent
-** Find what we need and quote from Marcos
-** Get quote from Marcos
+** Find what we need
+https://www.lowes.com/projects/lawn-and-garden/control-weeds-lawn-garden/project
+http://www.hgtv.com/design/outdoor-design/landscaping-and-hardscaping/when-to-apply-herbicides
+
+** WAITING Get quote from Marcos :@MARCOS:LANDSCAPE:
+   SCHEDULED: <2018-02-17 Sat>
 ** Get approval
 * Put up chain to block entry/exit from Liberty road
 * Put up no parking signs
 * Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
-* SCHED Check if presentaion is looping on display if not remove ChinPi :@ARCHANA:
-  SCHEDULED: <2018-02-11 Sun>
+* DONE Check if presentaion is looping on display if not remove ChinPi :@ARCHANA:
+  CLOSED: [2018-02-12 Mon 09:30] SCHEDULED: <2018-02-11 Sun>
+* WAITING Reimbursement for facility supplies purchase :@BALA:
+  SCHEDULED: <2018-02-18 Sun>
 * 
 ---------------------------------------------------------------------------------------------
 
 * CMC                                                                  
 
 ** COMPLETED TASKS 
-
+*** Updates 2018-02-11
+- Brought in facility supplies
+- Applied epoxy sealant to the shower leak part
+- Applied Preen on the flower bed around
+- Reached out to Marcos to get a quote for applying pre-emergent
+- Vaccumed Tapovan hall, 1st floor bathroom, kitchen carpets, shoe room
 *** Updates 2018-02-04
 - Vaccumed Tapoval Hall and the Shoe room
 - Installed hooks on false ceiling
@@ -66,8 +78,8 @@ https://www.amazon.com/Outus-Classroom-Decoration-Suspended-Ceilings/dp/B01J7HVO
      CLOSED: [2018-01-21 Sun 16:46] SCHEDULED: <2018-01-21 Sun 10:30>
 **** DONE Dropoff the simplisafe box at UPS                            :@UPS:
      CLOSED: [2018-01-23 Tue 14:16] SCHEDULED: <2018-01-23 Tue 12:30>
-**** WAITING Refund for returned simplisafe                       :CCARD:BOA:
-     SCHEDULED: <2018-01-26 Fri>
+**** DONE Refund for returned simplisafe                          :CCARD:BOA:
+     CLOSED: [2018-02-12 Mon 14:08] SCHEDULED: <2018-01-26 Fri>
 *** Updates 2018-01-21
 - Vaccumed Tapovan Hall, room before that, kitchen and shoe rooms
 - Labeled HDMI input to HDMI splitter
@@ -876,11 +888,12 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
 *** Way of Working
 
 ** SCHED SUPPLIES (required marked X)                            :@ECMEETING:
-   SCHEDULED: <2018-02-06 Tue 21:00 ++2w>
+   SCHEDULED: <2018-02-20 Tue 21:00 ++2w>
+   - State "DONE"       from "SCHED"      [2018-02-12 Mon 14:02]
    - State "DONE"       from "SCHED"      [2018-01-25 Thu 17:16]
    :PROPERTIES:
    :CUSTOM_ID: cmc-supplies
-   :LAST_REPEAT: [2018-01-25 Thu 17:16]
+   :LAST_REPEAT: [2018-02-12 Mon 14:02]
    :END:
 - [ ] Kitchen Banquet roll
 - [ ] Kitchen paper napkin
@@ -897,25 +910,28 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
 - [ ] Kitchen Ziplock bags various sizes
 - [ ] Kitchen Food containers
 - [ ] Kitchene Heating chaff
+- [ ] Kitchen Water Bottles
 
 - [ ] Toilet roll
 - [ ] Toilet paper towel
 - [ ] Toilet Gloves
 - [ ] Toilet cleaner
 - [ ] Toilet  Hand soap / sanitizer
-- [ ] Toilet Mr. Clean
 - [ ] Toilet Cleaning spray
 - [ ] Toilet Broom / mops
 
-- [ ] Exterior/Interior Insect repellent
 - [ ] Interior Mice/rat repellent
+- [ ] Interior Mr. Clean
 
+- [ ] Exterior/Interior Insect repellent
+
+- [ ] Landscape pre-emergent
 - [ ] Landscape Weed killer
+
 - [ ] Landscape Snow melting salt
 
-- [ ] Water Bottles
-- [ ] Pen
-- [ ] Marker pen
+- [ ] Office Pen
+- [ ] Office Marker pen
 
 
 ** WAY OF WORKING
