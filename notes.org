@@ -1693,6 +1693,18 @@ sudo apt-get autoremove # Cleanup dependency
 
 
 
+*** New Drive, Installation
+https://help.ubuntu.com/community/InstallingANewHardDrive
+
+blkid
+cgdisk /dev/sdb
+mkfs -t ext4 /dev/sdb1
+mkdir /media/storage
+sudo emacs /etc/fstab
+  UUID="b4c93..."  /media/storage  ext4  defaults  0  2
+mount -av
+sudo chown [u]:[u] /media/storage
+
 
 *** Interrup counter
 vmstat
