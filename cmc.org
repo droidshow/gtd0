@@ -1,13 +1,33 @@
 ---------------------------------------------------------------------------------------------
-* STARTED Try to fix the shower upstairs or replace                :@ARCHANA:
-  SCHEDULED: <2018-02-17 Sat>
+* DONE Try to fix the shower upstairs or replace                   :@ARCHANA:
+  CLOSED: [2018-02-18 Sun 17:33] SCHEDULED: <2018-02-17 Sat>
 - When the shower is on the leak is between the first and second leg of the angular shower
 ** DONE Check if the shower leak can be sealed with a sealant      :@MENARDS:
    CLOSED: [2018-02-11 Sun 13:10] SCHEDULED: <2018-02-11 Sun>
-** SCHED Check if the sealant is holding the shower leak, otherwise need to replace shower :CMC:
-   SCHEDULED: <2018-02-18 Sun>
-* SCHED Install new fire alaram
+** CANCELLED Check if the sealant is holding the shower leak, otherwise need to replace shower :CMC:
+   CLOSED: [2018-02-18 Sun 17:33] SCHEDULED: <2018-02-18 Sun>
+* STARTED Install new fire alaram
   SCHEDULED: <2018-02-17 Sat>
+- New mount with small diameter won't fit older one with center hole
+** SCHED Get base plate covers to mount the new smoke detector, take tax rebate code :@MENARDS:
+   SCHEDULED: <2018-03-04 Sun>
+Menards, no screw
+https://www.menards.com/main/plumbing/rough-plumbing/plumbing-access-panels/wallo-trade-round-access-panel/apr-0501/p-1444446003044.htm
+
+** SCHED Order this for CM :@AMAZON:
+   SCHEDULED: <2018-02-28 Wed>
+Magnetic mount
+https://www.amazon.com/Meiprosafe-Magnetic-Detector-Installation-Fastening/dp/B06WRSTQJM/ref=sr_1_22_sspa?s=hi&ie=UTF8&qid=1518992313&sr=1-22-spons&keywords=smoke+detector+cover+plate&psc=1
+
+
+Home depot metal cover, will need drilling
+$2.5 per piece
+https://www.homedepot.com/p/BELL-5-in-Round-Blank-Metal-Flat-Cover-White-Textured-5652-1/203638781?cm_mmc=Shopping%7cVF%7cG%7c0%7cG-VF-PLA%7c&gclid=EAIaIQobChMIg_iq2b2w2QIVxkSGCh0hkQlMEAQYAiABEgIP1_D_BwE&gclsrc=aw.ds&dclid=CJbctd69sNkCFUfdwAodgpUJyA
+
+$10 per piece
+https://www.amazon.com/Wallo-APR-0501-Round-Access-Panel/dp/B007E5C5QG/ref=pd_sim_60_7?_encoding=UTF8&pd_rd_i=B007E5C5QG&pd_rd_r=ZQ0C18ZGRBPECQV749A8&pd_rd_w=6zUNe&pd_rd_wg=xZsPD&psc=1&refRID=ZQ0C18ZGRBPECQV749A8
+
+
 * Road crack filling
 - Insurance
 - Quote for only filling the crack and whole 
@@ -31,7 +51,25 @@ http://www.hgtv.com/design/outdoor-design/landscaping-and-hardscaping/when-to-ap
   CLOSED: [2018-02-12 Mon 09:30] SCHEDULED: <2018-02-11 Sun>
 * WAITING Reimbursement for facility supplies purchase :@BALA:
   SCHEDULED: <2018-02-18 Sun>
-* 
+* WAITING Key for paper napkin dispenser
+  SCHEDULED: <2018-02-19 Mon>
+* Shower tab not working                                              :TOFIX:
+* SCHED Buy Preen from Menards take tax rebate code :@MENARDS:
+  SCHEDULED: <2018-03-04 Sun>
+* SCHED Project Mukhya Swamiji visit :PROEJCT:MUKHYASWAMIJI:
+** SCHED Painting the facility :MUKHYASWAMIJI:
+   SCHEDULED: <2018-06-01 Fri 9:00-17:00 ++1d>
+** SCHED Replace stained ceiling tiles, take sample for color matching and tax rebate :MUKHYASWAMIJI:
+   DEADLINE: <2018-08-12 Sun> SCHEDULED: <2018-08-05 Sun ++1d>
+** SCHED Inform Marcos to Landscape cleanup for cleanup on 15th :MUKHYASWAMIJI:
+   DEADLINE: <2018-08-15 Wed> SCHEDULED: <2018-08-01 Wed ++1d>
+** SCHED Reach out to neighbours about Mukhya Swamiji visit   :MUKHYASWAMIJI:
+   SCHEDULED: <2018-07-18 Wed>
+** SCHED Ensure A/V broadcast is working on the entrance and the kitchen TV :@ARCHANA:MUKYHASWAMIJI:
+   SCHEDULED: <2018-08-05 Sun ++1d>
+** SCHED Power wash the exterior including the signage
+   SCHEDULED: <2018-08-12 Sun ++1d>
+
 ---------------------------------------------------------------------------------------------
 
 * CMC                                                                  
@@ -926,6 +964,7 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
 - [ ] Exterior/Interior Insect repellent
 
 - [ ] Landscape pre-emergent
+- [X] Preen
 - [ ] Landscape Weed killer
 
 - [ ] Landscape Snow melting salt
