@@ -101,6 +101,11 @@ or place them in /system/lib or /vendor/lib
 
 *** NDK build
 http://web.guohuiwang.com/technical-notes/androidndk1
+*** Screen resolution
+Emulated screen resolution
+wm size
+wm overscan
+wm density
 *** JNI 
 
 tutorial
@@ -647,6 +652,22 @@ Further paragraphs come after blank lines.
     preceded by a single space, with blank lines in
     between, but conventions vary here
 
+**** Check upstream for potential merge work
+git fetch origin
+#check for new changes in origin that are not in my_topic_branch
+git log --no-merges my_topic_branch..origin/master
+
+#merge topic branch to local master
+git checkout master
+git merge my_topic_branch
+
+#merge master to origin/master
+git merge origin/master
+
+
+#push to origin, local master
+git push origin master
+
 *** Line Ending crlf
 git config core.autocrlf [true|input|false]
 1) true:             x -> LF -> CRLF
@@ -1015,6 +1036,10 @@ Generate git keys
 
 Create GTD link
   ln -s /home/me/show/gtd/ /t
+
+*** Disable screen saver
+/etc/lightdm/lightdm.conf 
+dpmsxserver-command=X -s 0 -dpms
 
 *** firmware
 Pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.

@@ -49,10 +49,10 @@ http://www.hgtv.com/design/outdoor-design/landscaping-and-hardscaping/when-to-ap
 * Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
 * DONE Check if presentaion is looping on display if not remove ChinPi :@ARCHANA:
   CLOSED: [2018-02-12 Mon 09:30] SCHEDULED: <2018-02-11 Sun>
-* WAITING Reimbursement for facility supplies purchase :@BALA:
-  SCHEDULED: <2018-02-18 Sun>
-* WAITING Key for paper napkin dispenser
-  SCHEDULED: <2018-02-19 Mon>
+* DONE Reimbursement for facility supplies purchase                   :@BALA:
+  CLOSED: [2018-02-19 Mon 17:25] SCHEDULED: <2018-02-18 Sun>
+* DONE Key for paper napkin dispenser
+  CLOSED: [2018-02-19 Mon 17:23] SCHEDULED: <2018-02-19 Mon>
 * Shower tab not working                                              :TOFIX:
 * SCHED Buy Preen from Menards take tax rebate code :@MENARDS:
   SCHEDULED: <2018-03-04 Sun>
@@ -630,7 +630,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2018-02-11 Sun 14:05]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-02-18 Sun 11:30 ++1w>
+      SCHEDULED: <2018-02-25 Sun 11:30 ++1w>
+      - State "DONE"       from "SCHED"      [2018-02-19 Mon 17:25]
       - State "DONE"       from "SCHED"      [2018-02-11 Sun 14:04]
       - State "CANCELLED"  from "SCHED"      [2018-02-05 Mon 11:39]
       - State "CANCELLED"  from "SCHED"      [2018-01-28 Sun 17:00]
@@ -669,7 +670,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2018-02-11 Sun 14:04]
+      :LAST_REPEAT: [2018-02-19 Mon 17:25]
       :END:
 ***** Lawn moving
 
