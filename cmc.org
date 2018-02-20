@@ -7,7 +7,7 @@
 ** CANCELLED Check if the sealant is holding the shower leak, otherwise need to replace shower :CMC:
    CLOSED: [2018-02-18 Sun 17:33] SCHEDULED: <2018-02-18 Sun>
 * STARTED Install new fire alaram
-  SCHEDULED: <2018-02-17 Sat>
+  SCHEDULED: <2018-03-04 Sun>
 - New mount with small diameter won't fit older one with center hole
 ** SCHED Get base plate covers to mount the new smoke detector, take tax rebate code :@MENARDS:
    SCHEDULED: <2018-03-04 Sun>

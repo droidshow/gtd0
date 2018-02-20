@@ -837,11 +837,38 @@ GUI editors are also available.
 ***** 3rd party
 
 
-** HARD DISK HEALTH
+** STORAGE
+*** HARD DISK HEALTH
 sudo apt get install smartmontools
 smartctl 
 https://www.smartmontools.org/
 https://wiki.archlinux.org/index.php/S.M.A.R.T.
+*** Flash
+**** NAND
+***** Advantage
+  Faster write and erase than NOR flash
+  price / bit is lower
+  space / bit is less
+***** Disadvantage
+  Block read/write access
+  Has to be journaled and bad blocks managed
+**** SPI NOR
+***** Advantages
+ Can be mapped to memory
+ Allows random access to memory
+ Code can be executed in place, without loading to memory
+ Fast read
+***** Disadvantages
+ Slow write, very slow erase
+ price / bit is higher
+ takes more space / bit
+***** Usage
+ Good for storing programs, not data
+***** SDCARD
+***** eMMC
+ Memory manager is embedded (unlike in NAND Flash)
+ Don't have to journal the file system or manage bad blocks
+
 
 
 ** LINUX
