@@ -940,6 +940,11 @@ sudo dd bs=4M if=raspbian*.img of=/dev/sdb
 sudo dd bs=4M if=/dev/sdb | gzip > rasbian_$(date +%F_%H%M).img.gz
 gunzip --stdout rasbian*.img.gz | sudo dd bs=4M of=/dev/sdb
 
+
+*** Bluetooth serial port
+https://hacks.mozilla.org/2017/02/headless-raspberry-pi-configuration-over-bluetooth/
+https://www.raspberrypi.org/forums/viewtopic.php?t=138145
+
 *** Build using Yocto
 https://github.com/Nuand/bladeRF/wiki/Creating-Linux-based-Embedded-System-Images-with-Yocto
 http://www.jumpnowtek.com/rpi/Raspberry-Pi-Systems-with-Yocto.html
@@ -1309,6 +1314,8 @@ https://remote-iot.com/web/pricing.htm $5, 50 devices
 **** VNC
 https://www.raspberrypi.org/documentation/remote-access/vnc/README.md
 
+*** Static Ip, Raspberry pi
+https://raspberrypi.stackexchange.com/questions/37920/how-do-i-set-up-networking-wifi-static-ip-address
 *** SYSTEM
 Standalone Boot process
 https://github.com/raspberrypi/noobs/wiki/Standalone-partitioning-explained
@@ -1330,6 +1337,9 @@ http://elinux.org/RPi_Serial_Connection
 - Solder leaded/unleaded
 - De-solder wick
 - Wet sponge and gauge
+*** Access Point AP and change wifi password
+https://raspberrypi.stackexchange.com/questions/50853/connect-headless-pi-to-arbitrary-wifi-network
+
 ** CONSOLIDATE DATA
 
 Hook old drive to Linux
@@ -1737,3 +1747,6 @@ vmstat
 ** X
 *** Conversions
 http://www.cantwellengineering.com/calculator/convert/dBmV
+*** Jenkins / Docker
+https://www.cloudbees.com/blog/get-started-jenkins-20-docker
+https://engineering.riotgames.com/news/putting-jenkins-docker-container
