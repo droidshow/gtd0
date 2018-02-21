@@ -43,7 +43,13 @@ http://www.hgtv.com/design/outdoor-design/landscaping-and-hardscaping/when-to-ap
 
 ** WAITING Get quote from Marcos :@MARCOS:LANDSCAPE:
    SCHEDULED: <2018-02-17 Sat>
+$150
 ** Get approval
+** Removing thistle
+http://homeguides.sfgate.com/way-rid-thistles-garden-100512.html
+http://homeguides.sfgate.com/kill-bull-thistle-weeds-96702.html
+https://www.wikihow.com/Get-Rid-of-Thistles
+
 * Put up chain to block entry/exit from Liberty road
 * Put up no parking signs
 * Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
@@ -939,12 +945,13 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
 *** Way of Working
 
 ** SCHED SUPPLIES (required marked X)                            :@ECMEETING:
-   SCHEDULED: <2018-02-20 Tue 21:00 ++2w>
+   SCHEDULED: <2018-03-06 Tue 21:00 ++2w>
+   - State "CANCELLED"  from "SCHED"      [2018-02-20 Tue 21:22]
    - State "DONE"       from "SCHED"      [2018-02-12 Mon 14:02]
    - State "DONE"       from "SCHED"      [2018-01-25 Thu 17:16]
    :PROPERTIES:
    :CUSTOM_ID: cmc-supplies
-   :LAST_REPEAT: [2018-02-12 Mon 14:02]
+   :LAST_REPEAT: [2018-02-20 Tue 21:22]
    :END:
 - [ ] Kitchen Banquet roll
 - [ ] Kitchen paper napkin
