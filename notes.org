@@ -39,6 +39,10 @@ Interface with Google Actions for perform custom actions
 ** ANDROID
 https://developer.android.com/training/basics/firstapp/running-app.html
 
+*** AOSP customization
+https://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
+https://developer.android.com/guide/topics/resources/providing-resources.html#AlternativeResources
+
 *** Android Security & Permissions & user id & OTA
 https://boundarydevices.com/android-security-part-1-application-signatures-permissions/
 https://boundarydevices.com/android-security-part-2-ota-updates/
@@ -94,11 +98,15 @@ For placing shared libraries (.so)
 Specify LD_LIBRARY_PATH in Android.mk
 or place them in /system/lib or /vendor/lib
 
+*** Launcher, default
+Android.mk
+LOCAL_OVERRIDES_PACKAGES := Launcher2 Launcher3
+make installclean
 *** Message Queues
 - Does not support poxis messages
 - Beacuse can be potentially leaky and doesn't play well when system wants to kill process to save memory
 - Use Binders
-
+  
 *** NDK build
 http://web.guohuiwang.com/technical-notes/androidndk1
 *** Screen resolution
@@ -106,6 +114,25 @@ Emulated screen resolution
 wm size
 wm overscan
 wm density
+*** Splash screen .rle
+mmm build/tools/rgb2565
+
+Gimp
+-- Start with a PNG image
+-- Under the Image tab, set the mode to indexed at 16 colors. If it's already set to indexed, set it to RGB, then set it back to indexed at 16 colors.
+-- In the Layers window, first merge all layers together (can be tricky), then right-click and select remove alpha channel (this may mess up your image, transparency isn't allowed though)
+-- Save as a PNG file, and uncheck all boxes in the PNG dialog, leaving compression at 9.
+
+ImageMagick
+-- Use the Convert function to change the PNG to a RAW format:
+Code:
+convert -depth 8 MY_IMAGE.png rgb:MY_IMAGE.raw
+rgb2565
+-- Convert the RAW image to RLE format:
+Code:
+rgb2565 -rle < MY_IMAGE.raw > MY_IMAGE.rle
+
+
 *** JNI 
 
 tutorial

@@ -41,8 +41,8 @@ https://www.amazon.com/Wallo-APR-0501-Round-Access-Panel/dp/B007E5C5QG/ref=pd_si
 https://www.lowes.com/projects/lawn-and-garden/control-weeds-lawn-garden/project
 http://www.hgtv.com/design/outdoor-design/landscaping-and-hardscaping/when-to-apply-herbicides
 
-** WAITING Get quote from Marcos :@MARCOS:LANDSCAPE:
-   SCHEDULED: <2018-02-17 Sat>
+** DONE Get quote from Marcos                             :@MARCOS:LANDSCAPE:
+   CLOSED: [2018-02-22 Thu 08:39] SCHEDULED: <2018-02-17 Sat>
 $150
 ** Get approval
 ** Removing thistle
