@@ -1282,6 +1282,12 @@ pdbedit -L #list samba users
 
 smbclient -L localhost 
 
+
+ControlPanel->Network and Internet -> Network and Sharing Center -> Advanced sharing settings
+-> All Networks
+Enable file sharing for devices that use 40- or 56- bit encryption
+
+
 ***** DONE GitServer
 https://git-scm.com/book/en/v2/Git-on-the-Server-Getting-Git-on-a-Server
 
