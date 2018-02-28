@@ -1,11 +1,4 @@
 ---------------------------------------------------------------------------------------------
-* DONE Try to fix the shower upstairs or replace                   :@ARCHANA:
-  CLOSED: [2018-02-18 Sun 17:33] SCHEDULED: <2018-02-17 Sat>
-- When the shower is on the leak is between the first and second leg of the angular shower
-** DONE Check if the shower leak can be sealed with a sealant      :@MENARDS:
-   CLOSED: [2018-02-11 Sun 13:10] SCHEDULED: <2018-02-11 Sun>
-** CANCELLED Check if the sealant is holding the shower leak, otherwise need to replace shower :CMC:
-   CLOSED: [2018-02-18 Sun 17:33] SCHEDULED: <2018-02-18 Sun>
 * STARTED Install new fire alaram
   SCHEDULED: <2018-03-04 Sun>
 - New mount with small diameter won't fit older one with center hole
@@ -14,8 +7,8 @@
 Menards, no screw
 https://www.menards.com/main/plumbing/rough-plumbing/plumbing-access-panels/wallo-trade-round-access-panel/apr-0501/p-1444446003044.htm
 
-** SCHED Order this for CM :@AMAZON:
-   SCHEDULED: <2018-02-28 Wed>
+** WAITING Order this for CM                                        :@AMAZON:
+   SCHEDULED: <2018-03-02 Fri>
 Magnetic mount
 https://www.amazon.com/Meiprosafe-Magnetic-Detector-Installation-Fastening/dp/B06WRSTQJM/ref=sr_1_22_sspa?s=hi&ie=UTF8&qid=1518992313&sr=1-22-spons&keywords=smoke+detector+cover+plate&psc=1
 
@@ -32,9 +25,6 @@ https://www.amazon.com/Wallo-APR-0501-Round-Access-Panel/dp/B007E5C5QG/ref=pd_si
 - Quote for only filling the crack and whole 
 - Meet on weekend
 - Payment after work based on invoice
-* CANCELLED Talk to Puran (and others) about Media Setup           :@ARCHANA:
-  CLOSED: [2018-02-05 Mon 11:39] SCHEDULED: <2018-02-04 Sun>
-
 * Landscape - pre-emergent
 ** Find what we need
 https://www.lowes.com/projects/lawn-and-garden/control-weeds-lawn-garden/project
@@ -52,12 +42,6 @@ https://www.wikihow.com/Get-Rid-of-Thistles
 * Put up chain to block entry/exit from Liberty road
 * Put up no parking signs
 * Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
-* DONE Check if presentaion is looping on display if not remove ChinPi :@ARCHANA:
-  CLOSED: [2018-02-12 Mon 09:30] SCHEDULED: <2018-02-11 Sun>
-* DONE Reimbursement for facility supplies purchase                   :@BALA:
-  CLOSED: [2018-02-19 Mon 17:25] SCHEDULED: <2018-02-18 Sun>
-* DONE Key for paper napkin dispenser
-  CLOSED: [2018-02-19 Mon 17:23] SCHEDULED: <2018-02-19 Mon>
 * Shower tab not working                                              :TOFIX:
 * SCHED Buy Preen from Menards take tax rebate code :@MENARDS:
   SCHEDULED: <2018-03-04 Sun>
@@ -92,6 +76,23 @@ https://www.wikihow.com/Get-Rid-of-Thistles
 * CMC                                                                  
 
 ** COMPLETED TASKS 
+*** DONE Try to fix the shower upstairs or replace                 :@ARCHANA:
+  CLOSED: [2018-02-18 Sun 17:33] SCHEDULED: <2018-02-17 Sat>
+- When the shower is on the leak is between the first and second leg of the angular shower
+**** DONE Check if the shower leak can be sealed with a sealant    :@MENARDS:
+     CLOSED: [2018-02-11 Sun 13:10] SCHEDULED: <2018-02-11 Sun>
+**** CANCELLED Check if the sealant is holding the shower leak, otherwise need to replace shower :CMC:
+     CLOSED: [2018-02-18 Sun 17:33] SCHEDULED: <2018-02-18 Sun>
+*** CANCELLED Talk to Puran (and others) about Media Setup         :@ARCHANA:
+    CLOSED: [2018-02-05 Mon 11:39] SCHEDULED: <2018-02-04 Sun>
+
+*** DONE Check if presentaion is looping on display if not remove ChinPi :@ARCHANA:
+    CLOSED: [2018-02-12 Mon 09:30] SCHEDULED: <2018-02-11 Sun>
+*** DONE Reimbursement for facility supplies purchase                 :@BALA:
+    CLOSED: [2018-02-19 Mon 17:25] SCHEDULED: <2018-02-18 Sun>
+*** DONE Key for paper napkin dispenser
+    CLOSED: [2018-02-19 Mon 17:23] SCHEDULED: <2018-02-19 Mon>
+
 *** Updates 2018-02-11
 - Brought in facility supplies
 - Applied epoxy sealant to the shower leak part
@@ -647,7 +648,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2018-02-11 Sun 14:05]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-02-25 Sun 11:30 ++1w>
+      SCHEDULED: <2018-03-04 Sun 11:30 ++1w>
+      - State "CANCELLED"  from "SCHED"      [2018-02-28 Wed 09:38]
       - State "DONE"       from "SCHED"      [2018-02-19 Mon 17:25]
       - State "DONE"       from "SCHED"      [2018-02-11 Sun 14:04]
       - State "CANCELLED"  from "SCHED"      [2018-02-05 Mon 11:39]
@@ -687,7 +689,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2018-02-19 Mon 17:25]
+      :LAST_REPEAT: [2018-02-28 Wed 09:38]
       :END:
 ***** Lawn moving
 
@@ -1024,4 +1026,8 @@ Mail from Puran
 #+TAGS: READ(r) MOV(v)
 #+TAGS: GMAIL(g) MAIL(m) DIAL(d)
 #+SEQ_TODO:  SCHED(q) DO(w) STARTED(e) WAITING(r) APPT(t) | DONE(z) CANCELLED(x) DEFERRED(c)
+
+
+
+
 
