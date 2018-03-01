@@ -45,6 +45,10 @@ https://www.wikihow.com/Get-Rid-of-Thistles
 * Shower tab not working                                              :TOFIX:
 * SCHED Buy Preen from Menards take tax rebate code :@MENARDS:
   SCHEDULED: <2018-03-04 Sun>
+* Consolidate mails to cmc.s
+- Hoffman
+- ComfortXpress
+- Scott
 * SCHED Project Mukhya Swamiji visit :PROEJCT:MUKHYASWAMIJI:
 ** SCHED Painting the facility :MUKHYASWAMIJI:
    SCHEDULED: <2018-06-01 Fri 9:00-17:00 ++1d>
@@ -604,8 +608,8 @@ Next year Dec 18, 2018
      :LAST_REPEAT: [2017-10-30 Mon 08:48]
      :END:
 **** HVAC MAINTENANCE
-***** SCHED Get filters for HVAC                 :HVAC:MAINTENANCE:RECURRING:
-      SCHEDULED: <2018-03-01 Thu ++6m>
+***** SCHED Get filters for HVAC 2 of 16x25, 1 of 20x20 :HVAC:MAINTENANCE:RECURRING:@MENARDS:
+      SCHEDULED: <2018-03-04 Sun ++6m>
       - State "DONE"       from "SCHED"      [2017-09-01 Fri 07:07]
       - State "DONE"       from "APPT"       [2017-05-24 Wed 21:51]
       :PROPERTIES:
@@ -940,6 +944,12 @@ Registered Phone  : (877) 829-5500
  
 *** Media Map
 https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drivesdk
+*** Smoke Detectors
+**** x4 - not connected to alert system
+- Kitchen
+- Assembly
+- East side main entrance
+- 2nd floor hall way
 *** To HTML version of this
 - http://htmlpreview.github.io/?https://github.com/droidshow/gtd0/blob/master/cmc.html
 
