@@ -709,6 +709,9 @@ git config core.autocrlf [true|input|false]
 git rm --cached -r . 
 git reset --hard
 
+*** Bundle
+git bundle create mygitbackup.bundle master
+git bundle create mygitbackup.bundle --all
 
 ** GSTREAMER
 Upstream : git://anongit.freedesktop.org/gstreamer/

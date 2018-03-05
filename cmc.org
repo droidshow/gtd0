@@ -1,9 +1,9 @@
 ---------------------------------------------------------------------------------------------
 * STARTED Install new fire alaram
-  SCHEDULED: <2018-03-04 Sun>
+  SCHEDULED: <2018-03-11 Sun>
 - New mount with small diameter won't fit older one with center hole
-** SCHED Get base plate covers to mount the new smoke detector, take tax rebate code :@MENARDS:
-   SCHEDULED: <2018-03-04 Sun>
+** DONE Get base plate covers to mount the new smoke detector, take tax rebate code :@MENARDS:
+   CLOSED: [2018-03-05 Mon 09:23] SCHEDULED: <2018-03-04 Sun>
 Menards, no screw
 https://www.menards.com/main/plumbing/rough-plumbing/plumbing-access-panels/wallo-trade-round-access-panel/apr-0501/p-1444446003044.htm
 
@@ -25,8 +25,11 @@ https://www.amazon.com/Wallo-APR-0501-Round-Access-Panel/dp/B007E5C5QG/ref=pd_si
 - Quote for only filling the crack and whole 
 - Meet on weekend
 - Payment after work based on invoice
+** DONE Send Kyles contact details to Puranbhai
+   CLOSED: [2018-03-05 Mon 17:52]
 * Landscape - pre-emergent
-** Find what we need
+** DONE Find what we need
+   CLOSED: [2018-03-05 Mon 17:52]
 https://www.lowes.com/projects/lawn-and-garden/control-weeds-lawn-garden/project
 http://www.hgtv.com/design/outdoor-design/landscaping-and-hardscaping/when-to-apply-herbicides
 
@@ -43,8 +46,8 @@ https://www.wikihow.com/Get-Rid-of-Thistles
 * Put up no parking signs
 * Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
 * Shower tab not working                                              :TOFIX:
-* SCHED Buy Preen from Menards take tax rebate code :@MENARDS:
-  SCHEDULED: <2018-03-04 Sun>
+* DONE Buy Preen from Menards take tax rebate code                 :@MENARDS:
+  CLOSED: [2018-03-05 Mon 09:23] SCHEDULED: <2018-03-04 Sun>
 * Consolidate mails to cmc.s
 - Hoffman
 - ComfortXpress
@@ -609,11 +612,12 @@ Next year Dec 18, 2018
      :END:
 **** HVAC MAINTENANCE
 ***** SCHED Get filters for HVAC 2 of 16x25, 1 of 20x20 :HVAC:MAINTENANCE:RECURRING:@MENARDS:
-      SCHEDULED: <2018-03-04 Sun ++6m>
+      SCHEDULED: <2018-09-04 Tue ++6m>
+      - State "DONE"       from "SCHED"      [2018-03-05 Mon 09:22]
       - State "DONE"       from "SCHED"      [2017-09-01 Fri 07:07]
       - State "DONE"       from "APPT"       [2017-05-24 Wed 21:51]
       :PROPERTIES:
-      :LAST_REPEAT: [2017-09-01 Fri 07:07]
+      :LAST_REPEAT: [2018-03-05 Mon 09:22]
       :END:
 ***** SCHED Confirm HVAC maintenance schedule with Comfort Express :HVAC:MAINTENANCE:RECURRING:
       SCHEDULED: <2018-04-30 Mon ++6m>
@@ -652,7 +656,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2018-02-11 Sun 14:05]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-03-04 Sun 11:30 ++1w>
+      SCHEDULED: <2018-03-11 Sun 11:30 ++1w>
+      - State "CANCELLED"  from "SCHED"      [2018-03-05 Mon 09:23]
       - State "CANCELLED"  from "SCHED"      [2018-02-28 Wed 09:38]
       - State "DONE"       from "SCHED"      [2018-02-19 Mon 17:25]
       - State "DONE"       from "SCHED"      [2018-02-11 Sun 14:04]
@@ -693,7 +698,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2018-02-28 Wed 09:38]
+      :LAST_REPEAT: [2018-03-05 Mon 09:23]
       :END:
 ***** Lawn moving
 
@@ -707,7 +712,8 @@ Next year Dec 18, 2018
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2018-03-04 Sun ++4w>
+      SCHEDULED: <2018-04-01 Sun ++4w>
+      - State "CANCELLED"  from "SCHED"      [2018-03-05 Mon 09:23]
       - State "CANCELLED"  from "SCHED"      [2018-02-05 Mon 11:39]
       - State "DONE"       from "SCHED"      [2018-01-07 Sun 19:49]
       - State "DONE"       from "SCHED"      [2017-12-11 Mon 11:15]
@@ -720,7 +726,7 @@ Refer [[Cleaning Checklist]]
       - State "CANCELLED"  from "SCHED"      [2017-06-01 Thu 21:53]
       - State "DONE"       from "DEFERRED"   [2017-05-10 Wed 07:28]
       :PROPERTIES:
-      :LAST_REPEAT: [2018-02-05 Mon 11:39]
+      :LAST_REPEAT: [2018-03-05 Mon 09:23]
       :END:
 
 **** PEST CONTROL
