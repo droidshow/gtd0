@@ -217,7 +217,7 @@ git config --global diff.tool bc3
 git config --global alias.lod "log --oneline --decorate"
 git config --global alias.glod "log --oneline --decorate --graph --all"
 git config --global alias.difs "difftool --dir-diff --no-symlinks"
-
+git config --global alias.co "checkout"
 .gitignore
 The rules for the patterns you can put in the .gitignore file are as follows:
  Blank lines or lines starting with # are ignored.
