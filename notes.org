@@ -713,6 +713,10 @@ git reset --hard
 git bundle create mygitbackup.bundle master
 git bundle create mygitbackup.bundle --all
 
+*** REFERENCE
+Separating topic branches
+https://www.kernel.org/pub/software/scm/git/docs/howto/separating-topic-branches.txt
+
 ** GSTREAMER
 Upstream : git://anongit.freedesktop.org/gstreamer/
            https://cgit.freedesktop.org/gstreamer/
@@ -1811,6 +1815,10 @@ sudo chown [u]:[u] /media/storage
 
 *** Interrup counter
 vmstat
+
+** VLAN
+https://wiki.wireshark.org/VLAN
+https://www.pluralsight.com/blog/tutorials/cisco-ccna-vlan
 
 ** X
 *** Conversions

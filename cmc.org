@@ -962,13 +962,14 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
 *** Way of Working
 
 ** SCHED SUPPLIES (required marked X)                            :@ECMEETING:
-   SCHEDULED: <2018-03-06 Tue 21:00 ++2w>
+   SCHEDULED: <2018-03-20 Tue 21:00 ++2w>
+   - State "CANCELLED"  from "SCHED"      [2018-03-08 Thu 10:40]
    - State "CANCELLED"  from "SCHED"      [2018-02-20 Tue 21:22]
    - State "DONE"       from "SCHED"      [2018-02-12 Mon 14:02]
    - State "DONE"       from "SCHED"      [2018-01-25 Thu 17:16]
    :PROPERTIES:
    :CUSTOM_ID: cmc-supplies
-   :LAST_REPEAT: [2018-02-20 Tue 21:22]
+   :LAST_REPEAT: [2018-03-08 Thu 10:40]
    :END:
 - [ ] Kitchen Banquet roll
 - [ ] Kitchen paper napkin
