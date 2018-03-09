@@ -7,8 +7,8 @@
 Menards, no screw
 https://www.menards.com/main/plumbing/rough-plumbing/plumbing-access-panels/wallo-trade-round-access-panel/apr-0501/p-1444446003044.htm
 
-** WAITING Order this for CM                                        :@AMAZON:
-   SCHEDULED: <2018-03-02 Fri>
+** DONE Order this for CM                                           :@AMAZON:
+   CLOSED: [2018-03-09 Fri 18:46] SCHEDULED: <2018-03-02 Fri>
 Magnetic mount
 https://www.amazon.com/Meiprosafe-Magnetic-Detector-Installation-Fastening/dp/B06WRSTQJM/ref=sr_1_22_sspa?s=hi&ie=UTF8&qid=1518992313&sr=1-22-spons&keywords=smoke+detector+cover+plate&psc=1
 
@@ -19,6 +19,8 @@ https://www.homedepot.com/p/BELL-5-in-Round-Blank-Metal-Flat-Cover-White-Texture
 
 $10 per piece
 https://www.amazon.com/Wallo-APR-0501-Round-Access-Panel/dp/B007E5C5QG/ref=pd_sim_60_7?_encoding=UTF8&pd_rd_i=B007E5C5QG&pd_rd_r=ZQ0C18ZGRBPECQV749A8&pd_rd_w=6zUNe&pd_rd_wg=xZsPD&psc=1&refRID=ZQ0C18ZGRBPECQV749A8
+
+** The covering plates don't fit nicely return/use as is
 
 * Road crack filling
 - Insurance
