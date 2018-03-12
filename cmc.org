@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------
-* STARTED Install new fire alaram
-  SCHEDULED: <2018-03-11 Sun>
+* DONE Install new fire alaram
+  CLOSED: [2018-03-11 Sun 14:10] SCHEDULED: <2018-03-11 Sun 11:30>
 - New mount with small diameter won't fit older one with center hole
 ** DONE Get base plate covers to mount the new smoke detector, take tax rebate code :@MENARDS:
    CLOSED: [2018-03-05 Mon 09:23] SCHEDULED: <2018-03-04 Sun>
@@ -643,7 +643,7 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2017-10-31 Tue 17:52]
       :END:
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-03-11 Sun ++1m>
+      SCHEDULED: <2018-03-11 Sun ++1m 11:30>
       - State "DONE"       from "SCHED"      [2018-02-11 Sun 14:05]
       - State "DONE"       from "SCHED"      [2018-01-05 Fri 08:59]
       - State "CANCELLED"  from "SCHED"      [2017-12-05 Tue 07:54]
@@ -658,7 +658,8 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2018-02-11 Sun 14:05]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-03-11 Sun 11:30 ++1w>
+      SCHEDULED: <2018-03-18 Sun 11:30 ++1w>
+      - State "CANCELLED"  from "SCHED"      [2018-03-11 Sun 14:11]
       - State "CANCELLED"  from "SCHED"      [2018-03-05 Mon 09:23]
       - State "CANCELLED"  from "SCHED"      [2018-02-28 Wed 09:38]
       - State "DONE"       from "SCHED"      [2018-02-19 Mon 17:25]
@@ -700,7 +701,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2018-03-05 Mon 09:23]
+      :LAST_REPEAT: [2018-03-11 Sun 14:11]
       :END:
 ***** Lawn moving
 
