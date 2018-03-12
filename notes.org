@@ -1830,6 +1830,7 @@ vmstat
 ** VLAN
 https://wiki.wireshark.org/VLAN
 https://www.pluralsight.com/blog/tutorials/cisco-ccna-vlan
+https://www.examcollection.com/certification-training/ccnp-configure-and-verify-vlans-and-trunking.html
 
 ** X
 *** Conversions
