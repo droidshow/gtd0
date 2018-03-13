@@ -42,6 +42,26 @@ https://developer.android.com/training/basics/firstapp/running-app.html
 *** AOSP customization
 https://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
 https://developer.android.com/guide/topics/resources/providing-resources.html#AlternativeResources
+  
+*** Build, NDK 
+http://web.guohuiwang.com/technical-notes/androidndk1
+
+*** Build, Utils
+   lunch:   lunch <product_name>-<build_variant>
+   tapas:   tapas [<App1> <App2> ...] [arm|x86|mips|armv5] [eng|userdebug|user]
+   croot:   Changes directory to the top of the tree.
+   m:       Makes from the top of the tree.
+   mm:      Builds all of the modules in the current directory, but not their dependencies.
+   mmm:     Builds all of the modules in the supplied directories, but not their dependencies.
+            To limit the modules being built use the syntax: mmm dir/:target1,target2.
+   mma:     Builds all of the modules in the current directory, and their dependencies.
+   mmma:    Builds all of the modules in the supplied directories, and their dependencies.
+   cgrep:   Greps on all local C/C++ files.
+   jgrep:   Greps on all local Java files.
+   resgrep: Greps on all local res/*.xml files.
+   godir:   Go to the directory containing a file.
+
+   make modules: List of all modules
 
 *** Android Security & Permissions & user id & OTA
 https://boundarydevices.com/android-security-part-1-application-signatures-permissions/
@@ -122,9 +142,7 @@ make installclean
 - Does not support poxis messages
 - Beacuse can be potentially leaky and doesn't play well when system wants to kill process to save memory
 - Use Binders
-  
-*** NDK build
-http://web.guohuiwang.com/technical-notes/androidndk1
+
 *** Screen resolution
 Emulated screen resolution
 wm size
