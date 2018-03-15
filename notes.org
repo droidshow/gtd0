@@ -143,6 +143,34 @@ make installclean
 - Beacuse can be potentially leaky and doesn't play well when system wants to kill process to save memory
 - Use Binders
 
+*** Resources, texts, colors
+
+To prevent aapt running to check the hardcoded string in teh local
+Android.mk
+ LOCAL_MODULE_TAGS := tests 
+
+res/values/strings.xml:
+
+ <?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string name="fellow">Fellow</string>
+ </resources>
+
+activity_main.xml
+
+ <TextView android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/fellow" />
+
+Similarly colors should be stored in colors.xml and then referenced by using @color/color_name
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black">#000000</color>
+</resources>
+
+
+
 *** Screen resolution
 Emulated screen resolution
 wm size
