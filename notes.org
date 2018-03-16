@@ -3,6 +3,8 @@
 * NOTES
 ** AIY
 - aiyprojects-raspbian : https://github.com/google/aiyprojects-raspbian
+- assistant-sdk-python : https://developers.google.com/assistant/sdk/
+-                      : https://github.com/googlesamples/assistant-sdk-python -- samples and bindings
 - google-assistant-library 
 *** assistant-sdk-python 
 -  https://developers.google.com/assistant/sdk/
