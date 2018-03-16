@@ -125,6 +125,8 @@ make installclean
   
 *** NDK build
 http://web.guohuiwang.com/technical-notes/androidndk1
+*** Resources
+https://developer.android.com/guide/topics/resources/providing-resources.html
 *** Screen resolution
 Emulated screen resolution
 wm size
