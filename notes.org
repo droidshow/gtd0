@@ -145,7 +145,11 @@ make installclean
 - Beacuse can be potentially leaky and doesn't play well when system wants to kill process to save memory
 - Use Binders
 
+*** NDK build
+http://web.guohuiwang.com/technical-notes/androidndk1
+
 *** Resources, texts, colors
+https://developer.android.com/guide/topics/resources/providing-resources.html
 
 To prevent aapt running to check the hardcoded string in teh local
 Android.mk
