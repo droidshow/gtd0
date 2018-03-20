@@ -776,6 +776,10 @@ git reset --hard
 git bundle create mygitbackup.bundle master
 git bundle create mygitbackup.bundle --all
 
+*** Revert
+git co 
+git co -- <filename>
+
 *** REFERENCE
 Separating topic branches
 https://www.kernel.org/pub/software/scm/git/docs/howto/separating-topic-branches.txt
