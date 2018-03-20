@@ -22,7 +22,7 @@ https://www.amazon.com/Wallo-APR-0501-Round-Access-Panel/dp/B007E5C5QG/ref=pd_si
 
 ** The covering plates don't fit nicely return/use as is
 
-* Road crack filling
+* Road crack filling (Puranji looking into this)
 - Insurance
 - Quote for only filling the crack and whole 
 - Meet on weekend
@@ -38,13 +38,17 @@ http://www.hgtv.com/design/outdoor-design/landscaping-and-hardscaping/when-to-ap
 ** DONE Get quote from Marcos                             :@MARCOS:LANDSCAPE:
    CLOSED: [2018-02-22 Thu 08:39] SCHEDULED: <2018-02-17 Sat>
 $150
-** Get approval
+** CANCELLED Get approval
+   CLOSED: [2018-03-19 Mon 20:06]
 ** Removing thistle
 http://homeguides.sfgate.com/way-rid-thistles-garden-100512.html
 http://homeguides.sfgate.com/kill-bull-thistle-weeds-96702.html
 https://www.wikihow.com/Get-Rid-of-Thistles
 
-* Put up chain to block entry/exit from Liberty road
+* STARTED Put up chain to block entry/exit from Liberty road
+** Need additional length of chain
+** Need no entry exit signs
+** Get zip ties
 * Put up no parking signs
 * Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
 * Shower tab not working                                              :TOFIX:
@@ -643,7 +647,7 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2017-10-31 Tue 17:52]
       :END:
 ***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-03-18 Sun 11:30>
+      SCHEDULED: <2018-03-25 Sun 11:30>
       - State "DONE"       from "SCHED"      [2018-02-11 Sun 14:05]
       - State "DONE"       from "SCHED"      [2018-01-05 Fri 08:59]
       - State "CANCELLED"  from "SCHED"      [2017-12-05 Tue 07:54]
@@ -658,7 +662,7 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2018-02-11 Sun 14:05]
       :END:
 ***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-03-18 Sun 11:30 ++1w>
+      SCHEDULED: <2018-03-25 Sun 11:30 ++1w>
       - State "CANCELLED"  from "SCHED"      [2018-03-11 Sun 14:11]
       - State "CANCELLED"  from "SCHED"      [2018-03-05 Mon 09:23]
       - State "CANCELLED"  from "SCHED"      [2018-02-28 Wed 09:38]
