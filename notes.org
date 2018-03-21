@@ -380,7 +380,7 @@ Unstaging a staged file
  git reset HEAD <file>
 
 Revert to previous commit (throwing away local changes)
- git checkout -- <file>
+ git checkout <hash> -- <file>
 
 LINK:
 https://github.com/blog/2019-how-to-undo-almost-anything-with-git
