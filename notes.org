@@ -148,6 +148,8 @@ make installclean
 *** NDK build
 http://web.guohuiwang.com/technical-notes/androidndk1
 
+*** Networking
+https://www.raywenderlich.com/126770/android-networking-tutorial-getting-started
 *** Resources, texts, colors
 https://developer.android.com/guide/topics/resources/providing-resources.html
 
