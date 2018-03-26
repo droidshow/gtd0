@@ -50,8 +50,8 @@ https://www.wikihow.com/Get-Rid-of-Thistles
    SCHEDULED: <2018-03-23 Fri>
 ** SCHED Need no entry exit signs for CMC
    SCHEDULED: <2018-03-23 Fri>
-** SCHED Get zip ties for CM
-   SCHEDULED: <2018-03-25 Sun>
+** DONE Get zip ties for CM
+   CLOSED: [2018-03-25 Sun 10:04] SCHEDULED: <2018-03-25 Sun>
 * Put up no parking signs
 * Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
 - Check if all signs need to be replaced or just the one without battery backup
