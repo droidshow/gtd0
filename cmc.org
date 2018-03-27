@@ -29,7 +29,7 @@ https://www.amazon.com/Wallo-APR-0501-Round-Access-Panel/dp/B007E5C5QG/ref=pd_si
 - Payment after work based on invoice
 ** DONE Send Kyles contact details to Puranbhai
    CLOSED: [2018-03-05 Mon 17:52]
-* Landscape - pre-emergent
+* STARTED Landscape - pre-emergent
 ** DONE Find what we need
    CLOSED: [2018-03-05 Mon 17:52]
 https://www.lowes.com/projects/lawn-and-garden/control-weeds-lawn-garden/project
@@ -64,7 +64,11 @@ https://www.wikihow.com/Get-Rid-of-Thistles
 - Hoffman
 - ComfortXpress
 - Scott
-* Fix the door latch on the back door :@ARCHANA:
+* DONE Fix the door latch on the back door                         :@ARCHANA:
+  CLOSED: [2018-03-26 Mon 11:23]
+- The back door latch has mis-alignment. Removed the metal plate so that the bolt slides in.
+- The plate needs to be put back in slightly lower.
+- Needs power tool.
 * SCHED Project Mukhya Swamiji visit :PROEJCT:MUKHYASWAMIJI:
 ** SCHED Painting the facility :MUKHYASWAMIJI:
    SCHEDULED: <2018-06-01 Fri 9:00-17:00 ++1d>
@@ -653,8 +657,8 @@ Next year Dec 18, 2018
       :PROPERTIES:
       :LAST_REPEAT: [2017-10-31 Tue 17:52]
       :END:
-***** SCHED Spread Preen on flower bed                :LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-03-25 Sun 11:30>
+***** DONE Spread Preen on flower bed                 :LANDSCAPE:MAINTENANCE:
+      CLOSED: [2018-03-26 Mon 10:31] SCHEDULED: <2018-03-25 Sun 11:30>
       - State "DONE"       from "SCHED"      [2018-02-11 Sun 14:05]
       - State "DONE"       from "SCHED"      [2018-01-05 Fri 08:59]
       - State "CANCELLED"  from "SCHED"      [2017-12-05 Tue 07:54]
@@ -668,8 +672,9 @@ Next year Dec 18, 2018
       :PROPERTIES:
       :LAST_REPEAT: [2018-02-11 Sun 14:05]
       :END:
-***** SCHED Remove weed, spray weedkiller        :CMC::LANDSCAPE:MAINTENANCE:
-      SCHEDULED: <2018-03-25 Sun 11:30 ++1w>
+***** CANCELLED Remove weed, spray weedkiller    :CMC::LANDSCAPE:MAINTENANCE:
+      SCHEDULED: <2018-04-01 Sun 11:30 ++1w>
+      - State "CANCELLED"  from "SCHED"      [2018-03-26 Mon 10:31]
       - State "CANCELLED"  from "SCHED"      [2018-03-11 Sun 14:11]
       - State "CANCELLED"  from "SCHED"      [2018-03-05 Mon 09:23]
       - State "CANCELLED"  from "SCHED"      [2018-02-28 Wed 09:38]
@@ -712,7 +717,7 @@ Next year Dec 18, 2018
       - State "CANCELLED"  from "SCHED"      [2017-06-07 Wed 11:02]
       - State "DONE"       from "SCHED"      [2017-06-01 Thu 21:53]
       :PROPERTIES:
-      :LAST_REPEAT: [2018-03-11 Sun 14:11]
+      :LAST_REPEAT: [2018-03-26 Mon 10:32]
       :END:
 ***** Lawn moving
 

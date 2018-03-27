@@ -140,6 +140,13 @@ https://source.android.com/devices/graphics/arch-sf-hwc
 Android.mk
 LOCAL_OVERRIDES_PACKAGES := Launcher2 Launcher3
 make installclean
+*** Log
+String tag = "[";
+tag += this.getClass().toString();
+tag += " :: ";
+tag += Thread.currentThread().getStackTrace()[1].getMethodName().toString();
+tag += "]";
+Log.i(tag, "Message");
 *** Message Queues
 - Does not support poxis messages
 - Beacuse can be potentially leaky and doesn't play well when system wants to kill process to save memory
