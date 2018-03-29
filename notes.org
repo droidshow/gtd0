@@ -160,6 +160,9 @@ http://web.guohuiwang.com/technical-notes/androidndk1
 
 *** Networking
 https://www.raywenderlich.com/126770/android-networking-tutorial-getting-started
+*** Repo
+https://stackoverflow.com/questions/6136789/cloning-android-sources-to-a-local-repository-server
+
 *** Resources, texts, colors
 https://developer.android.com/guide/topics/resources/providing-resources.html
 
