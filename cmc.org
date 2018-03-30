@@ -47,9 +47,9 @@ https://www.wikihow.com/Get-Rid-of-Thistles
 
 * STARTED Put up chain to block entry/exit from Liberty road
 ** SCHED Need additional length of chain for CMC
-   SCHEDULED: <2018-03-23 Fri>
+   SCHEDULED: <2018-04-01 Sun>
 ** SCHED Need no entry exit signs for CMC
-   SCHEDULED: <2018-03-23 Fri>
+   SCHEDULED: <2018-04-01 Sun>
 ** DONE Get zip ties for CM
    CLOSED: [2018-03-25 Sun 10:04] SCHEDULED: <2018-03-25 Sun>
 * Put up no parking signs
