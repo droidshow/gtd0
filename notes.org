@@ -504,6 +504,16 @@ Merging
  git merge <branchname>
  git branch -d <branchname> # delete branch after merging
 
+Rebase
+Generates patch for each commit in branch and applies it on
+-i (interactive) lets squasing, changing commit messages etc.
+If not merge this will be like pulling in master's changes into branch.
+In other words basing the branch from latest changes in master.
+
+ git rebase -i <master> # From branch to rebase
+ git co <master>
+ git merge <branch>
+
 To pull recent changes from master branch to current branch
  git merge <master>
  
@@ -794,6 +804,7 @@ git bundle create mygitbackup.bundle --all
 *** Revert
 git co 
 git co -- <filename>
+git co -p # To pick what to discard from local changes
 
 *** REFERENCE
 Separating topic branches
@@ -1906,6 +1917,7 @@ vmstat
 https://wiki.wireshark.org/VLAN
 https://www.pluralsight.com/blog/tutorials/cisco-ccna-vlan
 https://www.examcollection.com/certification-training/ccnp-configure-and-verify-vlans-and-trunking.html
+https://www.sbprojects.net/projects/raspberrypi/vlan.php
 
 ** X
 *** Conversions
