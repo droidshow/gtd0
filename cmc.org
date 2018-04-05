@@ -47,9 +47,9 @@ https://www.wikihow.com/Get-Rid-of-Thistles
 
 * STARTED Put up chain to block entry/exit from Liberty road
 ** SCHED Need additional length of chain for CMC
-   SCHEDULED: <2018-04-01 Sun>
+   SCHEDULED: <2018-04-08 Sun>
 ** SCHED Need no entry exit signs for CMC
-   SCHEDULED: <2018-04-01 Sun>
+   SCHEDULED: <2018-04-08 Sun>
 ** DONE Get zip ties for CM
    CLOSED: [2018-03-25 Sun 10:04] SCHEDULED: <2018-03-25 Sun>
 * Put up no parking signs
@@ -70,8 +70,8 @@ https://www.wikihow.com/Get-Rid-of-Thistles
 - The plate needs to be put back in slightly lower.
 - Needs power tool.
 * SCHED Project Mukhya Swamiji visit :PROEJCT:MUKHYASWAMIJI:
-** SCHED Painting the facility :MUKHYASWAMIJI:
-   SCHEDULED: <2018-06-01 Fri 9:00-17:00 ++1d>
+** CANCELLED Painting the facility                            :MUKHYASWAMIJI:
+   CLOSED: [2018-04-05 Thu 17:25]
 ** SCHED Replace stained ceiling tiles, take sample for color matching and tax rebate :MUKHYASWAMIJI:
    DEADLINE: <2018-08-12 Sun> SCHEDULED: <2018-08-05 Sun ++1d>
 ** SCHED Inform Marcos to Landscape cleanup for cleanup on 15th :MUKHYASWAMIJI:
@@ -731,7 +731,7 @@ Next year Dec 18, 2018
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2018-04-01 Sun ++4w>
+      SCHEDULED: <2018-04-08 Sun ++4w>
       - State "CANCELLED"  from "SCHED"      [2018-03-05 Mon 09:23]
       - State "CANCELLED"  from "SCHED"      [2018-02-05 Mon 11:39]
       - State "DONE"       from "SCHED"      [2018-01-07 Sun 19:49]
@@ -982,7 +982,8 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
 *** Way of Working
 
 ** SCHED SUPPLIES (required marked X)                            :@ECMEETING:
-   SCHEDULED: <2018-04-03 Tue 21:00 ++2w>
+   SCHEDULED: <2018-04-17 Tue 21:00 ++2w>
+   - State "DONE"       from "SCHED"      [2018-04-05 Thu 17:21]
    - State "DONE"       from "SCHED"      [2018-03-23 Fri 17:06]
    - State "CANCELLED"  from "SCHED"      [2018-03-08 Thu 10:40]
    - State "CANCELLED"  from "SCHED"      [2018-02-20 Tue 21:22]
@@ -990,7 +991,7 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
    - State "DONE"       from "SCHED"      [2018-01-25 Thu 17:16]
    :PROPERTIES:
    :CUSTOM_ID: cmc-supplies
-   :LAST_REPEAT: [2018-03-23 Fri 17:06]
+   :LAST_REPEAT: [2018-04-05 Thu 17:21]
    :END:
 - [ ] Kitchen Banquet roll
 - [ ] Kitchen paper napkin
