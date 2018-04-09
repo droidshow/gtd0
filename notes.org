@@ -124,6 +124,23 @@ For placing shared libraries (.so)
 Specify LD_LIBRARY_PATH in Android.mk
 or place them in /system/lib or /vendor/lib
 
+*** Git
+- SERVER
+mkdir /srv/git/gtd3/android/<project>.git
+cd /srv/git/gtd3/android/<project>.git
+git init --bare --shared
+
+- CLIENT:
+cd <>
+git config --local user.name "<>"
+git config --local user.email "<>"
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin git@<>:/srv/git/gtd3/android/<project>.git
+git push origin master
+
+
 *** Graphics
 https://elinux.org/images/2/2b/Android_graphics_path--chis_simmonds.pdf
 https://source.android.com/devices/graphics/
@@ -1433,9 +1450,9 @@ git init --bare --shared
 
 - CLIENT:
 cd <>
+git init
 git config --local user.name "<>"
 git config --local user.email "<>"
-git init
 echo -e ".gitignore\n*~\n" > .gitignore
 git add .
 git commit -m "Initial commit"
