@@ -516,6 +516,10 @@ Switch to branch
 Create branch and switch to branch
  git checkout -b <branchname>
 
+Create branch from some other point
+ git branch branchname <sha1-of-commit>
+ git branch branchname HEAD~3
+
 Merging
  git checkout <master>
  git merge <branchname>
