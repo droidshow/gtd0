@@ -179,6 +179,7 @@ http://web.guohuiwang.com/technical-notes/androidndk1
 https://www.raywenderlich.com/126770/android-networking-tutorial-getting-started
 *** Repo
 https://stackoverflow.com/questions/6136789/cloning-android-sources-to-a-local-repository-server
+repo forall -c 'echo "$REPO_PATH : $REPO_PROJECT"'
 
 *** Resources, texts, colors
 https://developer.android.com/guide/topics/resources/providing-resources.html
