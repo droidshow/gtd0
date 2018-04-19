@@ -650,7 +650,11 @@ Next year Dec 18, 2018
 ***** Call and schedule inspection with the Fire Marshal
 **** LANDSCAPE
 ***** SCHED Schedule Spring cleanup                    :LANDSACE:MAINTENANCE:
-      SCHEDULED: <2018-04-01 Sun ++1y>
+      SCHEDULED: <2019-04-01 Mon ++1y>
+      - State "CANCELLED"  from "SCHED"      [2018-04-17 Tue 09:24]
+      :PROPERTIES:
+      :LAST_REPEAT: [2018-04-17 Tue 09:24]
+      :END:
 ***** SCHED Schedule Fall cleanup                      :LANDSACE:MAINTENANCE:
       SCHEDULED: <2018-10-15 Mon ++1y>
       - State "DONE"       from "WAITING"    [2017-10-31 Tue 17:52]
