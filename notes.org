@@ -1171,6 +1171,9 @@ https://linoxide.com/linux-command/systemd-vs-sysvinit-cheatsheet/
 https://www.kernel.org/doc/Documentation/i2c/dev-interface
 http://elinux.org/Interfacing_with_I2C_Devices
 
+*** Kernel Debugging 
+https://www.elinux.org/Kernel_Debugging_Tips
+https://elinux.org/Debugging_by_printing
 *** Secure programming
 https://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html
 
