@@ -1183,6 +1183,11 @@ cat /proc/kallsyms | grep hello
 cat Module.symvers
 nm hello.ko
 
+*** Linux source 
+git clone git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+*** To find the kernel version of a particular commit
+In Linux source code
+git show <commit>:Makefile
 ** NETWORKING
 Wireshark TCP / IP / ETHERNET packet analysis
 http://networkstatic.net/what-are-ethernet-ip-and-tcp-headers-in-wireshark-captures/
