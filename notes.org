@@ -302,6 +302,18 @@ http://lifehacker.com/five-best-file-encryption-tools-5677725
 http://lifehacker.com/whats-the-best-file-encryption-tool-1683834660
 
 ** GIT
+Getting latest from repo
+ git pull
+ git rebase master
+
+
+Pushing to repo
+ git pull
+ git rebase master
+ git co master
+ git merge h-usb-1 
+ git push
+
 *** Initial Setup and Config
 git config --local user.name "om"
 git config --local user.email "om@--.com"
