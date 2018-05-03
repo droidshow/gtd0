@@ -296,6 +296,23 @@ dot -Tsvg -obig1.svg ./big1.dot
 Combining graphs
 https://stackoverflow.com/questions/16488216/graph-of-graphs-in-graphviz
 
+** EMACS
+
+*** Launch agenda on start up
+ (setq inhibit-splash-screen t)
+ (org-agenda-list)
+ (delete-other-windows)
+
+Today view
+ (org-agenda-list 1)
+
+ (add-hook 'after-init-hook 'org-agenda-list)
+Today view
+ (add-hook 'after-init-hook '(lambda () (org-agenda-list 1)))
+
+*** 
+ "C:\Program Files\Git\git-bash.exe" -c -l "gtd [command]; read -p "Enter""
+
 ** ENCRYPTION
 http://lifehacker.com/a-beginners-guide-to-encryption-what-it-is-and-how-to-1508196946
 http://lifehacker.com/five-best-file-encryption-tools-5677725
