@@ -126,6 +126,7 @@ or place them in /system/lib or /vendor/lib
 
 *** Git
 - SERVER
+sudo chsh git -s /bin/bash
 mkdir /srv/git/gtd3/android/<project>.git
 cd /srv/git/gtd3/android/<project>.git
 git init --bare --shared
