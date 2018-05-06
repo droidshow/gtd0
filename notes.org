@@ -2075,6 +2075,38 @@ https://www.sbprojects.net/projects/raspberrypi/vlan.php
 http://www.olafdietsche.de/2015/01/19/compiling-busybox-for-arm
 *** Conversions
 http://www.cantwellengineering.com/calculator/convert/dBmV
+*** Display to x window from command line 
+
+ssh user@host
+screen
+DISPLAY:[0|1|2...] libreoffice -show <fname>.odp
+C-a d
+exit
+
+$ ssh tim
+$ export DISPLAY=:0
+$ firefox
+#Closes with closing of the ssh session.
+
+Alternates to keep ssh alive in the background
+ screen
+ hohup
+
+ssh tim "DISPLAY=:0 nohup firefox"
+
+
+https://askubuntu.com/questions/10547/how-to-clean-launch-a-gui-app-via-the-terminal-so-it-doesnt-wait-for-terminati
+http://dj-bri-t.net/2009/10/gnu-screen-and-byobu-made-easy/
+
+nohup (no hang up signal sent to the process)
+https://en.wikipedia.org/wiki/Nohup
+https://linux.101hacks.com/unix/nohup-command/
+
+
+Apps to allow multiple terminal sessions from single terminal 
+also run process in the background even if the terminal session ends (much like noup)
+ tmux 
+ screen
 *** Jenkins / Docker
 https://www.cloudbees.com/blog/get-started-jenkins-20-docker
 https://engineering.riotgames.com/news/putting-jenkins-docker-container
