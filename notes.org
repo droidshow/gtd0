@@ -2118,3 +2118,5 @@ gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -d
     -dPDFSETTINGS=/prepress output similar to Acrobat Distiller "Prepress Optimized" setting
     -dPDFSETTINGS=/printer selects output similar to the Acrobat Distiller "Print Optimized" setting
     -dPDFSETTINGS=/default selects output intended to be useful across a wide variety of uses, possibly at the expense of a larger output file
+*** Memory monitor
+for i in `seq 10000`; do cat /proc/meminfo | grep -i memfree && sleep 10; done
