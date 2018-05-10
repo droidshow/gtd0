@@ -766,7 +766,7 @@ Refer [[Cleaning Checklist]]
       :END:
 
 ***** SCHED Put mice repellant around the building
-      SCHEDULED: <2018-04-08 Sun ++1y>
+      SCHEDULED: <2018-05-27 Sun ++1y>
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
