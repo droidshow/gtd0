@@ -234,6 +234,10 @@ rgb2565
 Code:
 rgb2565 -rle < MY_IMAGE.raw > MY_IMAGE.rle
 
+*** Tools
+
+**** git repository for repo tool
+ git clone https://android.googlesource.com/tools/repo
 
 *** JNI 
 
