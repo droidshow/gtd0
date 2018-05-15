@@ -315,7 +315,7 @@ Today view
 Today view
  (add-hook 'after-init-hook '(lambda () (org-agenda-list 1)))
 
-*** 
+*** Git bash for windows, run script on startup
  "C:\Program Files\Git\git-bash.exe" -c -l "gtd [command]; read -p "Enter""
 
 ** ENCRYPTION
