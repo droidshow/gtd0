@@ -1,74 +1,20 @@
 ---------------------------------------------------------------------------------------------
-* DONE Install new fire alaram
-  CLOSED: [2018-03-11 Sun 14:10] SCHEDULED: <2018-03-11 Sun 11:30>
-- New mount with small diameter won't fit older one with center hole
-** DONE Get base plate covers to mount the new smoke detector, take tax rebate code :@MENARDS:
-   CLOSED: [2018-03-05 Mon 09:23] SCHEDULED: <2018-03-04 Sun>
-Menards, no screw
-https://www.menards.com/main/plumbing/rough-plumbing/plumbing-access-panels/wallo-trade-round-access-panel/apr-0501/p-1444446003044.htm
-
-** DONE Order this for CM                                           :@AMAZON:
-   CLOSED: [2018-03-09 Fri 18:46] SCHEDULED: <2018-03-02 Fri>
-Magnetic mount
-https://www.amazon.com/Meiprosafe-Magnetic-Detector-Installation-Fastening/dp/B06WRSTQJM/ref=sr_1_22_sspa?s=hi&ie=UTF8&qid=1518992313&sr=1-22-spons&keywords=smoke+detector+cover+plate&psc=1
-
-
-Home depot metal cover, will need drilling
-$2.5 per piece
-https://www.homedepot.com/p/BELL-5-in-Round-Blank-Metal-Flat-Cover-White-Textured-5652-1/203638781?cm_mmc=Shopping%7cVF%7cG%7c0%7cG-VF-PLA%7c&gclid=EAIaIQobChMIg_iq2b2w2QIVxkSGCh0hkQlMEAQYAiABEgIP1_D_BwE&gclsrc=aw.ds&dclid=CJbctd69sNkCFUfdwAodgpUJyA
-
-$10 per piece
-https://www.amazon.com/Wallo-APR-0501-Round-Access-Panel/dp/B007E5C5QG/ref=pd_sim_60_7?_encoding=UTF8&pd_rd_i=B007E5C5QG&pd_rd_r=ZQ0C18ZGRBPECQV749A8&pd_rd_w=6zUNe&pd_rd_wg=xZsPD&psc=1&refRID=ZQ0C18ZGRBPECQV749A8
-
-** The covering plates don't fit nicely return/use as is
-
-* Road crack filling (Puranji looking into this)
+* STARTED Road crack filling (Puranji looking into this)
 - Insurance
 - Quote for only filling the crack and whole 
 - Meet on weekend
 - Payment after work based on invoice
 ** DONE Send Kyles contact details to Puranbhai
    CLOSED: [2018-03-05 Mon 17:52]
-* STARTED Landscape - pre-emergent
-** DONE Find what we need
-   CLOSED: [2018-03-05 Mon 17:52]
-https://www.lowes.com/projects/lawn-and-garden/control-weeds-lawn-garden/project
-http://www.hgtv.com/design/outdoor-design/landscaping-and-hardscaping/when-to-apply-herbicides
-
-** DONE Get quote from Marcos                             :@MARCOS:LANDSCAPE:
-   CLOSED: [2018-02-22 Thu 08:39] SCHEDULED: <2018-02-17 Sat>
-$150
-** CANCELLED Get approval
-   CLOSED: [2018-03-19 Mon 20:06]
-** Removing thistle
-http://homeguides.sfgate.com/way-rid-thistles-garden-100512.html
-http://homeguides.sfgate.com/kill-bull-thistle-weeds-96702.html
-https://www.wikihow.com/Get-Rid-of-Thistles
-
-* STARTED Put up chain to block entry/exit from Liberty road
-** DONE Need additional length of chain for CMC
-   CLOSED: [2018-04-09 Mon 09:12] SCHEDULED: <2018-04-08 Sun>
-** DONE Need no entry exit signs for CMC
-   CLOSED: [2018-04-09 Mon 09:12] SCHEDULED: <2018-04-08 Sun>
-** DONE Get zip ties for CM
-   CLOSED: [2018-03-25 Sun 10:04] SCHEDULED: <2018-03-25 Sun>
-* Put up no parking signs
 * Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
 - Check if all signs need to be replaced or just the one without battery backup
 - Check if Marcos is going to do it
 - Find where the cutoff is for the display sign
 * Shower tab not working                                              :TOFIX:
-* DONE Buy Preen from Menards take tax rebate code                 :@MENARDS:
-  CLOSED: [2018-03-05 Mon 09:23] SCHEDULED: <2018-03-04 Sun>
 * Consolidate mails to cmc.s
 - Hoffman
 - ComfortXpress
 - Scott
-* DONE Fix the door latch on the back door                         :@ARCHANA:
-  CLOSED: [2018-03-26 Mon 11:23]
-- The back door latch has mis-alignment. Removed the metal plate so that the bolt slides in.
-- The plate needs to be put back in slightly lower.
-- Needs power tool.
 * SCHED Project Mukhya Swamiji visit :PROEJCT:MUKHYASWAMIJI:
 ** CANCELLED Painting the facility                            :MUKHYASWAMIJI:
    CLOSED: [2018-04-05 Thu 17:25]
@@ -97,9 +43,73 @@ https://www.wikihow.com/Get-Rid-of-Thistles
 - Lights
 - Restrictions
 
+* SCHED Photography for BalaMahotsav
+  SCHEDULED: <2018-05-19 Sat 10:00-13:00>
+** SCHED Charge camera and free up card space
+   SCHEDULED: <2018-05-17 Thu>
+
 * CMC                                                                  
 
 ** COMPLETED TASKS 
+*** DONE Install new fire alaram
+  CLOSED: [2018-03-11 Sun 14:10] SCHEDULED: <2018-03-11 Sun 11:30>
+- New mount with small diameter won't fit older one with center hole
+**** DONE Get base plate covers to mount the new smoke detector, take tax rebate code :@MENARDS:
+   CLOSED: [2018-03-05 Mon 09:23] SCHEDULED: <2018-03-04 Sun>
+Menards, no screw
+https://www.menards.com/main/plumbing/rough-plumbing/plumbing-access-panels/wallo-trade-round-access-panel/apr-0501/p-1444446003044.htm
+
+**** DONE Order this for CM                                         :@AMAZON:
+   CLOSED: [2018-03-09 Fri 18:46] SCHEDULED: <2018-03-02 Fri>
+Magnetic mount
+https://www.amazon.com/Meiprosafe-Magnetic-Detector-Installation-Fastening/dp/B06WRSTQJM/ref=sr_1_22_sspa?s=hi&ie=UTF8&qid=1518992313&sr=1-22-spons&keywords=smoke+detector+cover+plate&psc=1
+
+
+Home depot metal cover, will need drilling
+$2.5 per piece
+https://www.homedepot.com/p/BELL-5-in-Round-Blank-Metal-Flat-Cover-White-Textured-5652-1/203638781?cm_mmc=Shopping%7cVF%7cG%7c0%7cG-VF-PLA%7c&gclid=EAIaIQobChMIg_iq2b2w2QIVxkSGCh0hkQlMEAQYAiABEgIP1_D_BwE&gclsrc=aw.ds&dclid=CJbctd69sNkCFUfdwAodgpUJyA
+
+$10 per piece
+https://www.amazon.com/Wallo-APR-0501-Round-Access-Panel/dp/B007E5C5QG/ref=pd_sim_60_7?_encoding=UTF8&pd_rd_i=B007E5C5QG&pd_rd_r=ZQ0C18ZGRBPECQV749A8&pd_rd_w=6zUNe&pd_rd_wg=xZsPD&psc=1&refRID=ZQ0C18ZGRBPECQV749A8
+
+**** The covering plates don't fit nicely return/use as is
+
+*** DONE Landscape - pre-emergent
+    CLOSED: [2018-05-15 Tue 16:50]
+**** DONE Find what we need
+   CLOSED: [2018-03-05 Mon 17:52]
+https://www.lowes.com/projects/lawn-and-garden/control-weeds-lawn-garden/project
+http://www.hgtv.com/design/outdoor-design/landscaping-and-hardscaping/when-to-apply-herbicides
+
+**** DONE Get quote from Marcos                           :@MARCOS:LANDSCAPE:
+   CLOSED: [2018-02-22 Thu 08:39] SCHEDULED: <2018-02-17 Sat>
+$150
+**** CANCELLED Get approval
+     CLOSED: [2018-03-19 Mon 20:06]
+**** CANCELLED Removing thistle
+   CLOSED: [2018-05-15 Tue 16:49]
+http://homeguides.sfgate.com/way-rid-thistles-garden-100512.html
+http://homeguides.sfgate.com/kill-bull-thistle-weeds-96702.html
+https://www.wikihow.com/Get-Rid-of-Thistles
+
+*** DONE Put up chain to block entry/exit from Liberty road
+    CLOSED: [2018-05-15 Tue 16:50]
+**** DONE Need additional length of chain for CMC
+     CLOSED: [2018-04-09 Mon 09:12] SCHEDULED: <2018-04-08 Sun>
+**** DONE Need no entry exit signs for CMC
+     CLOSED: [2018-04-09 Mon 09:12] SCHEDULED: <2018-04-08 Sun>
+**** DONE Get zip ties for CM
+     CLOSED: [2018-03-25 Sun 10:04] SCHEDULED: <2018-03-25 Sun>
+*** CANCELLED Put up no parking signs
+    CLOSED: [2018-05-15 Tue 16:51]
+*** DONE Buy Preen from Menards take tax rebate code               :@MENARDS:
+    CLOSED: [2018-03-05 Mon 09:23] SCHEDULED: <2018-03-04 Sun>
+*** DONE Fix the door latch on the back door                       :@ARCHANA:
+  CLOSED: [2018-03-26 Mon 11:23]
+- The back door latch has mis-alignment. Removed the metal plate so that the bolt slides in.
+- The plate needs to be put back in slightly lower.
+- Needs power tool.
+
 *** DONE Try to fix the shower upstairs or replace                 :@ARCHANA:
   CLOSED: [2018-02-18 Sun 17:33] SCHEDULED: <2018-02-17 Sat>
 - When the shower is on the leak is between the first and second leg of the angular shower
@@ -988,7 +998,8 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
 *** Way of Working
 
 ** SCHED SUPPLIES (required marked X)                            :@ECMEETING:
-   SCHEDULED: <2018-05-15 Tue 21:00 ++2w>
+   SCHEDULED: <2018-05-29 Tue 21:00 ++2w>
+   - State "DONE"       from "SCHED"      [2018-05-15 Tue 17:07]
    - State "CANCELLED"  from "SCHED"      [2018-05-03 Thu 09:23]
    - State "CANCELLED"  from "SCHED"      [2018-04-24 Tue 14:52]
    - State "DONE"       from "SCHED"      [2018-04-05 Thu 17:21]
@@ -999,7 +1010,7 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
    - State "DONE"       from "SCHED"      [2018-01-25 Thu 17:16]
    :PROPERTIES:
    :CUSTOM_ID: cmc-supplies
-   :LAST_REPEAT: [2018-05-03 Thu 09:23]
+   :LAST_REPEAT: [2018-05-15 Tue 17:07]
    :END:
 - [ ] Kitchen Banquet roll
 - [ ] Kitchen paper napkin
