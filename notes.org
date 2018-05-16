@@ -952,6 +952,17 @@ git filter-branch --subdirectory-filter <folder>/ --prune-empty -- --all
 git push --all
 git push --tags
 
+OTHER METOHD
+
+*** Splitting group of git repo directories to its own git repo
+git clone MyHugeRepo/ MyABRepo.tmp/
+cd MyABRepo.tmp
+git filter-branch --prune-empty --index-filter 'git rm --cached --ignore-unmatch DIR_TO_REMOVE_1/* DIR_TO_REMOVE_2/*' HEAD
+cd ..
+git clone MyABRepo.tmp MyABRepo
+
+if error regarding .git-rewrite
+git filter-branch -d /tmp/git-rewrite.tmp --prune-empty --index-filter 'git rm --cached --ignore-unmatch DIR_TO_REMOVE_1/* DIR_TO_REMOVE_2/*' HEAD
 
 *** REFERENCE
 Separating topic branches
@@ -1228,8 +1239,8 @@ http://networkstatic.net/what-are-ethernet-ip-and-tcp-headers-in-wireshark-captu
 
 ** Oracle
 https://docs.oracle.com/cd/B28359_01/index.htm
-** RASPBERRYPI 
-
+** DO RASPBERRYPI 
+*** DO PiCore for fast boot
 *** STARTED https://www.raspberrypi.org/documentation/linux/           
 **** STARTED https://www.raspberrypi.org/documentation/linux/usage/README.md :RPI:HEAD:
 ***** DONE https://fedoramagazine.org/what-is-an-init-system/   :RPI:
@@ -1647,6 +1658,8 @@ https://github.com/raspberrypi/noobs/wiki/Standalone-partitioning-explained
 Noob Partitioning
 https://github.com/raspberrypi/noobs/wiki/Standalone-partitioning-explained
 
+*** Raspberry Pi with Yocto
+http://jumpnowtek.com/rpi/Raspberry-Pi-Systems-with-Yocto.html
 
 *** Serial Port
 Rpi 3 onwards :
