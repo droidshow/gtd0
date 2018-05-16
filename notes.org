@@ -964,6 +964,22 @@ git clone MyABRepo.tmp MyABRepo
 if error regarding .git-rewrite
 git filter-branch -d /tmp/git-rewrite.tmp --prune-empty --index-filter 'git rm --cached --ignore-unmatch DIR_TO_REMOVE_1/* DIR_TO_REMOVE_2/*' HEAD
 
+*** Migrate from svn to git
+Install git-svn
+  sudo apt-get install git-svn
+
+Get users
+  svn checkout <path-to-svn-project-on-server>
+  svn log -q | awk -F '|' '/^r/ {sub("^ ", "", $2); sub(" $", "", $2); print $2" = "$2" <"$2">"}' | sort -u > users.txt
+
+Migrate
+  git svn clone --no-metadata --authors-file=users.txt <path-to-svn-project-onserver> <path>/<project-name>
+
+
+  svn checkout <path-to-svn-project-on-server>
+git svn clone --no-metadata --authors-file=users.txt https://10.0.1.22:8443/svn/Lifeware/trunk/Platform/Clients/Android/Services/EIServicesNetworkManager/ ./git/platform_package_ei_EIServicesNetworkManager
+
+
 *** REFERENCE
 Separating topic branches
 https://www.kernel.org/pub/software/scm/git/docs/howto/separating-topic-branches.txt
