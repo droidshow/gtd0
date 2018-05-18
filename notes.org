@@ -968,16 +968,23 @@ git filter-branch -d /tmp/git-rewrite.tmp --prune-empty --index-filter 'git rm -
 Install git-svn
   sudo apt-get install git-svn
 
-Get users
+Prepare migration area
+  mkdircd svn2git
+  mkdir svn git
+  mkdir ./git/<project-name>
+  cd ./svn
+
+Get usernames 
   svn checkout <path-to-svn-project-on-server>
-  svn log -q | awk -F '|' '/^r/ {sub("^ ", "", $2); sub(" $", "", $2); print $2" = "$2" <"$2">"}' | sort -u > users.txt
+  cd ./svn/<project-name>
+  svn log -q | awk -F '|' '/^r/ {sub("^ ", "", $2); sub(" $", "", $2); print $2" = "$2" <"$2">"}' | sort -u > ../../users.txt
+
+Modify users appropriates
+  cd ../..
+  emacs users.txt
 
 Migrate
-  git svn clone --no-metadata --authors-file=users.txt <path-to-svn-project-onserver> <path>/<project-name>
-
-
-  svn checkout <path-to-svn-project-on-server>
-git svn clone --no-metadata --authors-file=users.txt https://10.0.1.22:8443/svn/Lifeware/trunk/Platform/Clients/Android/Services/EIServicesNetworkManager/ ./git/platform_package_ei_EIServicesNetworkManager
+  git svn clone --no-metadata --authors-file=users.txt <path-to-svn-project-onserver> ./git/<project-name>
 
 
 *** REFERENCE
