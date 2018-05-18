@@ -304,6 +304,8 @@ https://stackoverflow.com/questions/16488216/graph-of-graphs-in-graphviz
 ** EMACS
 
 *** Launch agenda on start up
+runemacs.exe --funcall org-agenda-list
+
  (setq inhibit-splash-screen t)
  (org-agenda-list)
  (delete-other-windows)
