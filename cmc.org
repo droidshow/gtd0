@@ -43,14 +43,15 @@
 - Lights
 - Restrictions
 
-* SCHED Photography for BalaMahotsav
-  SCHEDULED: <2018-05-19 Sat 10:00-13:00>
-** SCHED Charge camera and free up card space
-   SCHEDULED: <2018-05-17 Thu>
 
 * CMC                                                                  
 
 ** COMPLETED TASKS 
+*** DONE Photography for BalaMahotsav
+    CLOSED: [2018-05-20 Sun 21:21] SCHEDULED: <2018-05-19 Sat 10:00-13:00>
+**** DONE Charge camera and free up card space
+     CLOSED: [2018-05-20 Sun 21:21] SCHEDULED: <2018-05-17 Thu>
+
 *** DONE Install new fire alaram
   CLOSED: [2018-03-11 Sun 14:10] SCHEDULED: <2018-03-11 Sun 11:30>
 - New mount with small diameter won't fit older one with center hole
@@ -746,7 +747,7 @@ Next year Dec 18, 2018
 Refer [[Cleaning Checklist]]
 
 ***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2018-05-20 Sun ++4w>
+      SCHEDULED: <2018-06-10 Sun ++4w>
       - State "CANCELLED"  from "SCHED"      [2018-04-24 Tue 14:52]
       - State "CANCELLED"  from "SCHED"      [2018-03-05 Mon 09:23]
       - State "CANCELLED"  from "SCHED"      [2018-02-05 Mon 11:39]
