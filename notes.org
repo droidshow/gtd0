@@ -591,6 +591,7 @@ Remote Branch
  git fetch --all; git branch -vv # Status of all branches and what it is tracking
  git push <remote> <branch>    # Share a branch with the git server
  git push <remote> <branch-name>:<alternate-branch-name> # Renaming a branch before pushing to server
+                                                         # Push to a different branch
  git merge <remote>/<branch>   # Merging changes from a remote branch
  git checkout -b <branch-name> <remote>/<branch-name> # Pulling a remote barnch as a local branch
  git checkout --track <remote>/<branch-name>          # Same as above
