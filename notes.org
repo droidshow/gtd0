@@ -1679,6 +1679,18 @@ https://www.raspberrypi.org/documentation/remote-access/vnc/README.md
 
 *** Static Ip, Raspberry pi
 https://raspberrypi.stackexchange.com/questions/37920/how-do-i-set-up-networking-wifi-static-ip-address
+*** WIFI
+update_config=1
+country=US
+
+network={
+        ssid=""
+        scan_ssid=1
+        psk=""
+        key_mgmt=WPA-PSK
+}
+
+
 *** SYSTEM
 Standalone Boot process
 https://github.com/raspberrypi/noobs/wiki/Standalone-partitioning-explained
