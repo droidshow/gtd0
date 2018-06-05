@@ -1,5 +1,49 @@
 ---------------------------------------------------------------------------------------------
-* STARTED Road crack filling (Puranji looking into this)
+* PROJ Setup for Sw. Chidatmanandaji
+:PROPERTIES:
+:CATEGORY: CMC-SW-Setup
+:END:
+** SCHED Wash peeta cloths
+   SCHEDULED: <2018-06-05 Tue>
+** Buy or borrow chair
+** Remove weed and clean up the flowerbed near the entrance
+** WAITING Check with Pallaviji if she can mind the cd and book table
+   SCHEDULED: <2018-06-05 Tue 18:00>
+** Poorna Khumbha arrangements
+** Aarathi
+** SCHED Send Mail
+   SCHEDULED: <2018-06-05 Tue 17:30>
+
+Peetha:
+ Chair:
+  Chair and table on the stage might not work out.
+  Is a suitable chair available to be borrowed ? I don't have a chair, if none of us have a suitable one we will have to buy one immediately.
+  Or worst case we can setup like we did for Sw. Shantanandaji, basically sit on layer of cloths on the stage, foot on step and covered table in front.
+  For more convnience we can get this 
+
+ Cloths:
+  Can anyone goto Ashram pick up the cloths box,  wash the cloths and return them, before Sunday ?
+
+CD and Books,
+ Balamurugan, instead of you setting up the book stall, I suggest you be on Swamiji's side constantly and let us know what he needs.
+ We will get someone else to mind the book stall or I will do it.
+
+Flower bed
+ Puranbhai, Is Marcos going to clean up the flowerbed near the entrance?
+
+Poorna Khumba
+ Who is going to do the Poorna Khumba ? (Keep Coconut-Kalasha, Aaarathi, Matchbox, Prayer text ready)
+
+Aarathi
+ Will there be Aarathi? At the end or beggining?
+
+Yajna Prasad
+ Are booklets available to be given as Yajna prasad on the last day? Who is giving it?
+ Do we need prasad (like almonds) for each day end after aarathi?
+
+
+* DONE Road crack filling (Puranji looking into this)
+  CLOSED: [2018-06-05 Tue 14:02]
 - Insurance
 - Quote for only filling the crack and whole 
 - Meet on weekend
@@ -1085,7 +1129,7 @@ Mail from Puran
 #+TAGS: { OFFICE(o) HOME(h) CHIN(m)} COMPUTER(c) PROJECT(p) 
 #+TAGS: READ(r) MOV(v)
 #+TAGS: GMAIL(g) MAIL(m) DIAL(d)
-#+SEQ_TODO:  SCHED(q) DO(w) STARTED(e) WAITING(r) APPT(t) | DONE(z) CANCELLED(x) DEFERRED(c)
+#+SEQ_TODO:  SCHED(q) DO(w) STARTED(e) WAITING(r) PROJ(t) | DONE(z) CANCELLED(x) DEFERRED(c)
 
 
 

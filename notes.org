@@ -2164,6 +2164,8 @@ Apps to allow multiple terminal sessions from single terminal
 also run process in the background even if the terminal session ends (much like noup)
  tmux 
  screen
+*** Modable hardware
+https://github.com/htruong/hackable-consumer-hardware
 *** Jenkins / Docker
 https://www.cloudbees.com/blog/get-started-jenkins-20-docker
 https://engineering.riotgames.com/news/putting-jenkins-docker-container
