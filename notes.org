@@ -2121,6 +2121,40 @@ sudo chown [u]:[u] /media/storage
 *** Interrup counter
 vmstat
 
+** VIRTUAL BOX
+*** Virtual Box Ubuntu Linux
+**** Add virtual disk
+In the Virtual Box manager
+ Settings -> Storage -> Add HardDisk (Create a vdi file and name it)
+ Boot
+In gparted 
+ Device -> Create partition table
+ Create new ext4 partition (label the drive)
+In terminal
+ sudo blkid
+ sudo emacs /etc/fstab
+ UUID=<UUID from above> <path to mount to> ext4 defaults 0 2
+ mount -a
+ 
+**** Mount shared drive
+sudo mount -t vboxsf vmshared ~/host
+sshfs sbekal@10.0.4.151:/home/sbekal/ /home/s/om/projs/buildserver
+
+**** Virtual Box Guest Addition
+Download the guest addition for each update from here:
+http://download.virtualbox.org/virtualbox
+Devices -> Mount Guest Addition
+cd media/s/VBOXADDITIONS_*
+sudo ./VBoxLinuxAdditions.run 
+Restart
+
+**** ls: cannot access 'buildserver': Transport endpoint is not connected
+fusermount -u YOUR_MNT_DIR.
+//If this doesn't do the trick, do 
+sudo umount -l YOUR_MNT_DIR.
+
+
+
 ** VLAN
 https://wiki.wireshark.org/VLAN
 https://www.pluralsight.com/blog/tutorials/cisco-ccna-vlan
