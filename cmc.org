@@ -3,8 +3,8 @@
 :PROPERTIES:
 :CATEGORY: CMC-SW-Setup
 :END:
-** SCHED Wash peeta cloths
-   SCHEDULED: <2018-06-09 Sat>
+** DONE Wash peeta cloths
+   CLOSED: [2018-06-10 Sun 23:27] SCHEDULED: <2018-06-09 Sat>
 ** Buy or borrow chair
 ** Remove weed and clean up the flowerbed near the entrance
 ** DONE Check with Pallaviji if she can mind the cd and book table
