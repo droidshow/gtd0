@@ -257,6 +257,28 @@ https://stackoverflow.com/questions/3232718/how-to-add-a-system-service-to-the-a
 https://stackoverflow.com/questions/19926657/java-method-is-not-invoked-when-calling-it-from-native-pthread
 https://github.com/YaMike/JavaServiceTest
 
+** BUILDROOT
+
+*** Install dependencies
+For menuconfig/nconfig : ncurses
+For xconfig : Qt
+For gconfig : Gtk
+
+*** configs
+- make menuconfig
+- make nconfig
+- make xconfig
+- make gconfig
+*** build
+make
+make 2>&1 | tee build_$(date +%F_%H%M).log
+*** output
+output/images
+- root filesystem image/s
+- kernel image
+- device tree blob/s
+- bootloader image/s
+
 
 ** BUILD SYSTEMS
 *** Meson-Ninja
