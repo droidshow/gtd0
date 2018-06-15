@@ -494,7 +494,7 @@ Pushing changes to remote
  git push origin master
 
 Show remote details
- git remtoe show <remote-name>
+ git remote show <remote-name>
 
 Rename a remote
  git remote rename <org-name> <new-name>
