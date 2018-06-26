@@ -794,8 +794,7 @@ Next year Dec 18, 2018
      :END:
 Refer [[Cleaning Checklist]]
 
-***** SCHED Clean Vaccum cleaner                                :MAINTENANCE:
-      SCHEDULED: <2018-06-24 Sun ++4w>
+***** DO Clean Vaccum cleaner                                   :MAINTENANCE:
       - State "CANCELLED"  from "SCHED"      [2018-04-24 Tue 14:52]
       - State "CANCELLED"  from "SCHED"      [2018-03-05 Mon 09:23]
       - State "CANCELLED"  from "SCHED"      [2018-02-05 Mon 11:39]
@@ -824,8 +823,11 @@ Refer [[Cleaning Checklist]]
       :LAST_REPEAT: [2018-04-03 Tue 07:52]
       :END:
 
-***** SCHED Put mice repellant around the building
-      SCHEDULED: <2018-05-27 Sun ++1y>
+***** DO Put mice repellant around the building
+      - State "CANCELLED"  from "SCHED"      [2018-06-26 Tue 12:10]
+      :PROPERTIES:
+      :LAST_REPEAT: [2018-06-26 Tue 12:10]
+      :END:
 
 *** REMINDER
 **** SCHED CMC-EC Meeeting                               :CMC:MOBILE:MEETING:
@@ -1084,7 +1086,7 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
 *** Way of Working
 
 ** SCHED SUPPLIES (required marked X)                            :@ECMEETING:
-   SCHEDULED: <2018-06-26 Tue 21:00 ++2w>
+   - State "CANCELLED"  from "SCHED"      [2018-06-26 Tue 11:58]
    - State "CANCELLED"  from "SCHED"      [2018-06-13 Wed 10:25]
    - State "CANCELLED"  from "SCHED"      [2018-05-29 Tue 18:49]
    - State "DONE"       from "SCHED"      [2018-05-15 Tue 17:07]
@@ -1098,7 +1100,7 @@ https://drive.google.com/file/d/136URixj2fYhaKVR0K7owwQlCkc_Jx8VN/view?usp=drive
    - State "DONE"       from "SCHED"      [2018-01-25 Thu 17:16]
    :PROPERTIES:
    :CUSTOM_ID: cmc-supplies
-   :LAST_REPEAT: [2018-06-13 Wed 10:25]
+   :LAST_REPEAT: [2018-06-26 Tue 11:58]
    :END:
 - [ ] Kitchen Banquet roll
 - [ ] Kitchen paper napkin
