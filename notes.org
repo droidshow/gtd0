@@ -40,6 +40,28 @@ Interface with Google Actions for perform custom actions
 ** ANDROID
 https://developer.android.com/training/basics/firstapp/running-app.html
 
+*** Android Init
+/init.rc
+/init.<hardware>.rc
+https://android.googlesource.com/platform/system/core/+/master/init/README.md
+
+To start a service which is declared in the init.rc file, 
+  change the "ctl.start" system property with following commands :
+  In c file :
+    property_set("ctl.start", "<service_name>");
+  In java :
+    SystemProperties.set("ctl.start", "<service_name>");
+
+This implies that your activity has system permissions (in the manifest) :
+android:sharedUserId="android.uid.system"
+and is signed by your system key (or put platform in the Android.mk)
+
+To stop the service use following commands :
+ property_set("ctl.stop", "<service_name>");
+or
+ SystemProperties.set("ctl.stop", "<service_name>");
+
+*** Android Boot
 *** AOSP customization
 https://elinux.org/images/2/29/Customizing_AOSP_for_my_Device.pdf
 https://developer.android.com/guide/topics/resources/providing-resources.html#AlternativeResources
