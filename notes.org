@@ -2099,6 +2099,27 @@ http://www.c-cor.com
 http://www.atxincorporated.com
 http://www.alkenmrs.com
 
+*** TELETEXT SUBTITLE
+
+gstteletextdec
+https://gstreamer.freedesktop.org/data/doc/gstreamer/head/gst-plugins-bad/html/gst-plugins-bad-plugins-teletextdec.html
+
+
+gstdvbsuboverlay
+https://gstreamer.freedesktop.org/documentation/design/subtitle-overlays.html
+https://gstreamer.freedesktop.org/data/doc/gstreamer/head/gst-plugins-base-plugins/html/gst-plugins-base-plugins-subtitleoverlay.html
+
+Teletext in DVB Stream
+https://www.etsi.org/deliver/etsi_en/300400_300499/300472/01.03.01_60/en_300472v010301p.pdf
+
+Subtitling (DVB bitmapped subtitle)
+http://www.bjpace.com.cn/data/tec/tec-DVB/DVB-20BlueBooks-20Standards/Specifications-20and-20Standards/subtitling/dvb-sub/a009.pdf
+
+example
+gst/tests/examples/mpegts/ts-parser.c
+
+*** FRAMEWORKS
+Comparison: https://www.ulduzsoft.com/2016/06/qtmultimedia-ffmpeg-gstreamer-comparing-multimedia-frameworks/
 ** UBOOT
 http://www.denx.de/wiki/U-Boot/WebHome
 
