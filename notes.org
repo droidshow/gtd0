@@ -394,20 +394,22 @@ git config --global alias.lod "log --oneline --decorate"
 git config --global alias.glod "log --oneline --decorate --graph --all"
 git config --global alias.difs "difftool --dir-diff --no-symlinks"
 git config --global alias.co "checkout"
+git config --global alias.s "status --short"
+
 .gitignore
-The rules for the patterns you can put in the .gitignore file are as follows:
+ The rules for the patterns you can put in the .gitignore file are as follows:
  Blank lines or lines starting with # are ignored.
  Standard glob patterns work.
  You can start patterns with a forward slash (/) to avoid recursivity.
  You can end patterns with a forward slash (/) to specify a directory.
  You can negate a pattern by starting it with an exclamation point (!).
 
-Glob patterns are like simplified regular expressions that shells use. 
-An asterisk (*) matches zero or more characters; 
-[abc] matches any character inside the brackets (in this case a, b, or c); 
-a question mark (?) matches a single character; 
-and brackets enclosing characters separated by a hyphen ([0-9]) matches any character between them (in this case 0 through 9). 
-You can also use two asterisks to match nested directories; a/**/z would match a/z, a/b/z, a/b/c/z, and so on.
+ Glob patterns are like simplified regular expressions that shells use. 
+ An asterisk (*) matches zero or more characters; 
+ [abc] matches any character inside the brackets (in this case a, b, or c); 
+ a question mark (?) matches a single character; 
+ and brackets enclosing characters separated by a hyphen ([0-9]) matches any character between them (in this case 0 through 9). 
+ You can also use two asterisks to match nested directories; a/**/z would match a/z, a/b/z, a/b/c/z, and so on.
 
 
 *** Basics
@@ -416,11 +418,11 @@ Initializing a repo
 
 Adding files to be tracked
  git add <filename | directory >
-Giving Directory name will add the entire contents of the directory into tracking
-Its a multi-purpose command it can
-Add file for tracking
-Add file for staging
-Merg-conflicted files as resolved
+  NOTE: Giving Directory name will add the entire contents of the directory into tracking
+  Its a multi-purpose command it can
+- Add file for tracking
+- Add file for staging
+- Merg-conflicted files as resolved
 
 Committing the changes
  git commit -m 'some commit message'
