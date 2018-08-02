@@ -122,6 +122,8 @@ sudo apt-get install qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils
   sudo dpkg --add-architecture i386
   sudo apt-get -qqy update
   sudo apt-get -qqy install libncurses5:i386 libstdc++6:i386 zlib1g:i386
+**** Multiple versions of Android Studio on same PC
+Make sure to enable and change the plugin and config locations in <studion install directory>/bin/idea.properties
 
 *** Android System Service in 5 example, Adding New 
 https://www.linaro.org/blog/adding-a-new-system-service-to-android-5-tips-and-how-to/
@@ -2201,8 +2203,10 @@ In terminal
  sudo blkid
  sudo emacs /etc/fstab
  UUID=<UUID from above> <path to mount to> ext4 defaults 0 2
- mount -a
- 
+ sudo mount -a
+**** Increasing virtual drive vdi size
+VBoxManage.exe modifyhd <name>.vdi --resize 100000
+
 **** Mount shared drive
 sudo mount -t vboxsf vmshared ~/host
 sshfs sbekal@10.0.4.151:/home/sbekal/ /home/s/om/projs/buildserver
