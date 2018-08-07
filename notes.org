@@ -575,7 +575,7 @@ Deleting alias
 git config --global alias.lod "log --oneline --decorate"
 git config --global alias.glod "log --oneline --decorate --graph --all"
 
-*** *Branching*
+*** Branching
 Light weigth branching
 Branch names are pointers to commit blobs
 Head is a pointer to the current Branch pointer
@@ -604,6 +604,11 @@ Create branch and switch to branch
 Create branch from some other point
  git branch branchname <sha1-of-commit>
  git branch branchname HEAD~3
+
+Checking only the diff introduced in topic branch (even when the master has moved)
+ git diff $(git merge-base contrib master)
+ OR
+ git diff master...contrib
 
 Merging
  git checkout <master>
