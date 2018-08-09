@@ -1312,6 +1312,45 @@ git clone git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
 *** To find the kernel version of a particular commit
 In Linux source code
 git show <commit>:Makefile
+*** SHARED LIBRARIES .so
+**** soname
+When the linker generates an executable (or another shared library), it searches for libraries requested using -l by prefixing lib and suffixing .so to the name. For example, if you ask for -lcrypto then it searches for libcrypto.so.
+
+Once the library has been found, the linker reads a piece of metadata from the library called its soname. The soname then gets recorded into the executable being built, and that's the name that will be used in order to search for the same library again at run time. The soname can of course be different from the name under which the library was actually found at link time.
+
+The use case for this feature is the ability to have multiple different, incompatible versions of a library installed on the system at the same time. Here is how it is generally used.
+
+First, let me describe what would happen in the absence of this convention:
+
+The development headers (.h files) are coupled to a specific version of the library, and the .so file contains that version too:
+
+/usr/include/mylibrary.h
+/usr/lib/libmylibrary.so
+An application myapp has been compiled against this version of the library and it loads /usr/lib/libmylibrary.so at run time.
+
+Later, the library gets upgraded to a new version. Both the .h and .so file are replaced with the new version. Unfortunately, the new version has an incompatible ABI.
+
+Now, when myapp is executed, it crashes or exhibits undefined behaviour because it was compiled against one version with one ABI but it loaded a different version at run time.
+
+What happens with the soname convention:
+
+The library is installed as follows:
+
+/usr/include/mylibrary.h
+/usr/lib/libmylibrary.so -> libmylibrary.so.1
+/usr/lib/libmylibrary.so.1
+And /usr/lib/libmylibrary.so.1 has embedded within it the soname libmylibrary.so.1.
+
+When myapp is built, it locates /usr/lib/libmylibrary.so but the linker follows the symlink and actually loads /usr/lib/libmylibrary.so.1. Furthermore, the soname libmylibrary.so.1 is what actually gets recorded inside myapp. At run time, myapp loads /usr/lib/libmylibrary.so.1 directly, bypassing the symlink.
+
+Later, the library gets upgraded to a new version with an incompatible ABI. Both the .h and .so file are replaced with the new version. A new file libmylibrary.so.2 appears. The libmylibrary.so.1 from the old version is left alone.
+
+/usr/include/mylibrary.h
+/usr/lib/libmylibrary.so -> libmylibrary.so.2
+/usr/lib/libmylibrary.so.1
+/usr/lib/libmylibrary.so.2
+Now, when myapp is executed, is continues to load libmylibrary.so.1 and still functions as expected. But if other new apps are installed or myapp itself is recompiled, the symlink will be followed and the new version will be used.
+
 ** NETWORKING
 Wireshark TCP / IP / ETHERNET packet analysis
 http://networkstatic.net/what-are-ethernet-ip-and-tcp-headers-in-wireshark-captures/
