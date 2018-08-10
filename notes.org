@@ -1241,6 +1241,8 @@ https://wiki.archlinux.org/index.php/S.M.A.R.T.
 
 
 ** LINUX
+*** Compiling C C++
+https://gist.github.com/gubatron/32f82053596c24b6bec6
 *** FHS - File Hierarchy Standard
 https://wiki.debian.org/FilesystemHierarchyStandard
 
