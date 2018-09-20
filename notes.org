@@ -1357,6 +1357,9 @@ Now, when myapp is executed, is continues to load libmylibrary.so.1 and still fu
 Wireshark TCP / IP / ETHERNET packet analysis
 http://networkstatic.net/what-are-ethernet-ip-and-tcp-headers-in-wireshark-captures/
 
+IPTABLES / NAT
+https://www.netfilter.org/documentation/HOWTO/NAT-HOWTO.html
+
 ** Oracle
 https://docs.oracle.com/cd/B28359_01/index.htm
 ** DO RASPBERRYPI 
