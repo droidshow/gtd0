@@ -1,22 +1,77 @@
 ---------------------------------------------------------------------------------------------
-* DONE Setup for Sw. Chidatmanandaji
+
+* Improvements
+
+*** Website
+ - Have accurate open hours in website, google, fb
+ - Remove old events (Sw Swaroopanandaji visit)
+ - Have a link to Balavihar program in the home page (apart from dropdown tab)
+ - Have a Register / Join  button prominently on Home page
+ - Have an inviting inclusive message like "Come  our growing family"
+
+*** Security
+ - Have a training/re-training session on how to operate the security system to minimize false alarams
+
+*** Payment
+ - Payment receiving
+ - Make receiving payments and donations as streamlined as possible.
+ - From the moment a patron conveys desire to pay and the transaction completes should not take more than 3 mintues (start with 5 minutes and reach 3 minutes)
+
+*** Cleanliness
+ - Print signup sheet for cleaning activities and place them in room (re-use the big sheet that SB made last year)
+ - Display how much percentage of cleanup activities was done in previous weeks and track progress
+
+*** Timeliness
+ - Measure how many people come on time and display graph in assembly to show trend and set target
+
+*** Communication
+ - Have an upto date org chart
+ - Have google groups and subgroups so that there is only one id to communicate.
+ - Update google group members when changes happen
+ - Use trello/slack for communication which acts as auto documentation to see what has been happening/decisions/upcoming etc.
+ - Document all activities
+ - EC Meetings should happen weekly. Easier to remember. On a once two week schedule Sometimes when meetings are cancelled there will be 4 weeks between meeting.
+
+*** Use Non-profit benefits
+ - Renew 501(c)(3)
+ - Enroll with techsoup.org
+ - Explore googles non profit offering
+
+*** Contacts / Mail ids
+ - Software / hardoware
+ - Create role based mail ids (e.g cmc.board@, cmc.accounts@, cmc.ec@, etc)
+ - Setup role based mail ids to forward to common id
+
+*** Vendors 
+ - Update vendors to use role based mail ids 
+
+*** Events
+ - Generic Scripts/checklist for events
+ - Have de-brief after events to learn what went well and what did not. Capture them and take action/ up date scripts
+
+
+
+* CMC                                                                  
+
+** COMPLETED TASKS 
+*** DONE Setup for Sw. Chidatmanandaji
   CLOSED: [2018-06-12 Tue 14:21]
 :PROPERTIES:
 :CATEGORY: CMC-SW-Setup
 :END:
-** DONE Wash peeta cloths
-   CLOSED: [2018-06-10 Sun 23:27] SCHEDULED: <2018-06-09 Sat>
-** CANCELLED Buy or borrow chair
-   CLOSED: [2018-06-12 Tue 14:21]
-** DONE Remove weed and clean up the flowerbed near the entrance
-   CLOSED: [2018-06-12 Tue 14:21]
-** DONE Check with Pallaviji if she can mind the cd and book table
-   CLOSED: [2018-06-05 Tue 23:10] SCHEDULED: <2018-06-05 Tue 18:00>
-** DONE Poorna Khumbha arrangements
-   CLOSED: [2018-06-12 Tue 14:21]
-** CANCELLED Aarathi
-   CLOSED: [2018-06-12 Tue 14:21]
-** DONE Send Mail
+**** DONE Wash peeta cloths
+     CLOSED: [2018-06-10 Sun 23:27] SCHEDULED: <2018-06-09 Sat>
+**** CANCELLED Buy or borrow chair
+     CLOSED: [2018-06-12 Tue 14:21]
+**** DONE Remove weed and clean up the flowerbed near the entrance
+     CLOSED: [2018-06-12 Tue 14:21]
+**** DONE Check with Pallaviji if she can mind the cd and book table
+     CLOSED: [2018-06-05 Tue 23:10] SCHEDULED: <2018-06-05 Tue 18:00>
+**** DONE Poorna Khumbha arrangements
+     CLOSED: [2018-06-12 Tue 14:21]
+**** CANCELLED Aarathi
+     CLOSED: [2018-06-12 Tue 14:21]
+**** DONE Send Mail
    CLOSED: [2018-06-05 Tue 23:07] SCHEDULED: <2018-06-05 Tue 17:30>
 
 Peetha:
@@ -45,41 +100,41 @@ Yajna Prasad
  Are booklets available to be given as Yajna prasad on the last day? Who is giving it?
  Do we need prasad (like almonds) for each day end after aarathi?
 
-
-* DONE Road crack filling (Puranji looking into this)
+*** DONE Road crack filling (Puranji looking into this)
   CLOSED: [2018-06-05 Tue 14:02]
 - Insurance
 - Quote for only filling the crack and whole 
 - Meet on weekend
 - Payment after work based on invoice
-** DONE Send Kyles contact details to Puranbhai
-   CLOSED: [2018-03-05 Mon 17:52]
-* Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
+**** DONE Send Kyles contact details to Puranbhai
+     CLOSED: [2018-03-05 Mon 17:52]
+*** Replace all exit signs with new model batteries that last 15-20 years :@ARCHANA:
 - Check if all signs need to be replaced or just the one without battery backup
 - Check if Marcos is going to do it
 - Find where the cutoff is for the display sign
-* Shower tab not working                                              :TOFIX:
-* Consolidate mails to cmc.s
+*** Shower tab not working                                            :TOFIX:
+*** Consolidate mails to cmc.s
 - Hoffman
 - ComfortXpress
 - Scott
-* SCHED Project Mukhya Swamiji visit :PROEJCT:MUKHYASWAMIJI:
-** CANCELLED Painting the facility                            :MUKHYASWAMIJI:
-   CLOSED: [2018-04-05 Thu 17:25]
-** SCHED Replace stained ceiling tiles, take sample for color matching and tax rebate :MUKHYASWAMIJI:
-   DEADLINE: <2018-08-12 Sun> SCHEDULED: <2018-08-05 Sun ++1d>
-** SCHED Inform Marcos to Landscape cleanup for cleanup on 15th :MUKHYASWAMIJI:
-   DEADLINE: <2018-08-15 Wed> SCHEDULED: <2018-08-01 Wed ++1d>
-** SCHED Reach out to neighbours about Mukhya Swamiji visit   :MUKHYASWAMIJI:
-   SCHEDULED: <2018-07-18 Wed>
-** SCHED Ensure A/V broadcast is working on the entrance and the kitchen TV :@ARCHANA:MUKYHASWAMIJI:
-   SCHEDULED: <2018-08-05 Sun ++1d>
-** SCHED Power wash the exterior including the signage
-   SCHEDULED: <2018-08-12 Sun ++1d>
+*** DONE Project Mukhya Swamiji visit                 :PROEJCT:MUKHYASWAMIJI:
+    CLOSED: [2018-09-25 Tue 15:18]
+**** CANCELLED Painting the facility                          :MUKHYASWAMIJI:
+     CLOSED: [2018-04-05 Thu 17:25]
+**** Replace stained ceiling tiles, take sample for color matching and tax rebate :MUKHYASWAMIJI:
+     DEADLINE: <2018-08-12 Sun> SCHEDULED: <2018-08-05 Sun ++1d>
+**** Inform Marcos to Landscape cleanup for cleanup on 15th   :MUKHYASWAMIJI:
+     DEADLINE: <2018-08-15 Wed> SCHEDULED: <2018-08-01 Wed ++1d>
+**** Reach out to neighbours about Mukhya Swamiji visit       :MUKHYASWAMIJI:
+     SCHEDULED: <2018-07-18 Wed>
+**** Ensure A/V broadcast is working on the entrance and the kitchen TV :@ARCHANA:MUKYHASWAMIJI:
+     SCHEDULED: <2018-08-05 Sun ++1d>
+**** Power wash the exterior including the signage
+     SCHEDULED: <2018-08-12 Sun ++1d>
 
 ---------------------------------------------------------------------------------------------
 
-** Media setup at the convention center
+**** Media setup at the convention center
 - Lapel mic
 - Hand held wireless mic
 - Podium
@@ -91,10 +146,6 @@ Yajna Prasad
 - Lights
 - Restrictions
 
-
-* CMC                                                                  
-
-** COMPLETED TASKS 
 *** DONE Photography for BalaMahotsav
     CLOSED: [2018-05-20 Sun 21:21] SCHEDULED: <2018-05-19 Sat 10:00-13:00>
 **** DONE Charge camera and free up card space
