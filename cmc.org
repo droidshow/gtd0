@@ -25,6 +25,9 @@
  - Measure how many people come on time and display graph in assembly to show trend and set target
 
 *** Communication
+ - Communicate to new family org structure
+ - Reminder to use smile.amazon.
+
  - Have an upto date org chart
  - Have google groups and subgroups so that there is only one id to communicate.
  - Update google group members when changes happen
