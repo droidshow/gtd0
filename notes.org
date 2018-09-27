@@ -39,7 +39,7 @@ Interface with Google Actions for perform custom actions
 
 ** ANDROID
 https://developer.android.com/training/basics/firstapp/running-app.html
-
+ftp://ftp.wayne.edu/ldp/en/Linux-Android-HOWTO/Linux-Android-HOWTO-single.html
 *** Android Init
 /init.rc
 /init.<hardware>.rc
