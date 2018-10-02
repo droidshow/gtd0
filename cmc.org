@@ -2,6 +2,7 @@
 
 * Improvements
 
+*** Rework on 501(c)3
 *** Website
  - Have accurate open hours in website, google, fb
  - Remove old events (Sw Swaroopanandaji visit)
