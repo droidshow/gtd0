@@ -281,6 +281,13 @@ https://stackoverflow.com/questions/3232718/how-to-add-a-system-service-to-the-a
 https://stackoverflow.com/questions/19926657/java-method-is-not-invoked-when-calling-it-from-native-pthread
 https://github.com/YaMike/JavaServiceTest
 
+** BASH
+${MYVAR#pattern}       # delete shortest match of pattern from the beginning
+${MYVAR##pattern}      # delete longest match of pattern from the beginning
+${MYVAR%pattern}       # delete shortest match of pattern from the end
+${MYVAR%%pattern}      # delete longest match of pattern from the end
+${MYVAR/search/replace}
+
 ** BUILDROOT
 
 *** Install dependencies
