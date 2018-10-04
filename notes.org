@@ -310,7 +310,6 @@ output/images
 - device tree blob/s
 - bootloader image/s
 
-
 ** BUILD SYSTEMS
 *** Meson-Ninja
 http://mesonbuild.com
@@ -1049,6 +1048,9 @@ Modify users appropriates
 Migrate
   git svn clone --no-metadata --authors-file=users.txt <path-to-svn-project-onserver> ./git/<project-name>
 
+*** File permission
+- git ls-files --stage # Check file permission
+- git update-index --chmod=+x 'filename'  # Make filename executable
 
 *** REFERENCE
 Separating topic branches
@@ -1359,6 +1361,9 @@ Later, the library gets upgraded to a new version with an incompatible ABI. Both
 /usr/lib/libmylibrary.so.1
 /usr/lib/libmylibrary.so.2
 Now, when myapp is executed, is continues to load libmylibrary.so.1 and still functions as expected. But if other new apps are installed or myapp itself is recompiled, the symlink will be followed and the new version will be used.
+
+*** Netfilter / Iptables
+https://www.netfilter.org/
 
 ** NETWORKING
 Wireshark TCP / IP / ETHERNET packet analysis
