@@ -2,7 +2,9 @@
 
 * Improvements
 
-*** Rework on 501(c)3
+*** CANCELLED Rework on 501(c)3
+    CLOSED: [2018-10-07 Sun 21:44]
+
 *** Website
  - Have accurate open hours in website, google, fb
  - Remove old events (Sw Swaroopanandaji visit)
@@ -11,12 +13,12 @@
  - Have an inviting inclusive message like "Come  our growing family"
 
 *** Security
- - Have a training/re-training session on how to operate the security system to minimize false alarams
+ - Have a training/re-training session on how to operate the security system to minimize false alarms
 
 *** Payment
  - Payment receiving
  - Make receiving payments and donations as streamlined as possible.
- - From the moment a patron conveys desire to pay and the transaction completes should not take more than 3 mintues (start with 5 minutes and reach 3 minutes)
+ - From the moment a patron conveys desire to pay and the transaction completes should not take more than 3 minutes (start with 5 minutes and reach 3 minutes)
 
 *** Cleanliness
  - Print signup sheet for cleaning activities and place them in room (re-use the big sheet that SB made last year)
@@ -52,6 +54,8 @@
 *** Events
  - Generic Scripts/checklist for events
  - Have de-brief after events to learn what went well and what did not. Capture them and take action/ up date scripts
+
+*** Project "My Chinmaya"
 
 
 
@@ -1219,7 +1223,7 @@ Mail from Puran
 
 * org-mode configuration :noexport:
 #+AUTHOR: SPB
-#+TITLE: CMC Facility Task List
+#+TITLE: CMC Task List
 #+OPTIONS: toc:2
 #+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
