@@ -1,16 +1,33 @@
 ---------------------------------------------------------------------------------------------
 
-* Improvements
+* STARTED Improvements
 
 *** CANCELLED Rework on 501(c)3
     CLOSED: [2018-10-07 Sun 21:44]
+- Spoke with the President and the 501(c)3 is already changed to reflect the new address.
+*** STARTED Website
+ - [ ] Have accurate open hours in website, google, fb
+ - [ ] Remove old events (Sw Swaroopanandaji visit)
+ - [ ] Have a link to Balavihar program in the home page (apart from dropdown tab)
+ - [ ] Have a Register / Join  button prominently on Home page
+ - [ ] Have an inviting inclusive message like "Come  our growing family"
+CA also known as CMC offers weekly Bala Vihar classes, adult study groups and language classes in Samskritam. Also regularly conducts discourses on Hindu scriptures, celebrates Hindu festivals and has a library and book store of spiritual scriptures for all ages.
+CA was started in <TODO> with the blessings of Pujya Guruji Swami Tejomayanda, under the guidance from Swami Sharananda and Swami Shantananda. Since its inception, it has grown from handful families to over 90 families today. 
+CM makes available the ageless wisdon of Vedanta, the knowledge of the One Reality to anyone interested, and provides the tool to realize that wisdom in ones life. 
+<Brochure PDF / PNG>
 
-*** Website
- - Have accurate open hours in website, google, fb
- - Remove old events (Sw Swaroopanandaji visit)
- - Have a link to Balavihar program in the home page (apart from dropdown tab)
- - Have a Register / Join  button prominently on Home page
- - Have an inviting inclusive message like "Come  our growing family"
+**** WAITING Mail known weekday openers                         :GMAIL:ONLINE:
+     SCHEDULED: <2018-10-10 Wed 18:00>
+
+Monday - 18:00 to 19:30 - Bala
+Tuesday - ?? - ??
+Wednesday - ?? - Mahesh Bhai
+Thursday - ?? - Manu Bhai
+Friday - ?? -
+Saturday - ?? - ??
+Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
+
+
 
 *** Security
  - Have a training/re-training session on how to operate the security system to minimize false alarms
@@ -58,6 +75,28 @@
 *** Project "My Chinmaya"
 
 
+*** Someday
+**** Tools
+https://www.idealware.org/
+https://www.techsoup.org/
+
+***** Conferencing
+join.me - $150
+Google hangouts
+gotomeeting - $468
+https://www.freeconferencecall.com/free-nonprofit-software
+
+***** Learning Management System
+
+**** 
+* Outstanding $100 from Rakheeji
+** WAITING Check with Treasurer and Librarian
+   SCHEDULED: <2018-10-10 Wed>
+** Check with Rakheeji
+Hari Om Rakheeji,
+
+Thanks for all your contributions to the Mission we really appreciate it. 
+* WAITING CD copy of Mr Venkat's CD purchase
 
 * CMC                                                                  
 
