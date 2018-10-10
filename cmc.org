@@ -11,13 +11,10 @@
  - [ ] Have a link to Balavihar program in the home page (apart from dropdown tab)
  - [ ] Have a Register / Join  button prominently on Home page
  - [ ] Have an inviting inclusive message like "Come  our growing family"
-CA also known as CMC offers weekly Bala Vihar classes, adult study groups and language classes in Samskritam. Also regularly conducts discourses on Hindu scriptures, celebrates Hindu festivals and has a library and book store of spiritual scriptures for all ages.
-CA was started in <TODO> with the blessings of Pujya Guruji Swami Tejomayanda, under the guidance from Swami Sharananda and Swami Shantananda. Since its inception, it has grown from handful families to over 90 families today. 
-CM makes available the ageless wisdon of Vedanta, the knowledge of the One Reality to anyone interested, and provides the tool to realize that wisdom in ones life. 
-<Brochure PDF / PNG>
 
-**** WAITING Mail known weekday openers                         :GMAIL:ONLINE:
-     SCHEDULED: <2018-10-10 Wed 18:00>
+
+**** DONE Mail known weekday openers                           :GMAIL:ONLINE:
+     CLOSED: [2018-10-10 Wed 12:14] SCHEDULED: <2018-10-10 Wed 18:00>
 
 Monday - 18:00 to 19:30 - Bala
 Tuesday - ?? - ??
@@ -28,6 +25,13 @@ Saturday - ?? - ??
 Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
 
 
+**** WAITING Check with President on the inaugaration day         :PRESIDENT:
+     SCHEDULED: <2018-10-12 Fri>
+**** SCHED Send mail to Webadmin with correction               :GMAIL:ONLINE:
+     SCHEDULED: <2018-10-10 Wed>
+
+**** SCHED Submit correction to Google :GOOGLE:ONLINE:
+     SCHEDULED: <2018-10-12 Fri>
 
 *** Security
  - Have a training/re-training session on how to operate the security system to minimize false alarms
@@ -88,19 +92,23 @@ https://www.freeconferencecall.com/free-nonprofit-software
 
 ***** Learning Management System
 
-**** 
-* Outstanding $100 from Rakheeji
-** WAITING Check with Treasurer and Librarian
-   SCHEDULED: <2018-10-10 Wed>
-** Check with Rakheeji
-Hari Om Rakheeji,
+* STARTED Outstanding $100 from Rakheeji
+** DONE Check with Treasurer and Librarian
+   CLOSED: [2018-10-10 Wed 12:11] SCHEDULED: <2018-10-10 Wed>
+** WAITING CHeck with EC president :ECPRESIDENT:
+   SCHEDULED: <2018-10-12 Fri>
+** SCHED Check with Rakheeji
+   SCHEDULED: <2018-10-12 Fri>
 
-Thanks for all your contributions to the Mission we really appreciate it. 
-* WAITING CD copy of Mr Venkat's CD purchase
-
+* WAITING Welcome message on phone                                :PRESIDENT:
+  SCHEDULED: <2018-10-12 Fri>
 * CMC                                                                  
 
 ** COMPLETED TASKS 
+*** CANCELLED CD copy of Mr Venkat's CD purchase
+  CLOSED: [2018-10-10 Wed 12:12]
+- No reply to mail
+
 *** DONE Setup for Sw. Chidatmanandaji
   CLOSED: [2018-06-12 Tue 14:21]
 :PROPERTIES:
