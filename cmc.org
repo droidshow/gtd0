@@ -25,13 +25,14 @@ Saturday - ?? - ??
 Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
 
 
-**** WAITING Check with President on the inaugaration day         :PRESIDENT:
-     SCHEDULED: <2018-10-12 Fri>
-**** SCHED Send mail to Webadmin with correction               :GMAIL:ONLINE:
-     SCHEDULED: <2018-10-10 Wed>
+**** DONE Check with President on the inaugaration day            :PRESIDENT:
+     CLOSED: [2018-10-12 Fri 15:40] SCHEDULED: <2018-10-12 Fri>
+**** WAITING Send mail to Webadmin with correction             :GMAIL:ONLINE:
+     SCHEDULED: <2018-10-14 Sun>
 
-**** SCHED Submit correction to Google :GOOGLE:ONLINE:
-     SCHEDULED: <2018-10-12 Fri>
+**** SCHED Submit correction to Google :GOOGLE:ONLINE:HOME:
+     SCHEDULED: <2018-10-12 Fri 17:30>
+- server fault while attempting to send the correction
 
 *** Security
  - Have a training/re-training session on how to operate the security system to minimize false alarms
@@ -59,10 +60,12 @@ Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
  - Document all activities
  - EC Meetings should happen weekly. Easier to remember. On a once two week schedule Sometimes when meetings are cancelled there will be 4 weeks between meeting.
 
-*** Use Non-profit benefits
+*** STARTED Use Non-profit benefits
  - Renew 501(c)(3)
  - Enroll with techsoup.org
  - Explore googles non profit offering
+**** SCHED Recover password from President                        :PRESIDENT:
+     SCHEDULED: <2018-10-12 Fri 17:30>
 
 *** Contacts / Mail ids
  - Software / hardoware
@@ -95,13 +98,14 @@ https://www.freeconferencecall.com/free-nonprofit-software
 * STARTED Outstanding $100 from Rakheeji
 ** DONE Check with Treasurer and Librarian
    CLOSED: [2018-10-10 Wed 12:11] SCHEDULED: <2018-10-10 Wed>
-** WAITING CHeck with EC president :ECPRESIDENT:
-   SCHEDULED: <2018-10-12 Fri>
+** DONE CHeck with EC president                                 :ECPRESIDENT:
+   CLOSED: [2018-10-12 Fri 10:39] SCHEDULED: <2018-10-12 Fri>
+- No-reply to whatsapp message
 ** SCHED Check with Rakheeji
-   SCHEDULED: <2018-10-12 Fri>
+   SCHEDULED: <2018-10-12 Fri 17:30 ++1w>
 
 * WAITING Welcome message on phone                                :PRESIDENT:
-  SCHEDULED: <2018-10-12 Fri>
+  SCHEDULED: <2018-10-14 Sun 17:30 ++1w>
 * CMC                                                                  
 
 ** COMPLETED TASKS 
@@ -177,32 +181,9 @@ Yajna Prasad
 **** CANCELLED Painting the facility                          :MUKHYASWAMIJI:
      CLOSED: [2018-04-05 Thu 17:25]
 **** Replace stained ceiling tiles, take sample for color matching and tax rebate :MUKHYASWAMIJI:
-     DEADLINE: <2018-08-12 Sun> SCHEDULED: <2018-08-05 Sun ++1d>
 **** Inform Marcos to Landscape cleanup for cleanup on 15th   :MUKHYASWAMIJI:
-     DEADLINE: <2018-08-15 Wed> SCHEDULED: <2018-08-01 Wed ++1d>
 **** Reach out to neighbours about Mukhya Swamiji visit       :MUKHYASWAMIJI:
-     SCHEDULED: <2018-07-18 Wed>
-**** Ensure A/V broadcast is working on the entrance and the kitchen TV :@ARCHANA:MUKYHASWAMIJI:
-     SCHEDULED: <2018-08-05 Sun ++1d>
-**** Power wash the exterior including the signage
-     SCHEDULED: <2018-08-12 Sun ++1d>
-
----------------------------------------------------------------------------------------------
-
-**** Media setup at the convention center
-- Lapel mic
-- Hand held wireless mic
-- Podium
-- Table
-- Console to control volume
-- Speakers
-- How and where to connect external source Video and Audio Presentation
-- Projector ?
-- Lights
-- Restrictions
-
 *** DONE Photography for BalaMahotsav
-    CLOSED: [2018-05-20 Sun 21:21] SCHEDULED: <2018-05-19 Sat 10:00-13:00>
 **** DONE Charge camera and free up card space
      CLOSED: [2018-05-20 Sun 21:21] SCHEDULED: <2018-05-17 Thu>
 
@@ -732,6 +713,12 @@ Why wouldn't you volunteer your time
       CLOSED: [2017-08-13 Sun 21:10] SCHEDULED: <2017-08-13 Sun>
 ***** DONE Sw. Ganganandaji's visit 2017-07-05 to 2017-07-09       :SATSANGA:
       CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-09 Sun>
+***** SCHED Swamiji visit :@ARCHANA:SATSANGA:
+      DEADLINE: <2018-10-25 Thu> SCHEDULED: <2018-10-25 Thu>--<2018-10-27 Sat>
+***** SCHED Swamiji visit 
+      DEADLINE: <2018-11-15 Thu> SCHEDULED: <2018-11-15 Thu>--<2018-11-17 Sat>
+
+
 **** RECURRING
 July	8th, 2017	BV Sevaks Orientation
 Saturday, August 19, 2017	Meet and Greet
@@ -762,6 +749,9 @@ Sunday, April 22, 2018	Open Registrations to new CMC members
 Sunday, May 13, 2018	Mother's Day and Gurudev's B'Day
 Saturday, May 19, 2018	Rehersals for BALOTSAV
 Sunday, May 20, 2018	BALOTSAV
+***** SCHED Abhisheka at Archana                                   :@ARCHANA:
+      SCHEDULED: <2018-10-13 Sat ++4w 9:00-12:00>
+- Nov 10
 ***** SCHED Tapovan Jayanthi / Gita Jayanthi
       DEADLINE: <2018-12-18 Tue> SCHEDULED: <2018-12-18 Tue>
 Next year Dec 18, 2018
@@ -770,6 +760,11 @@ Next year Dec 18, 2018
 ***** Gurudev Jayanthi
 ***** Gurudev Mahasamadhi
 ***** Annual Day
+***** SCHED Blood Donation :@ARCHANA:BLOODDONATION:EVENT:
+      SCHEDULED: <2018-12-08 Sat>
+***** SCHED Lock-in :@ARCHANA:EVENT:LOCKIN:
+      SCHEDULED: <2018-12-14 Fri>--<2018-12-15 Sat>
+
 
 *** RECURRING
 **** SCHED Day light savings, "fall back"               :@ARCHANA:CLASSROOMS:
