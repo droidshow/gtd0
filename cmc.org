@@ -5,9 +5,10 @@
 *** CANCELLED Rework on 501(c)3
     CLOSED: [2018-10-07 Sun 21:44]
 - Spoke with the President and the 501(c)3 is already changed to reflect the new address.
-*** STARTED Website
+*** WAITING Website
+    SCHEDULED: <2018-10-14 Sun>
  - [ ] Have accurate open hours in website, google, fb
- - [ ] Remove old events (Sw Swaroopanandaji visit)
+ - [ ] Remove old events (Sw Swaroopanandaji visit, Abhisheka)
  - [ ] Have a link to Balavihar program in the home page (apart from dropdown tab)
  - [ ] Have a Register / Join  button prominently on Home page
  - [ ] Have an inviting inclusive message like "Come  our growing family"
@@ -27,11 +28,11 @@ Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
 
 **** DONE Check with President on the inaugaration day            :PRESIDENT:
      CLOSED: [2018-10-12 Fri 15:40] SCHEDULED: <2018-10-12 Fri>
-**** WAITING Send mail to Webadmin with correction             :GMAIL:ONLINE:
-     SCHEDULED: <2018-10-14 Sun>
+**** DONE Send mail to Webadmin with correction                :GMAIL:ONLINE:
+     CLOSED: [2018-10-13 Sat 17:12] SCHEDULED: <2018-10-14 Sun>
 
-**** SCHED Submit correction to Google :GOOGLE:ONLINE:HOME:
-     SCHEDULED: <2018-10-12 Fri 17:30>
+**** DONE Submit correction to Google                    :GOOGLE:ONLINE:HOME:
+     CLOSED: [2018-10-13 Sat 16:46] SCHEDULED: <2018-10-12 Fri 17:30>
 - server fault while attempting to send the correction
 
 *** Security
@@ -61,11 +62,16 @@ Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
  - EC Meetings should happen weekly. Easier to remember. On a once two week schedule Sometimes when meetings are cancelled there will be 4 weeks between meeting.
 
 *** STARTED Use Non-profit benefits
- - Renew 501(c)(3)
- - Enroll with techsoup.org
- - Explore googles non profit offering
-**** SCHED Recover password from President                        :PRESIDENT:
-     SCHEDULED: <2018-10-12 Fri 17:30>
+
+**** DONE Recover password from President                         :PRESIDENT:
+     CLOSED: [2018-10-13 Sat 16:46] SCHEDULED: <2018-10-12 Fri 17:30>
+ 
+**** CANCELLED Renew 501(c)(3)
+     CLOSED: [2018-10-13 Sat 17:13]
+Already uptodate according to President
+**** STARTED Enroll with techsoup.org :ONLINE:PRESIDENT:
+     SCHEDULED: <2018-10-14 Sun 11:30>
+**** Explore googles non profit offering
 
 *** Contacts / Mail ids
  - Software / hardoware
@@ -101,8 +107,8 @@ https://www.freeconferencecall.com/free-nonprofit-software
 ** DONE CHeck with EC president                                 :ECPRESIDENT:
    CLOSED: [2018-10-12 Fri 10:39] SCHEDULED: <2018-10-12 Fri>
 - No-reply to whatsapp message
-** SCHED Check with Rakheeji
-   SCHEDULED: <2018-10-12 Fri 17:30 ++1w>
+** WAITING Check with Rakheeji
+   SCHEDULED: <2018-10-20 Sat 17:30 ++1w>
 
 * WAITING Welcome message on phone                                :PRESIDENT:
   SCHEDULED: <2018-10-14 Sun 17:30 ++1w>
@@ -750,7 +756,11 @@ Sunday, May 13, 2018	Mother's Day and Gurudev's B'Day
 Saturday, May 19, 2018	Rehersals for BALOTSAV
 Sunday, May 20, 2018	BALOTSAV
 ***** SCHED Abhisheka at Archana                                   :@ARCHANA:
-      SCHEDULED: <2018-10-13 Sat ++4w 9:00-12:00>
+      SCHEDULED: <2018-11-10 Sat 00:00-12:00>
+      - State "DONE"       from "SCHED"      [2018-10-13 Sat 16:36]
+      :PROPERTIES:
+      :LAST_REPEAT: [2018-10-13 Sat 16:36]
+      :END:
 - Nov 10
 ***** SCHED Tapovan Jayanthi / Gita Jayanthi
       DEADLINE: <2018-12-18 Tue> SCHEDULED: <2018-12-18 Tue>
