@@ -665,7 +665,20 @@ merging vs rebasing
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
 *** Stash
+git stash list    # List all the stashed items
+
+git stash [save]       # Stash a WIP (Work In Progress) NOTE: only stashes tracked files 
+git stash -u           # Stash untracked files also
+git stash --keep-index # Stash everything including index, but leave the index in work area
+git stash --patch      # Selectively stash hunks of code
+
+git stash apply [stash@{n}]      # Apply the the n'th stash
+git stash apply --index          # To re-stage files staged before stashing
+git stash pop                    # Apply the latest stash and drop it
+git stash drop stash@{n}         # Drop the n'th stash
+
 git difftool -d stash@{0} master
+
 
 *** LINKS
 http://rogerdudler.github.io/git-guide/
