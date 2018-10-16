@@ -57,6 +57,7 @@ Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
 
  - Have an upto date org chart
  - Have google groups and subgroups so that there is only one id to communicate.
+   https://it.stonybrook.edu/help/kb/adding-a-google-group-to-a-larger-google-group
  - Update google group members when changes happen
  - Use trello/slack for communication which acts as auto documentation to see what has been happening/decisions/upcoming etc.
  - Document all activities
