@@ -7,7 +7,7 @@
 - Spoke with the President and the 501(c)3 is already changed to reflect the new address.
 *** WAITING Website
     SCHEDULED: <2018-10-20 Sat>
- - [ ] Have accurate open hours in website, google, fb
+ - [X] Have accurate open hours in website, google, fb
  - [ ] Remove old events (Sw Swaroopanandaji visit, Abhisheka)
  - [ ] Have a link to Balavihar program in the home page (apart from dropdown tab)
  - [ ] Have a Register / Join  button prominently on Home page
