@@ -9,9 +9,12 @@
     SCHEDULED: <2018-10-20 Sat>
  - [X] Have accurate open hours in website, google, fb
  - [ ] Remove old events (Sw Swaroopanandaji visit, Abhisheka)
- - [ ] Have a link to Balavihar program in the home page (apart from dropdown tab)
- - [ ] Have a Register / Join  button prominently on Home page
- - [ ] Have an inviting inclusive message like "Come  our growing family"
+ - [X] Have a link to Balavihar program in the home page (apart from dropdown tab)
+ - [X] Have a Register / Join  button prominently on Home page
+ - [X] Have an inviting inclusive message like "Come  our growing family"
+ - [ ] Register button in the landing page should take to should take to /signup instead of /login
+ - [ ] Register button at the bottom of following pages: /balavihar /balaviharclasses
+ - [ ] Balaviar -> Enrolment should take to /signup iso /login
 
 
 **** DONE Mail known weekday openers                           :GMAIL:ONLINE:
@@ -39,6 +42,7 @@ Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
  - Have a training/re-training session on how to operate the security system to minimize false alarms
 
 *** Payment
+ - Stakeholders President, Finance, Website, Balavihar registration
  - Payment receiving
  - Make receiving payments and donations as streamlined as possible.
  - From the moment a patron conveys desire to pay and the transaction completes should not take more than 3 minutes (start with 5 minutes and reach 3 minutes)
@@ -59,7 +63,7 @@ Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
  - Have google groups and subgroups so that there is only one id to communicate.
    https://it.stonybrook.edu/help/kb/adding-a-google-group-to-a-larger-google-group
  - Update google group members when changes happen
- - Use trello/slack for communication which acts as auto documentation to see what has been happening/decisions/upcoming etc.
+ - Use workplace/trello/slack for communication which acts as auto documentation to see what has been happening/decisions/upcoming etc.
  - Document all activities
  - EC Meetings should happen weekly. Easier to remember. On a once two week schedule Sometimes when meetings are cancelled there will be 4 weeks between meeting.
 
@@ -126,6 +130,9 @@ https://www.techrepublic.com/article/how-to-setup-google-team-drives/
 
 **** Workspace for Good by FB
 https://blog.techsoup.org/posts/how-to-use-workplace-premium-by-facebook-for-free
+https://www.facebook.com/workplace/workplaceforgood
+https://www.facebook.com/workplace/about?path=about
+
 **** OtherNon profit benefits
 https://www.keela.co/blog/nonprofit-fundraising/discounts-your-nonprofit-should-be-getting/
 
@@ -1151,45 +1158,45 @@ Refer [[Cleaning Checklist]]
 - [ ] Shutoff lights
 - [ ] Enable security
 - [ ] Lock and leave
-** Satsang
-*** Confirm dates
-*** Transport
-*** Host
-*** Bhiksha
-*** Flyers
-**** Prepare flyers
-**** Distribute Flyers
-***** e-mail
-***** Online
-****** Facebook
-****** Website
-****** Twitter
-***** Locations
-*** Vyasa Peeta
-**** Laundry Peeta clothes
-**** Get preference for seating setup (squat on stage / chair table)
-***** Table setup
-***** Chair setup
-**** Clean up 
-***** Remove weed and cleanup entrance
-***** Cleanup altar
-***** Cleanup kitchen area
-***** Cleanup bathroom
-**** Books table
-**** Poorna Khumba
-***** Get coconuts
-***** Set up Aarathi
-***** NaKarmana Prayers
-**** Arathi and Prasad
+**** Satsang
+***** Confirm dates
+***** Transport
+***** Host
+***** Bhiksha
+***** Flyers
+****** Prepare flyers
+****** Distribute Flyers
+******* e-mail
+******* Online
+******** Facebook
+******** Website
+******** Twitter
+******* Locations
+***** Vyasa Peeta
+****** Laundry Peeta clothes
+****** Get preference for seating setup (squat on stage / chair table)
+******* Table setup
+******* Chair setup
+****** Clean up 
+******* Remove weed and cleanup entrance
+******* Cleanup altar
+******* Cleanup kitchen area
+******* Cleanup bathroom
+****** Books table
+****** Poorna Khumba
+******* Get coconuts
+******* Set up Aarathi
+******* NaKarmana Prayers
+****** Arathi and Prasad
 - [ ] Keep Arathi ready for beggining or end
 - [ ] Keep Prasad like almonds for end 
-**** Yajna prasad
-***** Arrange for Yajna prasad
-**** Gurudakshina
-***** Check if Gurudakshina covers are available in sufficient quantity
-***** Distribute Gurudakshina cover a day before the conclusion
-***** Get check for Gurudakshina
-***** Get fruits/dry-fruits for Yajna prasad**** Supplies Checklist
+****** Yajna prasad
+******* Arrange for Yajna prasad
+****** Gurudakshina
+******* Check if Gurudakshina covers are available in sufficient quantity
+******* Distribute Gurudakshina cover a day before the conclusion
+******* Get check for Gurudakshina
+******* Get fruits/dry-fruits for Yajna prasad**** Supplies Checklist
 - [ ] Paper roll for kitchen
 - [ ] Trash bag / Drum liner
 - [ ] Wash towel

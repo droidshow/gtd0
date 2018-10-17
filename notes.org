@@ -130,6 +130,12 @@ https://www.linaro.org/blog/adding-a-new-system-service-to-android-5-tips-and-ho
 https://github.com/jmondi/hardware_joffee
 https://github.com/gibsson/BasicService
 
+*** Android Version
+getprop | grep version
+cat /system/build.prop | grep version
+
+build/core/version_defaults.mk
+
 *** Android on Beagle Board / HAL
 https://books.google.com/books?id=8bq9BgAAQBAJ&lpg=PA22&ots=mFKaN0vEvm&dq=access%20custom%20hardware%20using%20android%20native%20library&pg=PA22#v=onepage&q=access%20custom%20hardware%20using%20android%20native%20library&f=false
 http://www.opersys.com/blog/extending-android-hal
@@ -352,8 +358,35 @@ dot -Tsvg -obig1.svg ./big1.dot
 
 Combining graphs
 https://stackoverflow.com/questions/16488216/graph-of-graphs-in-graphviz
-
 ** EMACS
+*** org-trello
+- https://org-trello.github.io/
+**** Limitation
+- Only flat structured allowed i.e only first level of *
+- "**" is used for comments!
+**** Structure
+- First leve * = card
+- 2 spaces + [ ] = Checklist
+- 4 spaces + [ ] = item under checklist
+**** Dependencies
+- Depends on gnutls, in windows install the dep package from http://ftp.gnu.org/gnu/emacs/windows/
+**** Installation
+- M-x package-install org-trello
+- M-x org-trello-mode
+**** NOTE: 
+- Username should be username not email-id in the next step
+- Login to trello before running below command
+**** Setup
+- M-x org-trello-install-key-and-token
+
+**** To sync existing trello board to current org file
+- M-x org-trello-install-board-metadata
+
+**** To sync existing current org file to trello as a board
+- M-x org-trello-create-board-and-install-metadata
+- M-x org-trello-sync-buffer
+
+
 
 *** Launch agenda on start up
 runemacs.exe --funcall org-agenda-list
