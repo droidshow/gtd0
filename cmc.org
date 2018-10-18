@@ -1,23 +1,18 @@
 ---------------------------------------------------------------------------------------------
 
-* STARTED Improvements
-
-*** CANCELLED Rework on 501(c)3
+* STARTED Streamlining
+** CANCELLED Rework on 501(c)3
     CLOSED: [2018-10-07 Sun 21:44]
 - Spoke with the President and the 501(c)3 is already changed to reflect the new address.
-*** WAITING Website
-    SCHEDULED: <2018-10-20 Sat>
+** DONE Website
+    CLOSED: [2018-10-18 Thu 14:04] SCHEDULED: <2018-10-20 Sat>
  - [X] Have accurate open hours in website, google, fb
  - [ ] Remove old events (Sw Swaroopanandaji visit, Abhisheka)
  - [X] Have a link to Balavihar program in the home page (apart from dropdown tab)
  - [X] Have a Register / Join  button prominently on Home page
  - [X] Have an inviting inclusive message like "Come  our growing family"
- - [ ] Register button in the landing page should take to should take to /signup instead of /login
- - [ ] Register button at the bottom of following pages: /balavihar /balaviharclasses
- - [ ] Balaviar -> Enrolment should take to /signup iso /login
 
-
-**** DONE Mail known weekday openers                           :GMAIL:ONLINE:
+*** DONE Mail known weekday openers                            :GMAIL:ONLINE:
      CLOSED: [2018-10-10 Wed 12:14] SCHEDULED: <2018-10-10 Wed 18:00>
 
 Monday - 18:00 to 19:30 - Bala
@@ -29,57 +24,27 @@ Saturday - ?? - ??
 Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
 
 
-**** DONE Check with President on the inaugaration day            :PRESIDENT:
-     CLOSED: [2018-10-12 Fri 15:40] SCHEDULED: <2018-10-12 Fri>
-**** DONE Send mail to Webadmin with correction                :GMAIL:ONLINE:
-     CLOSED: [2018-10-13 Sat 17:12] SCHEDULED: <2018-10-14 Sun>
+*** DONE Check with President on the inaugaration day             :P:
+    CLOSED: [2018-10-12 Fri 15:40] SCHEDULED: <2018-10-12 Fri>
+*** DONE Send mail to Webadmin with correction                 :GMAIL:ONLINE:
+    CLOSED: [2018-10-13 Sat 17:12] SCHEDULED: <2018-10-14 Sun>
 
-**** DONE Submit correction to Google                    :GOOGLE:ONLINE:HOME:
+*** DONE Submit correction to Google                     :GOOGLE:ONLINE:HOME:
      CLOSED: [2018-10-13 Sat 16:46] SCHEDULED: <2018-10-12 Fri 17:30>
 - server fault while attempting to send the correction
+** STARTED Use Non-profit benefits
+*** DONE Recover password from President                          :P:
+    CLOSED: [2018-10-13 Sat 16:46] SCHEDULED: <2018-10-12 Fri 17:30>
 
-*** Security
- - Have a training/re-training session on how to operate the security system to minimize false alarms
-
-*** Payment
- - Stakeholders President, Finance, Website, Balavihar registration
- - Payment receiving
- - Make receiving payments and donations as streamlined as possible.
- - From the moment a patron conveys desire to pay and the transaction completes should not take more than 3 minutes (start with 5 minutes and reach 3 minutes)
- - Dropbox for donations
-
-*** Cleanliness
- - Print signup sheet for cleaning activities and place them in room (re-use the big sheet that SB made last year)
- - Display how much percentage of cleanup activities was done in previous weeks and track progress
-
-*** Timeliness
- - Measure how many people come on time and display graph in assembly to show trend and set target
-
-*** Communication
- - Communicate to new family org structure
- - Reminder to use smile.amazon.
-
- - Have an upto date org chart
- - Have google groups and subgroups so that there is only one id to communicate.
-   https://it.stonybrook.edu/help/kb/adding-a-google-group-to-a-larger-google-group
- - Update google group members when changes happen
- - Use workplace/trello/slack for communication which acts as auto documentation to see what has been happening/decisions/upcoming etc.
- - Document all activities
- - EC Meetings should happen weekly. Easier to remember. On a once two week schedule Sometimes when meetings are cancelled there will be 4 weeks between meeting.
-
-*** STARTED Use Non-profit benefits
-**** DONE Recover password from President                         :PRESIDENT:
-     CLOSED: [2018-10-13 Sat 16:46] SCHEDULED: <2018-10-12 Fri 17:30>
- 
-**** CANCELLED Renew 501(c)(3)
+*** CANCELLED Renew 501(c)(3)
      CLOSED: [2018-10-13 Sat 17:13]
 Already uptodate according to President
-**** WAITING Enroll with techsoup.org                      :ONLINE:PRESIDENT:
-     SCHEDULED: <2018-10-24 Wed 11:30>
-**** Get a token and get Google for non-profit
+*** WAITING Enroll with techsoup.org                       :ONLINE:P:
+    SCHEDULED: <2018-10-24 Wed 11:30>
+*** Get a token and get Google for non-profit
 https://app.ngok.techsoupglobal.org/Default.aspx?vendorAppid=7e8863c3-0002-4bed-b32e-796b311a4b9a
 
-**** STARTED Explore techsoup
+*** STARTED Explore techsoup
 Benfits
 https://www.thedigitalnonprofit.com/blog/what-google-nonprofits
 
@@ -111,7 +76,7 @@ Blogs and Forum
 http://forums.techsoup.org/cs/community/b/tsblog/
 http://forums.techsoup.org/cs/community/f//
 
-**** Explore googles non profit offering
+*** Explore googles non profit offering
 https://gsuite.google.com/setup/apps/nonprofits/
 https://support.google.com/nonprofits/answer/3367223?hl=en
 https://www.google.com/nonprofits/products/apps-for-nonprofits.html
@@ -128,53 +93,84 @@ https://www.techsoupcanada.ca/en/community/blog/how-to-use-google-drive-as-your-
 https://support.google.com/a/answer/7337635?hl=en
 https://www.techrepublic.com/article/how-to-setup-google-team-drives/
 
-**** Workspace for Good by FB
+*** Workspace for Good by FB
 https://blog.techsoup.org/posts/how-to-use-workplace-premium-by-facebook-for-free
 https://www.facebook.com/workplace/workplaceforgood
 https://www.facebook.com/workplace/about?path=about
 
-**** OtherNon profit benefits
+*** OtherNon profit benefits
 https://www.keela.co/blog/nonprofit-fundraising/discounts-your-nonprofit-should-be-getting/
-
-
-*** Contacts / Mail ids
+** Contacts / Mail ids
  - Software / hardoware
  - Create role based mail ids (e.g cmc.board@, cmc.accounts@, cmc.ec@, etc)
  - Setup role based mail ids to forward to common id
 
-*** Vendors 
+** Vendors 
  - Update vendors to use role based mail ids 
 
-*** Events
+** Payment
+ - Stakeholders President, Finance, Website, Balavihar registration
+ - Payment receiving
+ - Make receiving payments and donations as streamlined as possible.
+ - From the moment a patron conveys desire to pay and the transaction completes should not take more than 3 minutes (start with 5 minutes and reach 3 minutes)
+ - Dropbox for donations
+
+** Cleanliness
+ - Print signup sheet for cleaning activities and place them in room (re-use the big sheet that SB made last year)
+ - Display how much percentage of cleanup activities was done in previous weeks and track progress
+
+** Timeliness
+ - Measure how many people come on time and display graph in assembly to show trend and set target
+
+** Communication
+ - Communicate to new family org structure
+ - Reminder to use smile.amazon.
+
+ - Have an upto date org chart
+ - Have google groups and subgroups so that there is only one id to communicate.
+   https://it.stonybrook.edu/help/kb/adding-a-google-group-to-a-larger-google-group
+ - Update google group members when changes happen
+ - Use workplace/trello/slack for communication which acts as auto documentation to see what has been happening/decisions/upcoming etc.
+ - Document all activities
+ - EC Meetings should happen weekly. Easier to remember. On a once two week schedule Sometimes when meetings are cancelled there will be 4 weeks between meeting.
+
+ - All-hands / townhall to sync everyone
+
+*** Check with ECP if we are actively using Trello :ECP:CALL:
+*** Check with ECP if EC meetings can happen for .5 hrs weekly rather than bi monthly :ECP:CALL:
+*** Update ECP about techsoup.org                                      :CALL:ECP:
+** Security
+ - Have a training/re-training session on how to operate the security system to minimize false alarms
+
+** Events
  - Generic Scripts/checklist for events
  - Have de-brief after events to learn what went well and what did not. Capture them and take action/ up date scripts
 
-*** Project "My Chinmaya"
-
-
-*** Someday
-**** Tools
+** Project "My Chinmaya"
+** Someday
+*** Tools
 https://www.idealware.org/
 https://www.techsoup.org/
 
-***** Conferencing
+**** Conferencing
 join.me - $150
 Google hangouts
 gotomeeting - $468
 https://www.freeconferencecall.com/free-nonprofit-software
 
-***** Learning Management System
+**** Learning Management System
 
 * STARTED Outstanding $100 from Rakheeji
 ** DONE Check with Treasurer and Librarian
    CLOSED: [2018-10-10 Wed 12:11] SCHEDULED: <2018-10-10 Wed>
-** DONE CHeck with EC president                                 :ECPRESIDENT:
+** DONE CHeck with EC president                                 :ECP:
    CLOSED: [2018-10-12 Fri 10:39] SCHEDULED: <2018-10-12 Fri>
 - No-reply to whatsapp message
 ** WAITING Check with Rakheeji
    SCHEDULED: <2018-10-20 Sat 17:30 ++1w>
 
-* WAITING Welcome message on phone                                :PRESIDENT:
+** Pay for it :SPB:
+* WAITING Welcome message on phone                                :ECP:
   SCHEDULED: <2018-10-20 Sat 17:30 ++1w>
 * CMC                                                                  
 
@@ -709,6 +705,13 @@ SUGGESTION: Can mention that site is still under construction.
 *** DONE Pay Scott $88.68 + $120                              :SCOTT:PAYMENT:
     CLOSED: [2017-07-10 Mon 07:57] SCHEDULED: <2017-04-30 Sun>
 ** SOMEDAY
+*** Website 
+    SCHEDULED: <2019-02-01 Fri>
+ - [ ] Register button in the landing page should take to should take to /signup instead of /login
+ - [ ] Register button at the bottom of following pages: /balavihar /balaviharclasses
+ - [ ] Balaviar -> Enrolment should take to /signup iso /login
+ - [ ] To learn more about to us and our program send in your queries to support@ . To know about upcoming events and activities please subscribe to our mailing list.
+
 *** Outside woodwork & Roof leakage fix
 - 2017-08-28 - Called George and left him a message in the after-noon, not called back yet
 **** Work list
