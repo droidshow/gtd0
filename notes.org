@@ -362,8 +362,10 @@ https://stackoverflow.com/questions/16488216/graph-of-graphs-in-graphviz
 *** org-trello
 - https://org-trello.github.io/
 **** Limitation
-- Only flat structured allowed i.e only first level of *
+- Only flat structure allowed i.e only first level of *
 - "**" is used for comments!
+- More useful to export existing trell board to org and then keep it in sync
+- To schedule in org use 'Deadline C-d'
 **** Structure
 - First leve * = card
 - 2 spaces + [ ] = Checklist
@@ -384,7 +386,10 @@ https://stackoverflow.com/questions/16488216/graph-of-graphs-in-graphviz
 
 **** To sync existing current org file to trello as a board
 - M-x org-trello-create-board-and-install-metadata
+
+**** Sync contents of a board
 - M-x org-trello-sync-buffer
+
 
 
 
