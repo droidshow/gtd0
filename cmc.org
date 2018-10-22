@@ -102,6 +102,7 @@ https://www.facebook.com/workplace/about?path=about
 https://www.keela.co/blog/nonprofit-fundraising/discounts-your-nonprofit-should-be-getting/
 ** Contacts / Mail ids
  - Software / hardoware
+ - Get list of roles or org chart
  - Create role based mail ids (e.g cmc.board@, cmc.accounts@, cmc.ec@, etc)
  - Setup role based mail ids to forward to common id
 
@@ -169,8 +170,8 @@ https://www.freeconferencecall.com/free-nonprofit-software
 ** DONE Check with Rakheeji
    CLOSED: [2018-10-21 Sun 10:43] SCHEDULED: <2018-10-20 Sat>
 
-** STARTED Pay for Rakheejis CD purchages                               :SPB:
-   SCHEDULED: <2018-10-21 Sun>
+** DONE Pay for Rakheejis CD purchages                                  :SPB:
+   CLOSED: [2018-10-22 Mon 09:48] SCHEDULED: <2018-10-21 Sun>
 * WAITING Welcome message on phone                                :ECP:
   SCHEDULED: <2018-10-20 Sat 17:30 ++1w>
 * CMC                                                                  
