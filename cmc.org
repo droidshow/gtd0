@@ -173,7 +173,7 @@ https://www.freeconferencecall.com/free-nonprofit-software
 ** DONE Pay for Rakheejis CD purchages                                  :SPB:
    CLOSED: [2018-10-22 Mon 09:48] SCHEDULED: <2018-10-21 Sun>
 * WAITING Welcome message on phone                                :ECP:
-  SCHEDULED: <2018-10-20 Sat 17:30 ++1w>
+  SCHEDULED: <2018-10-28 Sun 17:30 ++1w>
 * CMC                                                                  
 
 ** COMPLETED TASKS 
@@ -767,7 +767,8 @@ Why wouldn't you volunteer your time
 - Audio mixer
 - Color label the mics
 ** PROJECTS
-*** CHINPI
+*** CANCELLED CHINPI
+    CLOSED: [2018-10-23 Tue 16:04]
 **** DONE Presentation
      CLOSED: [2017-12-05 Tue 09:20]
 
@@ -791,7 +792,7 @@ Why wouldn't you volunteer your time
 ***** CANCELLED Swamiji visit                             :@ARCHANA:SATSANGA:
       CLOSED: [2018-10-15 Mon 13:30] DEADLINE: <2018-10-25 Thu> SCHEDULED: <2018-10-25 Thu>--<2018-10-27 Sat>
 ***** SCHED Swamiji visit 
-      DEADLINE: <2018-11-15 Thu> SCHEDULED: <2018-11-15 Thu>--<2018-11-17 Sat>
+      <2018-11-15 Thu>--<2018-11-17 Sat> DEADLINE: <2018-11-15 Thu> 
 
 
 **** RECURRING
@@ -832,7 +833,7 @@ Sunday, May 20, 2018	BALOTSAV
       :END:
 - Nov 10
 ***** SCHED Tapovan Jayanthi / Gita Jayanthi
-      DEADLINE: <2018-12-18 Tue> SCHEDULED: <2018-12-18 Tue>
+      <2018-12-18 Tue> DEADLINE: <2018-12-18 Tue>
 Next year Dec 18, 2018
 
 ***** Guruji Jayanthi
@@ -840,9 +841,9 @@ Next year Dec 18, 2018
 ***** Gurudev Mahasamadhi
 ***** Annual Day
 ***** SCHED Blood Donation :@ARCHANA:BLOODDONATION:EVENT:
-      SCHEDULED: <2018-12-08 Sat>
+      <2018-12-08 Sat>
 ***** SCHED Lock-in :@ARCHANA:EVENT:LOCKIN:
-      SCHEDULED: <2018-12-14 Fri>--<2018-12-15 Sat>
+      <2018-12-14 Fri>--<2018-12-15 Sat>
 
 
 *** RECURRING
