@@ -41,6 +41,10 @@ Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
 Already uptodate according to President
 *** WAITING Enroll with techsoup.org                       :ONLINE:P:
     SCHEDULED: <2018-10-31 Wed 11:30>
+*** DONE Added P's name for registration
+    CLOSED: [2018-10-29 Mon 10:09]
+*** WAITING Ask P to send mail to techsoup confirming the change
+    SCHEDULED: <2018-11-01 Thu>
 *** Get a token and get Google for non-profit
 https://app.ngok.techsoupglobal.org/Default.aspx?vendorAppid=7e8863c3-0002-4bed-b32e-796b311a4b9a
 
@@ -161,21 +165,23 @@ https://www.freeconferencecall.com/free-nonprofit-software
 
 **** Learning Management System
 
-* STARTED Outstanding $100 from Rakheeji
-** DONE Check with Treasurer and Librarian
-   CLOSED: [2018-10-10 Wed 12:11] SCHEDULED: <2018-10-10 Wed>
-** DONE CHeck with EC president                                 :ECP:
-   CLOSED: [2018-10-12 Fri 10:39] SCHEDULED: <2018-10-12 Fri>
-- No-reply to whatsapp message
-** DONE Check with Rakheeji
-   CLOSED: [2018-10-21 Sun 10:43] SCHEDULED: <2018-10-20 Sat>
-
-** DONE Pay for Rakheejis CD purchages                                  :SPB:
-   CLOSED: [2018-10-22 Mon 09:48] SCHEDULED: <2018-10-21 Sun>
 * WAITING Welcome message on phone                                :ECP:
 * CMC                                                                  
 
 ** COMPLETED TASKS 
+*** DONE Outstanding $100 from Rakheeji
+    CLOSED: [2018-10-29 Mon 10:07]
+**** DONE Check with Treasurer and Librarian
+     CLOSED: [2018-10-10 Wed 12:11] SCHEDULED: <2018-10-10 Wed>
+**** DONE CHeck with EC president                                       :ECP:
+   CLOSED: [2018-10-12 Fri 10:39] SCHEDULED: <2018-10-12 Fri>
+- No-reply to whatsapp message
+**** DONE Check with Rakheeji
+     CLOSED: [2018-10-21 Sun 10:43] SCHEDULED: <2018-10-20 Sat>
+
+**** DONE Pay for Rakheejis CD purchages                                :SPB:
+     CLOSED: [2018-10-22 Mon 09:48] SCHEDULED: <2018-10-21 Sun>
+
 *** CANCELLED CD copy of Mr Venkat's CD purchase
   CLOSED: [2018-10-10 Wed 12:12]
 - No reply to mail
