@@ -367,7 +367,8 @@ https://stackoverflow.com/questions/16488216/graph-of-graphs-in-graphviz
 - More useful to export existing trell board to org and then keep it in sync
 - To schedule in org use 'Deadline C-d'
 **** Structure
-- First leve * = card
+- First level * = card
+- Second level ** = comments
 - 2 spaces + [ ] = Checklist
 - 4 spaces + [ ] = item under checklist
 **** Dependencies

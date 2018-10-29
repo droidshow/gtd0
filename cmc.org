@@ -173,7 +173,6 @@ https://www.freeconferencecall.com/free-nonprofit-software
 ** DONE Pay for Rakheejis CD purchages                                  :SPB:
    CLOSED: [2018-10-22 Mon 09:48] SCHEDULED: <2018-10-21 Sun>
 * WAITING Welcome message on phone                                :ECP:
-  SCHEDULED: <2018-10-28 Sun 17:30 ++1w>
 * CMC                                                                  
 
 ** COMPLETED TASKS 
