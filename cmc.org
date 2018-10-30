@@ -868,10 +868,11 @@ Next year Dec 18, 2018
      :LAST_REPEAT: [2018-01-07 Sun 19:49]
      :END:
 **** SCHED For winter Switch off water supply to outside outlet :MAINTENANCE:WATER:RECURRING:
-     SCHEDULED: <2018-10-29 Mon ++1y>
+     SCHEDULED: <2019-10-29 Tue ++1y>
+     - State "DONE"       from "SCHED"      [2018-10-30 Tue 09:52]
      - State "DONE"       from "SCHED"      [2017-10-30 Mon 08:48]
      :PROPERTIES:
-     :LAST_REPEAT: [2017-10-30 Mon 08:48]
+     :LAST_REPEAT: [2018-10-30 Tue 09:52]
      :END:
 **** HVAC MAINTENANCE
 ***** SCHED Get filters for HVAC 2 of 16x25, 1 of 20x20 :HVAC:MAINTENANCE:RECURRING:@MENARDS:
@@ -884,12 +885,13 @@ Next year Dec 18, 2018
       :LAST_REPEAT: [2018-10-25 Thu 09:03]
       :END:
 ***** SCHED Confirm HVAC maintenance schedule with Comfort Express :HVAC:MAINTENANCE:RECURRING:
-      SCHEDULED: <2018-10-30 Tue ++6m>
+      SCHEDULED: <2019-04-30 Tue ++6m>
+      - State "DONE"       from "PROJ"       [2018-10-30 Tue 09:21]
       - State "DONE"       from "SCHED"      [2018-05-03 Thu 09:24]
       - State "DONE"       from "WAITING"    [2017-11-01 Wed 16:24]
       - State "DONE"       from "APPT"       [2017-05-24 Wed 21:51]
       :PROPERTIES:
-      :LAST_REPEAT: [2018-05-03 Thu 09:24]
+      :LAST_REPEAT: [2018-10-30 Tue 09:21]
       :END:
 **** SCHED FIRE INSPECTION
 ***** Check all the exit sign are working & replace batteries if necessary
