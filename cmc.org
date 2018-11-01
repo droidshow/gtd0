@@ -43,8 +43,8 @@ Already uptodate according to President
     SCHEDULED: <2018-11-02 Fri 11:30>
 *** DONE Added P's name for registration
     CLOSED: [2018-10-29 Mon 10:09]
-*** WAITING Ask P to send mail to techsoup confirming the change
-    SCHEDULED: <2018-11-01 Thu>
+*** CANCELLED Ask P to send mail to techsoup confirming the change
+    CLOSED: [2018-11-01 Thu 06:59] SCHEDULED: <2018-11-01 Thu>
 *** Get a token and get Google for non-profit
 https://app.ngok.techsoupglobal.org/Default.aspx?vendorAppid=7e8863c3-0002-4bed-b32e-796b311a4b9a
 
