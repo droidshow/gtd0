@@ -39,6 +39,8 @@ Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
 *** CANCELLED Renew 501(c)(3)
      CLOSED: [2018-10-13 Sat 17:13]
 Already uptodate according to President
+*** WAITING Latest 501(c)3 certificate :P:
+    SCHEDULED: <2018-11-30 Fri>
 *** WAITING Enroll with techsoup.org                       :ONLINE:P:
     SCHEDULED: <2018-11-07 Wed 19:30>
 *** DONE Added P's name for registration
@@ -990,7 +992,7 @@ Next year Dec 18, 2018
      :END:
 Refer [[Cleaning Checklist]]
 
-***** DO Clean Vaccum cleaner                                   :MAINTENANCE:
+***** Clean Vaccum cleaner                                   :MAINTENANCE:
       - State "CANCELLED"  from "SCHED"      [2018-04-24 Tue 14:52]
       - State "CANCELLED"  from "SCHED"      [2018-03-05 Mon 09:23]
       - State "CANCELLED"  from "SCHED"      [2018-02-05 Mon 11:39]
@@ -1019,7 +1021,7 @@ Refer [[Cleaning Checklist]]
       :LAST_REPEAT: [2018-04-03 Tue 07:52]
       :END:
 
-***** DO Put mice repellant around the building
+***** Put mice repellant around the building
       - State "CANCELLED"  from "SCHED"      [2018-06-26 Tue 12:10]
       :PROPERTIES:
       :LAST_REPEAT: [2018-06-26 Tue 12:10]
