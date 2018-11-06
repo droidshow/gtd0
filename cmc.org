@@ -40,7 +40,7 @@ Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
      CLOSED: [2018-10-13 Sat 17:13]
 Already uptodate according to President
 *** WAITING Enroll with techsoup.org                       :ONLINE:P:
-    SCHEDULED: <2018-11-02 Fri 19:30>
+    SCHEDULED: <2018-11-07 Wed 19:30>
 *** DONE Added P's name for registration
     CLOSED: [2018-10-29 Mon 10:09]
 *** CANCELLED Ask P to send mail to techsoup confirming the change
@@ -853,7 +853,11 @@ Next year Dec 18, 2018
 
 *** RECURRING
 **** SCHED Day light savings, "fall back"               :@ARCHANA:CLASSROOMS:
-     SCHEDULED: <2018-11-04 Sun ++1y>
+     SCHEDULED: <2019-11-04 Mon ++1y>
+     - State "DONE"       from "SCHED"      [2018-11-04 Sun 14:43]
+     :PROPERTIES:
+     :LAST_REPEAT: [2018-11-04 Sun 14:43]
+     :END:
 **** SCHED Check clocks after summer break                         :@ARCHANA:
      SCHEDULED: <2019-08-18 Sun ++1y>
      - State "CANCELLED"  from "SCHED"      [2018-10-19 Fri 12:04]
