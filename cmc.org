@@ -41,13 +41,14 @@ Sunday - 10:00 - 13:00 - Balavihar & Adult Study groups & Language classes
 Already uptodate according to President
 *** WAITING Latest 501(c)3 certificate :P:
     SCHEDULED: <2018-11-30 Fri>
-*** WAITING Enroll with techsoup.org                       :ONLINE:P:
-    SCHEDULED: <2018-11-07 Wed 19:30>
+*** DONE Enroll with techsoup.org                                  :ONLINE:P:
+    CLOSED: [2018-11-07 Wed 16:50] SCHEDULED: <2018-11-07 Wed 19:30>
 *** DONE Added P's name for registration
     CLOSED: [2018-10-29 Mon 10:09]
 *** CANCELLED Ask P to send mail to techsoup confirming the change
     CLOSED: [2018-11-01 Thu 06:59] SCHEDULED: <2018-11-01 Thu>
-*** Get a token and get Google for non-profit
+*** DONE Get a token and get Google for non-profit
+    CLOSED: [2018-11-07 Wed 16:51]
 https://app.ngok.techsoupglobal.org/Default.aspx?vendorAppid=7e8863c3-0002-4bed-b32e-796b311a4b9a
 
 *** STARTED Explore techsoup
@@ -82,7 +83,7 @@ Blogs and Forum
 http://forums.techsoup.org/cs/community/b/tsblog/
 http://forums.techsoup.org/cs/community/f//
 
-*** Explore googles non profit offering
+*** STARTED Explore googles non profit offering
 https://gsuite.google.com/setup/apps/nonprofits/
 https://support.google.com/nonprofits/answer/3367223?hl=en
 https://www.google.com/nonprofits/products/apps-for-nonprofits.html
