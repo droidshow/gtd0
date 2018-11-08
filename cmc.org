@@ -84,7 +84,11 @@ http://forums.techsoup.org/cs/community/b/tsblog/
 http://forums.techsoup.org/cs/community/f//
 
 *** STARTED Explore googles non profit offering
+
+Start here:
+Guide to setup, features, training etc
 https://gsuite.google.com/setup/apps/nonprofits/
+
 https://support.google.com/nonprofits/answer/3367223?hl=en
 https://www.google.com/nonprofits/products/apps-for-nonprofits.html
 https://gsuite.google.com/learning-center/use-at-work/nonprofits/#!/
