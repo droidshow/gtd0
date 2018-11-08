@@ -107,6 +107,9 @@ https://www.facebook.com/workplace/about?path=about
 
 *** OtherNon profit benefits
 https://www.keela.co/blog/nonprofit-fundraising/discounts-your-nonprofit-should-be-getting/
+** STARTED Setup G-Suite
+*** WAITING Find who has access to domain host
+*** Meet with domain host admin and add domain verification
 ** Contacts / Mail ids
  - Software / hardoware
  - Get list of roles or org chart
