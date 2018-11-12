@@ -122,6 +122,63 @@ https://www.keela.co/blog/nonprofit-fundraising/discounts-your-nonprofit-should-
 *** DO Send out mail the CMC org structure, roles , mail, group
 *** Create users and add them to groups
 
+
+Groups
+
+|             | Invite or | Post    | View    | Read    |                                 |
+|             | Jon       |         | member  | archive |                                 |
+|-------------+-----------+---------+---------+---------+---------------------------------|
+| Public      | Anyone    | Anyone  | Anyone  | Anyone  | Market place                    |
+| Team        | Manager   | Anyone  | Anyone  | Anyone  | Team commn. publically viewable |
+| Anouncement | Anyone    | Manager | Manager | Anyone  | One way                         |
+| Restricted  | Manager   | Member  | Member  | Members | Closed commn.                   |
+|             |           |         |         |         |                                 |
+**** Meeting
+- Generic role based email-ids is not practical (see alternative below)
+- Email ID format : First Name initial + last name @
+- Create group-ids e.g events@ assembly@ ec@ everyone@ board@
+
+
+**** Users
+decorations@
+events@ (co-ordinator)
+community.outreach@
+president@
+vice.prresident@
+secretary@
+ecpresident@
+balavihar@ (co-ordinator)
+balarama@
+balakrishna@
+dhruva@
+treasurer@
+facility@
+info@ (external facing email id, published in website)
+it@
+admin@
+assembly@
+**** Groups
+finance
+balavihar
+board
+ec
+ec-core
+finance
+building
+assembly
+**** Shard drive
+balavihar
+board
+ec
+finance
+building
+assembly
+
+
+*** ON BOARDING
+Each account gets 30GB cloud storage for personal use
+Can create a Team Drive for sharing work
+
 ** Contacts / Mail ids
  - Software / hardoware
  - Get list of roles or org chart
