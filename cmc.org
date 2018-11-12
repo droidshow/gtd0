@@ -85,18 +85,21 @@ http://forums.techsoup.org/cs/community/f//
 
 *** STARTED Explore googles non profit offering
 
+Overview
+https://www.keela.co/blog/nonprofit-resources/google-for-nonprofits/
+
 Start here:
 Guide to setup, features, training etc
 https://gsuite.google.com/setup/apps/nonprofits/
 
-https://support.google.com/nonprofits/answer/3367223?hl=en
-https://www.google.com/nonprofits/products/apps-for-nonprofits.html
+10 ways to use G-suite at non-profits
 https://gsuite.google.com/learning-center/use-at-work/nonprofits/#!/
-https://www.keela.co/blog/nonprofit-resources/google-for-nonprofits/
 
-Enroll in gsuite for non-profit
-https://support.google.com/nonprofits/answer/3367223?visit_id=636752276175991170-3718290403&hl=en&rd=1
+G-suite learning center
+https://gsuite.google.com/learning-center/#!/
 
+Sites
+https://gsuite.google.com/learning-center/products/sites/get-started/#!/
 
 Drive
 https://nonprofitally.com/get-organized/
@@ -112,8 +115,13 @@ https://www.facebook.com/workplace/about?path=about
 *** OtherNon profit benefits
 https://www.keela.co/blog/nonprofit-fundraising/discounts-your-nonprofit-should-be-getting/
 ** STARTED Setup G-Suite
-*** WAITING Find who has access to domain host
-*** Meet with domain host admin and add domain verification
+*** DONE Find who has access to domain host
+    CLOSED: [2018-11-09 Fri 17:36]
+*** DONE Meet with domain host admin and add domain verification
+    CLOSED: [2018-11-12 Mon 05:49] SCHEDULED: <2018-11-11 Sun 11:00>
+*** DO Send out mail the CMC org structure, roles , mail, group
+*** Create users and add them to groups
+
 ** Contacts / Mail ids
  - Software / hardoware
  - Get list of roles or org chart
@@ -840,8 +848,8 @@ Sunday, April 22, 2018	Open Registrations to new CMC members
 Sunday, May 13, 2018	Mother's Day and Gurudev's B'Day
 Saturday, May 19, 2018	Rehersals for BALOTSAV
 Sunday, May 20, 2018	BALOTSAV
-***** SCHED Abhisheka at Archana                                   :@ARCHANA:
-      SCHEDULED: <2018-11-10 Sat 00:00-12:00>
+***** DONE Abhisheka at Archana                                    :@ARCHANA:
+      CLOSED: [2018-11-10 Sat 14:55] SCHEDULED: <2018-11-10 Sat 00:00-12:00>
       - State "DONE"       from "SCHED"      [2018-10-13 Sat 16:36]
       :PROPERTIES:
       :LAST_REPEAT: [2018-10-13 Sat 16:36]
