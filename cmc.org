@@ -871,8 +871,8 @@ Why wouldn't you volunteer your time
       CLOSED: [2017-07-10 Mon 07:55] SCHEDULED: <2017-07-09 Sun>
 ***** CANCELLED Swamiji visit                             :@ARCHANA:SATSANGA:
       CLOSED: [2018-10-15 Mon 13:30] DEADLINE: <2018-10-25 Thu> SCHEDULED: <2018-10-25 Thu>--<2018-10-27 Sat>
-***** SCHED Swamiji visit 
-      <2018-11-15 Thu>--<2018-11-17 Sat> DEADLINE: <2018-11-15 Thu> 
+***** CANCELLED Swamiji visit 
+      CLOSED: [2018-11-16 Fri 17:51] <2018-11-15 Thu>--<2018-11-17 Sat>
 
 
 **** RECURRING
