@@ -1935,6 +1935,107 @@ UUID=""   /srv/smba      ntfs      auto,umask=000,nofail,user,rw       0     0
 sudo mount -a
 chown /srv/smba
 
+** SNIPS
+*** BOM
+AIY
+Raspberry Pi (3 for server, 0W for satellite)
+SD Card
+Power Adapter
+*** Install Raspbian Lite
+- Configure password/locale/ssh
+
+*** Install Voicekit
+ cd ~
+ sudo apt-get install git
+ git clone https://github.com/google/aiyprojects-raspbian.git
+ cd aiyprojects-raspbian
+ git checkout voicekit
+ sudo scripts/configure-driver.sh
+ sudo scripts/install-alsa-config.sh
+
+Check /etc/asound.conf
+Check /boot/config.txt for google-voicehat overlay
+
+Reboot 
+ sudo shutdown -r now
+
+Check playback and record devices
+ aplay -l
+ arecord -l
+
+*** Install Snips
+
+sudo apt update
+sudo apt upgrade
+
+sudo apt install dirmngr
+
+sudo bash -c  'echo "deb https://raspbian.snips.ai/$(lsb_release -cs) stable main" > /etc/apt/sources.list.d/snips.list'
+
+sudo apt-key adv --keyserver pgp.mit.edu --recv-keys D4F50CDCA10A2849
+
+**** Main
+sudo apt install snips-platform-voice
+
+**** Satellite / server
+sudo apt install snips-audio-server snips-watch
+
+*** goto https://console.snips.ai
+
+**** Create assistant
+
+**** Download assistant
+
+**** Unzip and copy assistant to /usr/share/snips
+
+
+*** Start snips
+
+sudo systemctl start "snips-*"
+
+
+ snips-hotword.service - Snips Hotword
+   Loaded: loaded (/lib/systemd/system/snips-hotword.service; enabled; vendor preset: ena
+   Active: active (running) since Sun 2018-12-23 13:32:24 EST; 2min 13s ago
+ Main PID: 2211 (snips-hotword)
+   CGroup: /system.slice/snips-hotword.service
+           2211 /usr/bin/snips-hotword
+
+ snips-nlu.service - Snips NLU
+   Loaded: loaded (/lib/systemd/system/snips-nlu.service; enabled; vendor preset: enabled
+   Active: active (running) since Sun 2018-12-23 13:32:26 EST; 2min 11s ago
+ Main PID: 2241 (snips-nlu)
+   CGroup: /system.slice/snips-nlu.service
+           2241 /usr/bin/snips-nlu
+
+ snips-audio-server.service - Snips Audio Server
+   Loaded: loaded (/lib/systemd/system/snips-audio-server.service; enabled; vendor preset
+   Active: active (running) since Sun 2018-12-23 13:29:27 EST; 5min ago
+ Main PID: 1772 (snips-audio-ser)
+   CGroup: /system.slice/snips-audio-server.service
+           1772 /usr/bin/snips-audio-server
+
+ snips-dialogue.service - Snips Dialogue
+   Loaded: loaded (/lib/systemd/system/snips-dialogue.service; enabled; vendor preset: en
+   Active: active (running) since Sun 2018-12-23 13:32:25 EST; 2min 12s ago
+ Main PID: 2226 (snips-dialogue)
+   CGroup: /system.slice/snips-dialogue.service
+           2226 /usr/bin/snips-dialogue
+
+ snips-tts.service - Snips TTS
+   Loaded: loaded (/lib/systemd/system/snips-tts.service; enabled; vendor preset: enabled
+   Active: active (running) since Sun 2018-12-23 13:29:26 EST; 5min ago
+ Main PID: 1741 (snips-tts)
+   CGroup: /system.slice/snips-tts.service
+           1741 /usr/bin/snips-tts
+
+ snips-asr.service - Snips ASR
+   Loaded: loaded (/lib/systemd/system/snips-asr.service; enabled; vendor preset: enabled
+   Active: active (running) since Sun 2018-12-23 13:32:26 EST; 2min 11s ago
+ Main PID: 2240 (snips-asr)
+   CGroup: /system.slice/snips-asr.service
+
+
 ** SVN
 svn revert . --recursive
 svn update
