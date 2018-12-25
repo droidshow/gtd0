@@ -1988,6 +1988,26 @@ sudo apt install snips-audio-server snips-watch
 
 **** Unzip and copy assistant to /usr/share/snips
 
+*** Install Skill Server
+sudo apt install snips-template snips-skill-server
+
+*** Install python and pip
+sudo apt install python-pip
+sudo pip install virtualenv
+
+*** Create user
+sudo usermod -a -G snips-skills-admin $USER
+optionall
+ (sudo usermod -a -G spi,gpio _snips-skills)
+
+CTRL-D
+
+login
+
+*** Install skills
+snips-template render
+cd /var/lib/snips/skills
+for d in `ls -c`; do cd pushd $d && ./setup.sh && popd; done
 
 *** Start snips
 
@@ -2034,6 +2054,7 @@ sudo systemctl start "snips-*"
    Active: active (running) since Sun 2018-12-23 13:32:26 EST; 2min 11s ago
  Main PID: 2240 (snips-asr)
    CGroup: /system.slice/snips-asr.service
+
 
 
 ** SVN
