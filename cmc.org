@@ -121,7 +121,8 @@ https://www.keela.co/blog/nonprofit-fundraising/discounts-your-nonprofit-should-
     CLOSED: [2018-11-09 Fri 17:36]
 *** DONE Meet with domain host admin and add domain verification
     CLOSED: [2018-11-12 Mon 05:49] SCHEDULED: <2018-11-11 Sun 11:00>
-*** DO Send out mail the CMC org structure, roles , mail, group
+*** CANCELLED Send out mail the CMC org structure, roles , mail, group
+    CLOSED: [2018-12-26 Wed 09:47]
 *** CANCELLED Create users and add them to groups
     CLOSED: [2018-11-18 Sun 18:23]
 
