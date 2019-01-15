@@ -946,10 +946,11 @@ Sunday, May 20, 2018	BALOTSAV
      :LAST_REPEAT: [2018-10-19 Fri 12:04]
      :END:
 **** SCHED Check clocks after winter break                         :@ARCHANA:
-     SCHEDULED: <2019-01-07 Mon ++1y>
+     SCHEDULED: <2020-01-07 Tue ++1y>
+     - State "CANCELLED"  from "SCHED"      [2019-01-09 Wed 11:00]
      - State "DONE"       from "SCHED"      [2018-01-07 Sun 19:49]
      :PROPERTIES:
-     :LAST_REPEAT: [2018-01-07 Sun 19:49]
+     :LAST_REPEAT: [2019-01-09 Wed 11:00]
      :END:
 **** SCHED For winter Switch off water supply to outside outlet :MAINTENANCE:WATER:RECURRING:
      SCHEDULED: <2019-10-29 Tue ++1y>
@@ -1061,12 +1062,13 @@ Sunday, May 20, 2018	BALOTSAV
 ***** Lawn moving
 
 **** SCHED Schedule CMC CLEANUP
-     SCHEDULED: <2019-01-07 Mon ++6m>
+     SCHEDULED: <2019-07-07 Sun ++6m>
+     - State "DONE"       from "SCHED"      [2019-01-09 Wed 11:00]
      - State "DONE"       from "SCHED"      [2018-10-19 Fri 12:04]
      - State "DONE"       from "SCHED"      [2018-01-07 Sun 19:49]
      - State "DONE"       from "STARTED"    [2017-07-04 Tue 16:43]
      :PROPERTIES:
-     :LAST_REPEAT: [2018-10-19 Fri 12:04]
+     :LAST_REPEAT: [2019-01-09 Wed 11:00]
      :END:
 Refer [[Cleaning Checklist]]
 
