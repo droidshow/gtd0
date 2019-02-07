@@ -793,8 +793,8 @@ SUGGESTION: Can mention that site is still under construction.
 *** DONE Pay Scott $88.68 + $120                              :SCOTT:PAYMENT:
     CLOSED: [2017-07-10 Mon 07:57] SCHEDULED: <2017-04-30 Sun>
 ** SOMEDAY
-*** Website 
-    SCHEDULED: <2019-02-01 Fri>
+*** CANCELLED Website 
+    CLOSED: [2019-02-05 Tue 12:13] SCHEDULED: <2019-02-01 Fri>
  - [ ] Register button in the landing page should take to should take to /signup instead of /login
  - [ ] Register button at the bottom of following pages: /balavihar /balaviharclasses
  - [ ] Balaviar -> Enrolment should take to /signup iso /login
