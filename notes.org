@@ -1439,6 +1439,10 @@ Now, when myapp is executed, is continues to load libmylibrary.so.1 and still fu
 *** Netfilter / Iptables
 https://www.netfilter.org/
 
+** MAC
+*** Open mulitple instances of application from terminal
+/Path_To_Application.app/Contents/MacOS/Application &
+
 ** NETWORKING
 Wireshark TCP / IP / ETHERNET packet analysis
 http://networkstatic.net/what-are-ethernet-ip-and-tcp-headers-in-wireshark-captures/
