@@ -1441,7 +1441,7 @@ https://www.netfilter.org/
 
 ** MAC
 *** Open mulitple instances of application from terminal
-/Path_To_Application.app/Contents/MacOS/Application &
+/Application/<App>.app/Contents/MacOS/<App> &
 
 ** NETWORKING
 Wireshark TCP / IP / ETHERNET packet analysis
