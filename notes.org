@@ -40,6 +40,11 @@ Interface with Google Actions for perform custom actions
 ** ANDROID
 https://developer.android.com/training/basics/firstapp/running-app.html
 ftp://ftp.wayne.edu/ldp/en/Linux-Android-HOWTO/Linux-Android-HOWTO-single.html
+*** ADB
+*** LOGCAT
+**** To suppress messages from particular module
+logcat <module>:S *:V
+
 *** Android Init
 /init.rc
 /init.<hardware>.rc
@@ -432,6 +437,14 @@ Today view
 
 *** Git bash for windows, run script on startup
  "C:\Program Files\Git\git-bash.exe" -c -l "gtd [command]; read -p "Enter""
+
+*** Serial Port
+C-c C-k : Char mode 
+C-c C-j : Line mode (where your normal bindings apply).
+C-c k   : Kill buffer and discconnect in char mode, 
+C-x k   : Kill buffer and disconnect in line mode
+
+
 
 ** ENCRYPTION
 http://lifehacker.com/a-beginners-guide-to-encryption-what-it-is-and-how-to-1508196946
