@@ -1342,6 +1342,10 @@ https://gist.github.com/gubatron/32f82053596c24b6bec6
 *** FHS - File Hierarchy Standard
 https://wiki.debian.org/FilesystemHierarchyStandard
 
+*** Find and execute
+find . -exec cmd -option1 -option2 -- {} +
+find . -print0 | xargs -0 cmd -option1 -option2 --
+
 *** Init Systems
 System services, daemons, init
 
