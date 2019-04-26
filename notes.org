@@ -198,7 +198,8 @@ git commit -m "Initial commit"
 git remote add origin git@<>:/srv/git/gtd3/android/<project>.git
 git push origin master
 
-
+*** Gerrit
+https://gerrit-review.googlesource.com/Documentation/intro-user.html
 *** Graphics
 https://elinux.org/images/2/2b/Android_graphics_path--chis_simmonds.pdf
 https://source.android.com/devices/graphics/
