@@ -199,7 +199,77 @@ git remote add origin git@<>:/srv/git/gtd3/android/<project>.git
 git push origin master
 
 *** Gerrit
-https://gerrit-review.googlesource.com/Documentation/intro-user.html
+Introu : https://gerrit-review.googlesource.com/Documentation/intro-user.html
+Error Messages : https://gerrit-review.googlesource.com/Documentation/intro-user.html
+Review UI : https://gerrit-review.googlesource.com/Documentation/user-review-ui.html#change-screen
+
+
+Change - A proposal to merge, contains 1 or more patch sets
+Patch Set - A commit, last one in a Change is applied
+
+
+git commit
+git push origin HEAD:refs/for/master
+  refs/for prefix sends for review
+  or
+  git push origin HEAD:refs/for/frefs/heads/master
+
+git push origin HEAD:refs/heads/master
+  To by-pass review and directly commit
+
+git fetch https://gerrithost/myProject refs/changes/74/67374/2 && git checkout FETCH_HEAD
+  Fetch change for review. The id is available from download link in gerrit web page
+
+git commit --amend
+git push origin HEAD:refs/for/master
+  Push new patch set. Adds to previous Change
+
+git fetch https://gerrithost/myProject refs/changes/74/67374/2
+git checkout FETCH_HEAD
+# rework changes
+git add <reworked files>
+git commit --amend
+git psuh origin HEAD:refs/for/master
+
+
+REBASE
+
+git fetch
+  # update the remote tracking branches
+git fetch https://gerrithost/myProject refs/changes/74/67374/2 && git checkout FETCH_HEAD
+  # fetch and checkout the change
+  $ git rebase origin/master
+  # do the rebase
+# resolve conflicts if needed and stage the conflict resolution
+git add <path-of-file-with-conflicts-resolved>
+git rebase --continue
+ # continue the rebase
+git push origin HEAD:refs/for/master
+ # push the commit with the conflict resolution as new patch set
+
+
+TOPIC
+git pussh origin HEAD:refs/for/master%topic=something-something
+OR
+git push origing HEAD:refs/for/master -o topic=something-something
+
+
+HASHTAG
+git push origin HEAD:refs/for/master%t=something-something
+OR
+git push origin HEAD:refs/for/master -o t=something-something
+
+WORK IN PROGRESS
+git push origin HEAD:refs/for/master%wip
+  to mark a change as work in progress
+git push origin HEAD:refs/for/master%read
+  to mark a change ready for review
+
+
+PRIVATE
+git commit
+git push origin HEAD:refs/for/master%private
+
 *** Graphics
 https://elinux.org/images/2/2b/Android_graphics_path--chis_simmonds.pdf
 https://source.android.com/devices/graphics/
