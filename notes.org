@@ -1531,6 +1531,20 @@ https://www.netfilter.org/
 *** Open mulitple instances of application from terminal
 /Application/<App>.app/Contents/MacOS/<App> &
 
+*** Set Beyond Compare as compare tool
+- Launch Beyond Compare, go to the Beyond Compare menu and run Install Command Line Tools.
+- git config --global diff.tool bc3
+- To launch a diff using Beyond Compare, use the command:  
+  git difftool file.ext
+
+Merge tool
+- git config --global merge.tool bc3
+- git config --global mergetool.bc3.trustExitCode true
+
+- To launch a 3-way merge using Beyond Compare, use the command:  
+  git mergetool file.ext
+
+
 ** NETWORKING
 Wireshark TCP / IP / ETHERNET packet analysis
 http://networkstatic.net/what-are-ethernet-ip-and-tcp-headers-in-wireshark-captures/
