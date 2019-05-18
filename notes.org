@@ -270,6 +270,18 @@ PRIVATE
 git commit
 git push origin HEAD:refs/for/master%private
 
+
+
+**** PROBLEMS - error unpack failed error Missing tree fatal Unpack error, check server log
+
+git co <different branch>
+git pull
+git co <old branch>
+git push HEAD:refs/for/...
+
+
+
+
 *** Graphics
 https://elinux.org/images/2/2b/Android_graphics_path--chis_simmonds.pdf
 https://source.android.com/devices/graphics/
