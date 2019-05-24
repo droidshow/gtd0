@@ -469,6 +469,9 @@ dot -Tsvg -obig1.svg ./big1.dot
 Combining graphs
 https://stackoverflow.com/questions/16488216/graph-of-graphs-in-graphviz
 ** EMACS
+*** ^M
+M-x replace-string C-q C-m RET RET
+
 *** org-trello
 - https://org-trello.github.io/
 **** Limitation
@@ -500,7 +503,6 @@ https://stackoverflow.com/questions/16488216/graph-of-graphs-in-graphviz
 
 **** Sync contents of a board
 - M-x org-trello-sync-buffer
-
 
 
 
