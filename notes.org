@@ -505,7 +505,6 @@ M-x replace-string C-q C-m RET RET
 - M-x org-trello-sync-buffer
 
 
-
 *** Launch agenda on start up
 runemacs.exe --funcall org-agenda-list
 
@@ -520,6 +519,8 @@ Today view
 Today view
  (add-hook 'after-init-hook '(lambda () (org-agenda-list 1)))
 
+*** Links
+https://orgmode.org/manual/Handling-links.html
 *** Git bash for windows, run script on startup
  "C:\Program Files\Git\git-bash.exe" -c -l "gtd [command]; read -p "Enter""
 
