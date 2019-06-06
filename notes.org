@@ -40,6 +40,9 @@ Interface with Google Actions for perform custom actions
 ** ANDROID
 https://developer.android.com/training/basics/firstapp/running-app.html
 ftp://ftp.wayne.edu/ldp/en/Linux-Android-HOWTO/Linux-Android-HOWTO-single.html
+*** Audit
+setenforce 0
+
 *** ADB
 *** LOGCAT
 **** To suppress messages from particular module
