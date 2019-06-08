@@ -503,6 +503,7 @@ M-x package-
 
 **** To sync existing trello board to current org file
 - M-x org-trello-install-board-metadata
+- C-u M-x org-trello-sync-buffer
 
 **** To sync existing current org file to trello as a board
 - M-x org-trello-create-board-and-install-metadata
