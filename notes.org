@@ -673,6 +673,23 @@ Unstaging a staged file
 Revert to previous commit (throwing away local changes)
  git checkout <hash> -- <file>
 
+git revert
+   If you want to test the previous commit just do git checkout <test commit hash> ; then you can test that last working version of your project.
+   If you want to revert the last commit just do git revert <unwanted commit hash> ; then you can push this new commit, which undid your previous commit.
+   To fix the detached head do git checkout <current branch> .
+
+
+git remove untracked files and directories
+    To remove directories, run git clean -f -d or git clean -fd
+    To remove ignored files, run git clean -f -X or git clean -fX
+    To remove ignored and non-ignored files, run git clean -f -x or git clean -fx
+
+git reset
+  git reset --soft HEAD~1
+  git reset --hard HEAD~1
+  don't want to keep these changes, simply use the --hard flag. Be sure to only do this when you're sure you don't need these changes anymore.
+
+
 LINK:
 https://github.com/blog/2019-how-to-undo-almost-anything-with-git
 
