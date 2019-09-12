@@ -558,6 +558,36 @@ Pushing to repo
  git merge h-usb-1 
  git push
 
+*** Intro
+
+git help <verb>
+
+Git is a Distributed Version Control System (DVCS)
+Other DVCSs Mercurial, Bazar, Darcs
+Each repository is maintaned in its completeness on all clients and server. So loss at server/client can be replaced by the copy on client/server.
+
+Git doesn't think of data as a set of files and changes made to file over time, the deltas
+Git thinks of data like snapshot of the filesystem at different points of time.
+Git is like a mini-filesystem.
+
+All operations are local. So can work from anywhere with or without network connection.
+
+All checkins are checksummed with SHA1 hash - so integrity is maintained. Data is stored by hash value of content not by file name.
+
+It only adds data
+
+**** IMP - 3 STATES
+- MODIFIED : Local changes exist
+- STAGED / INDEXED : Marked a modified file in its current version to go into next commit snapshot
+- COMMITTED : Data safely stored in local database
+
+**** GIT WORKFLOW
+1. Modify files in working tree
+2. Stage the file, adding snapshots of them to staging area
+3. Commit, which takes the files as they are in the staging area and stores that snapshot permanently to Git directory
+
+Staging part can be skipped.
+
 *** Initial Setup and Config
 git config --local user.name "om"
 git config --local user.email "om@--.com"
@@ -822,7 +852,7 @@ To pull recent changes from master branch to current branch
 On conflict
 Resolve conflict and add
 
- git mergetool # visual tool for merging and removing conflict
+ git mergetoool # visual tool for merging and removing conflict
 
 Branch management
  git branch             # List of branches
