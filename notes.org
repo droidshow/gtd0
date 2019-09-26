@@ -2274,6 +2274,18 @@ svn update
 #List/search all the files
 svn list -R <URL>
 
+** TFTP
+
+*** MacOSX
+Start: sudo launchctl load -F /System/Library/LaunchDaemons/tftp.plist
+Check: netstat -atp | grep tftp
+Stop : sudo launchctl unload -F /System/Library/LaunchDaemons/tftp.plist
+
+Location: 
+ /private/tftpboot
+
+To receive, touch the file name 
+
 ** TV / STB
 *** BASICS
 http://www.itvdictionary.com/set-top_box.html
