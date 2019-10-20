@@ -1280,6 +1280,11 @@ Migrate
 - git ls-files --stage # Check file permission
 - git update-index --chmod=+x 'filename'  # Make filename executable
 
+
+*** Release 
+git archive -o <name>.zip <tag>
+E.g git archive -o Test_0.2.zip v0.2
+
 *** REFERENCE
 Separating topic branches
 https://www.kernel.org/pub/software/scm/git/docs/howto/separating-topic-branches.txt
