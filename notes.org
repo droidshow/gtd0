@@ -305,13 +305,38 @@ make installclean
 https://developer.android.com/distribute/best-practices/launch/localization-checklist.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#manage-strings
 **** xliff
 <xliff:g id="" example=""></xliff:g>
-*** Log
+*** Android Log
 String tag = "[";
 tag += this.getClass().toString();
 tag += " :: ";
 tag += Thread.currentThread().getStackTrace()[1].getMethodName().toString();
 tag += "]";
 Log.i(tag, "Message");
+
+Log:
+    for short, textual data
+    in-memory ringbuffer, fast
+    ephemeral (you'll lose it on a crash, or the ringbuffer scrolls)
+    intended for app developers
+
+EventLog is:
+
+    for short, binary data
+    in-memory ringbuffer, fast
+    ephemeral (you'll lose it on a crash, or the ringbuffer scrolls)
+    intended for platform developers to collect statistics
+
+DropBox:
+
+    for long text or binary data
+    persistent, written to disk
+    kinda slow (disk)
+    meant for platform developers too, mostly to collect crashes & large statistics
+    subject to limits, deleted by tag if a tag's count and/or size get too large
+
+DropBox is what we used during development to capture all the StrictMode violations in Gingerbread.
+
+You can use DropBox for one-off debugging, but it's not really recommended. It's definitely not recommended as a way to share data between apps. It's not reliable enough, and you can't put permissions on the data. You should just use a shared userid and use the normal filesystem with appropriate permissions.
 *** Message Queues
 - Does not support poxis messages
 - Beacuse can be potentially leaky and doesn't play well when system wants to kill process to save memory
