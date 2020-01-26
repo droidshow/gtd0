@@ -570,6 +570,11 @@ http://lifehacker.com/a-beginners-guide-to-encryption-what-it-is-and-how-to-1508
 http://lifehacker.com/five-best-file-encryption-tools-5677725
 http://lifehacker.com/whats-the-best-file-encryption-tool-1683834660
 
+AESAVS
+  AES Test Vectors
+  https://csrc.nist.gov/CSRC/media/Projects/Cryptographic-Algorithm-Validation-Program/documents/aes/AESAVS.pdf
+
+
 ** GIT
 Getting latest from repo
  git pull
