@@ -1659,6 +1659,14 @@ https://www.netfilter.org/documentation/HOWTO/NAT-HOWTO.html
 
 ** Oracle
 https://docs.oracle.com/cd/B28359_01/index.htm
+** OPEN SSH
+https://help.ubuntu.com/community/SSH/OpenSSH/Keys
+
+ssh-keygen
+
+ssh-copy-id user@hostname.example.com
+ssh-copy-id "user@hostname.example.com -p <port-number>"
+
 ** DO RASPBERRYPI 
 *** DO PiCore for fast boot
 *** STARTED https://www.raspberrypi.org/documentation/linux/           
