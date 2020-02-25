@@ -2733,7 +2733,7 @@ VBoxManage.exe modifyhd <name>.vdi --resize 100000
 
 **** Mount shared drive
 sudo mount -t vboxsf vmshared ~/host
-sshfs sbekal@10.0.4.151:/home/sbekal/ /home/s/om/projs/buildserver
+sshfs sbeker@10.0.4.151:/home/sbeker/ /home/s/om/projs/buildserver
 
 **** Virtual Box Guest Addition
 Download the guest addition for each update from here:
