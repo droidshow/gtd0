@@ -224,7 +224,7 @@ git push origin HEAD:refs/heads/master
 git fetch https://gerrithost/myProject refs/changes/74/67374/2 && git checkout FETCH_HEAD
   Fetch change for review. The id is available from download link in gerrit web page
 
-git commit --amend
+git commit --amendx
 git push origin HEAD:refs/for/master
   Push new patch set. Adds to previous Change
 
