@@ -30,7 +30,7 @@ Interface with Google Actions for perform custom actions
 - low level apis for more flexibility and other platform and language support
 - https://developers.google.com/assistant/sdk/develop/grpc/
 
-**** STARTED Extend the assistan with unique functionalities with Google Actions
+**** DO Extend the assistan with unique functionalities with Google Actions
 - https://developers.google.com/actions/
 - Use dialogflow to build apps
 
@@ -1355,7 +1355,7 @@ $ libtool --mode=execute gdb --args gstreamer/tools/gst-launch-1.0 videotestsrc 
 *** Fresh checkout and build
 Copy the notes here
 
-*** STARTED Plugin Writers Guide                             :GSTREAMER:HEAD:
+*** DO Plugin Writers Guide                                  :GSTREAMER:HEAD:
 :GSTREAMER:HEAD:2: https://gstreamer.freedesktop.org/documentation/plugin-development/basics/testapp.html
 
 **** Keywords and terminologies
@@ -1669,8 +1669,8 @@ ssh-copy-id "user@hostname.example.com -p <port-number>"
 
 ** DO RASPBERRYPI 
 *** DO PiCore for fast boot
-*** STARTED https://www.raspberrypi.org/documentation/linux/           
-**** STARTED https://www.raspberrypi.org/documentation/linux/usage/README.md :RPI:HEAD:
+*** DO https://www.raspberrypi.org/documentation/linux/           
+**** DO https://www.raspberrypi.org/documentation/linux/usage/README.md :RPI:HEAD:
 ***** DONE https://fedoramagazine.org/what-is-an-init-system/   :RPI:
 
 *** AUDIO BOARDS
