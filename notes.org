@@ -1352,6 +1352,9 @@ https://arunraghavan.net/talks/
 Running with GDB
 $ libtool --mode=execute gdb --args gstreamer/tools/gst-launch-1.0 videotestsrc ! videoconvert ! xvimagesink
 
+Converting .dot file to .png files
+ mv *.png ./old_pngs/ ; for i in $( ls *.dot ) do; dot -Tpng -o$i.png $i && rm $i; done
+
 *** Fresh checkout and build
 Copy the notes here
 
